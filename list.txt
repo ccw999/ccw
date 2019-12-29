@@ -1,4 +1,9 @@
 港台,#genre#
+爆谷台,p2p://lino.homeunix.com:6007/5b326356000e27761d60fc701ff36973.ts
+
+港视31,p2p://lino.homeunix.com:6007/5b1ea0dc000bba59d03063fa2f1a513c.ts
+
+港视32,p2p://lino.homeunix.com:6007/5b1ea120000af380d0316d6b59657817.ts
 
 TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv
 DWTV,http://pili-live-hdl.qhmywl.com/dsdtv/a4aa25e01a432729323f4d0778605887.flv
