@@ -1,7 +1,7 @@
 港台,#genre#
-TVBJ2,vjms://121.14.222.75:8500:3502/live/cid=368#vjms://121.14.222.75:8500:3502/live/cid=363#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
-TVB明珠台,vjms://121.14.222.75:8500:3502/live/cid=367#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
-TVB翡翠台,vjms://121.14.222.75:8500:3502/live/cid=362
+TVB J2,http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv#vjms://121.14.222.75:8500:3502/live/cid=363
+TVB翡翠台,http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv
+TVB Pearl明珠台,http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv
 TVB無線新聞台,vjms://121.14.222.75:8500:3502/live/cid=366
 TVB有線18台,vjms://121.14.222.75:8500:3502/live/cid=364
 NOWTV,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=202&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
@@ -9,9 +9,11 @@ VIU TVHD,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
 VIU TV6HD,P2p://sdgdklwos.finetv.tv:9906/5ad32bae0001dd1049ed9be114c818f0
 澳门澳亚卫视台,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 寰宇新聞,http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
 非凡新聞,http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
+華視HD,http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv
+中視经典,http://pili-live-hdl.qhmywl.com/dsdtv/75249ac8b464466a9c41c669bd27260a.flv
+中視HD,http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv
 中天新闻,http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv
 東森新聞,http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
 東森財經新聞,http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
@@ -32,9 +34,6 @@ Channel V,http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e
 居家台,http://61.58.60.230:9319/live/125.m3u8
 澳亞衛視,vjms://121.14.222.75:8500:3502/live/cid=337
 民視HD,vjms://121.14.222.75:8500:3502/live/cid=450
-華視HD,vjms://121.14.222.75:8500:3502/live/cid=451
-中視经典,http://pili-live-hdl.qhmywl.com/dsdtv/75249ac8b464466a9c41c669bd27260a.flv
-中視HD,vjms://121.14.222.75:8500:3502/live/cid=452
 台視HD,vjms://121.14.222.75:8500:3502/live/cid=453
 公視3HD,vjms://121.14.222.75:8500:3502/live/cid=436
 大愛,vjms://121.14.222.75:8500:3502/live/cid=442
@@ -42,9 +41,6 @@ Channel V,http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e
 民視新聞,vjms://121.14.222.75:8500:3502/live/cid=454
 年代MUCH,vjms://121.14.222.75:8500:3502/live/cid=439
 年代新聞,vjms://121.14.222.75:8500:3502/live/cid=455
-東森新聞,vjms://121.14.222.75:8500:3502/live/cid=340
-中天新聞,vjms://121.14.222.75:8500:3502/live/cid=407
-非凡新聞,vjms://121.14.222.75:8500:3502/live/cid=443
 華視新聞,vjms://121.14.222.75:8500:3502/live/cid=451
 緯來日本,vjms://121.14.222.75:8500:3502/live/cid=102
 東森綜合,vjms://121.14.222.75:8500:3502/live/cid=333
@@ -128,15 +124,6 @@ CCTV-13新闻,http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8
 CCTV-14少儿,http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8
 CCTV-15音乐,http://121.31.30.90:8085/ysten-business/live/cctv-15/yst.m3u8
 湖南卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000153.m3u8
-廣東衛視,vjms://121.14.222.75:8500:3502/live/cid=86
-湖南衛視,vjms://121.14.222.75:8500:3502/live/cid=490
-江蘇衛視,vjms://121.14.222.75:8500:3502/live/cid=485
-東方衛視,vjms://121.14.222.75:8500:3502/live/cid=487
-深圳衛視,vjms://121.14.222.75:8500:3502/live/cid=87
-北京衛視,vjms://121.14.222.75:8500:3502/live/cid=472
-浙江衛視,vjms://121.14.222.75:8500:3502/live/cid=488
-安徽衛視,vjms://121.14.222.75:8500:3502/live/cid=471
-求索生活,vjms://121.14.222.75:8500:3502/live/cid=471
 番禺,http://live.pybtv.cn/channel1/sd/live.m3u8
 深圳蛇口,http://218.17.99.211:82/hls/d4encs75.m3u8
 广东经济科教HD,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
@@ -160,12 +147,11 @@ HBO 强档,http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6
 HBO 原创,http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv#http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
 HBO 家庭,http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
 FOX 电影,http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.flv
-FOX 罪案,http://cloud-play.hhalloy.com/live/833d6cdeed807b755e6c449832b26621.flv
 AMC,http://pili-live-hdl.qhmywl.com/dsdtv/40d0812307cd389be76c358de7f4913e.flv
 CINEMAX,http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
 CINEMAX,http://cloud-play.hhalloy.com/live/9bece52b2f72795cc2f588f3d9e4eed3.flv
 Cinema World,http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv
-光影欧洲,http://cloud-play.hhalloy.com/live/2d2f46a778c93f01b614213456fc97fc.flv
+光影欧洲電影台,http://pili-live-hdl.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv
 Fox家庭影院,http://pili-live-hdl.qhmywl.com/dsdtv/440b3d3c474813d7ead7d3a795978e69.flv
 好萊塢電影,http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv#http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
 東森洋片,http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
@@ -176,7 +162,6 @@ AXN,http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv
 FX HD,http://pili-live-hdl.qhmywl.com/dsdtv/245532ab74af9be852014a93e292f690.flv
 好莱坞电影6,http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 好莱坞电影11,http://pili-live-hdl.qhmywl.com/dsdtv/2ff14655a982c6d2be2a8b0c5649d257.flv
-DIVA,http://cloud-play.hhalloy.com/live/2ff14655a982c6d2be2a8b0c5649d257.flv
 星衛HD電影,http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
 美亞電影,http://pili-live-hdl.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.flv#http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
 强档巨献,http://pili-live-hdl.qhmywl.com:80/dsdtv/e6d6d3927102ce6e0e99187b52946497.m3u8
@@ -187,8 +172,6 @@ DIVA,http://cloud-play.hhalloy.com/live/2ff14655a982c6d2be2a8b0c5649d257.flv
 影迷電影臺,http://pili-live-hdl.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.flv#http://cloud-play.hhalloy.com/live/991d0a1e4fc3c270d037fae11c587741.flv
 CatchPlay電影,http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
 彩昌影劇臺,http://pili-live-hdl.qhmywl.com/dsdtv/b93ac92b703885f3cfe39bad8aa689d1.flv
-BLUE ANT EXTREME,http://pili-live-hdl.qhmywl.com/dsdtv/7b3b2e1d0006091415635226a2ac5d86.flv
-BLUE ANT ENTERTAINMET,http://pili-live-hdl.qhmywl.com/dsdtv/41005bf306743766c5affb055bc5c164.flv
 TVN,http://pili-live-hdl.qhmywl.com/dsdtv/060e39b20b7616170ba4ba63c53bc336.flv
 龍祥时代,http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
 衛視電影,http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
