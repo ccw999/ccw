@@ -197,6 +197,13 @@ TVN,http://pili-live-hdl.qhmywl.com/dsdtv/060e39b20b7616170ba4ba63c53bc336.flv
 黄山排云亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
 黄山西海大峡谷,https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
 黄山平天矼,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+乐山大佛,http://gccncc.v.wscdns.com/gc/lsdfgfl_1.flv
+银链坠潭,http://gccncc.v.wscdns.com/gc/hgsylztpb_1.flv
+黄果树六角亭,http://gccncc.v.wscdns.com/gc/hgsspzxdpb_1.flv
+黄龙（五彩池）,http://gcalic.v.myalicdn.com/gc/hlwcc_1.flv
+争艳彩池,http://gcalic.v.myalicdn.com/gc/hlwcc_1.flv
+丹梯铁索,http://gccncc.v.wscdns.com/gc/dxsdtts_1.flv
+韶音亭,http://gccncc.v.wscdns.com/gc/dxssyt_1.flv
 云台山红石硖,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
 泰山主峰,https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
 泰山迎客松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
