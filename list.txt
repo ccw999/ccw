@@ -4,6 +4,7 @@ TVB翡翠台,http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb30
 TVB Pearl明珠台,http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv
 TVB無線新聞台,vjms://23.237.33.155:8500:3502/live/cid=366#vjms://121.14.222.75:8500:3502/live/cid=366
 TVB有線18台,vjms://23.237.33.155:8500:3502/live/cid=364
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 寰宇新聞,http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
@@ -73,12 +74,16 @@ CNBC,vjms://23.237.33.155:8500:3502/live/cid=98
 越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 高清时装台WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 卡通動畫,#genre#
+优漫卡通,http://111.40.205.87/PLTV/88888888/224/3221225656/index.m3u8#http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-
+8C:6D:50:4C:91:52&accountinfo=hXBFdY8JcLiQHugFbkaqLij8XACrkLt6Sn3u0QkkizaIsIJmP1UxBAq03L3WxNlz%2BAhLv89U3HWKFogUjLcRuU%2BwWipdMTdABhAgmyZ6eCKeOgrOTj6kNi%2BIx6ovV9nM1vZngman2s%2FXYrOfrmB2EQ%3D%3D
+%3A20180401124733%2C18851042983%2C112.25.7.203%2C20180401124733%2CG_YOUMAN%2C60135CF8EDE111C45722B872F9A14F67%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
 東森幼幼,vjms://23.237.33.155:8500:3502/live/cid=344
 迪士尼卡通,vjms://23.237.33.155:8500:3502/live/cid=361
+黑莓动画,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8#http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+动漫电影超清,http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
 CN卡通,vjms://23.237.33.155:8500:3502/live/cid=422
 體育,#genre#
 CCTV-5+超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ#http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8#http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
-TRACE Sports,http://pili-live-hdl.qhmywl.com/dsdtv/3b88f91a420e6cd59cd034ccf2a05c10.flv
 博斯高球1,http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv
 博斯高球2,http://pili-live-hdl.qhmywl.com/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.flv
 博斯魅力,http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv
@@ -94,6 +99,10 @@ NBA HD,P2p://sdgdklwos.finetv.tv:9906/59fd169800027ee0026cbdab73845c4a
 福克斯体育1[HD],http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
 福克斯体育2[HD],http://pili-live-hdl.qhmywl.com/dsdtv/a726b0d8db38a23435c5c3ba95507d3e.flv
 福克斯体育3,http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+百事超级体育超清,http://112.17.40.140/PLTV/88888888/224/3221226594/index.m3u8
+百事体育2超清,http://112.17.40.140/PLTV/88888888/224/3221226592/index.m3u8
+百事体育3超清,http://112.17.40.140/PLTV/88888888/224/3221226683/index.m3u8
+百事体育4超清,http://112.17.40.140/PLTV/88888888/224/3221226685/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226681/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226596/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226689/index.m3u8
 央视地方,#genre#
 CCTV-1综合HD,http://121.31.30.90:8085/ysten-business/live/cctv-1/yst.m3u8
 CCTV-2财经,http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8
@@ -110,6 +119,8 @@ CCTV-12社会与法,http://121.31.30.90:8085/ysten-business/live/cctv-12/yst.m3u
 CCTV-13新闻,http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8
 CCTV-14少儿,http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8
 CCTV-15音乐,http://121.31.30.90:8085/ysten-business/live/cctv-15/yst.m3u8
+音乐台超清,http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
+舌尖上的中国超清,http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 湖南卫视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000153.m3u8
 番禺,http://live.pybtv.cn/channel1/sd/live.m3u8
 深圳蛇口,http://218.17.99.211:82/hls/d4encs75.m3u8
@@ -124,6 +135,7 @@ CCTV-15音乐,http://121.31.30.90:8085/ysten-business/live/cctv-15/yst.m3u8
 广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 广东公共,http://nclive.grtn.cn/ggpd/sd/live.m3u8
 广东国际,http://nclive.grtn.cn/gjpd/sd/live.m3u8
+广东综艺超清,http://nclive.grtn.cn:80/4K/sd/live.m3u8
 珠江频道,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
 珠江电影,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=7&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVS2 南方卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
