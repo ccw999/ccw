@@ -41,9 +41,9 @@ TVS5 广东少儿,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&
 新会综合,http://183.238.77.9:9090/live/xinhui_1500.m3u8
 佛山综合,http://183.238.77.9:9090/live/foshannews_1500.m3u8
 佛山公共,http://183.238.77.9:9090/live/foshanyingshi_1500.m3u8
-汕头一套HD,http://27.36.62.162:9090/live/shantouyitaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
-汕头二套HD,http://27.36.62.162:9090/live/shantouertaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
-汕头三套HD,http://27.36.62.162:9090/live/shantousantaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
+汕头一套HD,http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
+汕头二套HD,http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
+汕头三套HD,http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
 港台新闻,#genre#
 TVB无线新闻台,p2p://185.169.196.146:9906/5a562bec0007bfd761a2998e00b83dd5.ts#http://www.liveviptv.xyz/tv/tvb.php#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
 明珠台,p2p://185.169.196.146:9906/59fd0d0a0009323a02476cb020fe16f9.ts
