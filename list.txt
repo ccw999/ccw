@@ -36,8 +36,11 @@ CCTV-15音乐,http://121.31.30.90:8085/ysten-business/live/cctv-15/yst.m3u8
 TVS2 南方卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVS5 广东少儿,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=231&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 广东南方卫视,p2p://185.169.196.146:9906/59fd30fb0002434d02d3d053299809c9.ts
+汕头一套HD,http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
+汕头二套HD,http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
+汕头三套HD,http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
 港台新闻,#genre#
-TVB无线新闻台,p2p://185.169.196.146:9906/5a562bec0007bfd761a2998e00b83dd5.ts#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
+TVB无线新闻台,p2p://185.169.196.146:9906/5a562bec0007bfd761a2998e00b83dd5.ts#http://www.liveviptv.xyz/tv/tvb.php#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
 明珠台,p2p://185.169.196.146:9906/59fd0d0a0009323a02476cb020fe16f9.ts
 TVBS新闻台 HD,p2p://185.169.196.146:9906/59fd096d0003aa9702394e013b6206a2.ts#vjms://23.237.33.155:8500:3502/live/cid=348
 TVBS,p2p://185.169.196.146:9906/59fd20d3000f24fd0294b75f4a555e2a.ts#vjms://23.237.33.155:8500:3502/live/cid=349
@@ -240,6 +243,7 @@ Discovery动力频道 HD,p2p://185.169.196.146:9906/59fd2846000cb99902b1cffa3bb3
 TLC旅游生活,p2p://185.169.196.146:9906/59fd0b9100084afb0241abca38654efa.ts#vjms://23.237.33.155:8500:3502/live/cid=103
 EYETV旅游 HD,p2p://185.169.196.146:9906/59fd27c4000cb3b102afd41b5cc4003d.ts#mitv://198.255.74.87:9906/5dc08f1b0009402f01b7f5558e2ba763.ts
 信大HD,P2p://51.79.41.138:18912/5b14096a000c1de217d2647a3e82534a.ts
+台湾生命电视台,http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1#http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_1200K_ts&cpid=admin&size=1280X720&toflv=1#http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=15
 佛衛慈悲台,P2p://51.79.41.138:18912/5bdbf39c000a4154d21721c16bc7247c.ts#p2p://185.169.196.146:9906/59fd2a4f00097fcf02b9c2482e3e76cf.ts
 GOOD TV好消息,P2p://51.79.41.138:18912/5bdbf39200017a4bd216f86f7a511c7b.ts
 大愛1,p2p://185.169.196.146:9906/59fd173e0004273a026f46886dde4613.ts
