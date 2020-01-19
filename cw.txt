@@ -36,6 +36,11 @@ CCTV-15音乐,http://121.31.30.90:8085/ysten-business/live/cctv-15/yst.m3u8
 TVS2 南方卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVS5 广东少儿,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=231&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 广东南方卫视,p2p://185.169.196.146:9906/59fd30fb0002434d02d3d053299809c9.ts
+南海综合,http://183.238.77.9:9090/live/nanhaitai_2000.m3u8
+顺德综合,http://183.238.77.9:9090/live/shundetai_2000.m3u8
+新会综合,http://183.238.77.9:9090/live/xinhui_1500.m3u8
+佛山综合,http://183.238.77.9:9090/live/foshannews_1500.m3u8
+佛山公共,http://183.238.77.9:9090/live/foshanyingshi_1500.m3u8
 汕头一套HD,http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
 汕头二套HD,http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
 汕头三套HD,http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
