@@ -53,9 +53,9 @@ TVBS,p2p://185.169.196.146:9906/59fd20d3000f24fd0294b75f4a555e2a.ts#vjms://23.23
 有线18台,http://61.147.122.14/flv.live.xylive.tv/live/18tai.flv
 viu six,p2p://185.169.196.146:9906/5b389c92000621bc35b08cbd438b4298.ts
 viu TV,p2p://185.169.196.146:9906/59fd171800092000026eb35003107eef.ts
-凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
+凤凰香港,http://stream.mtime.info/live/fhwsxg/fhwsxg.m3u8#p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv#p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts#vjms://23.237.33.155:8500:3502/live/cid=400
-凤凰资讯,vjms://23.237.33.155:8500:3502/live/cid=401#p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
+凤凰资讯,http://stream.mtime.info/live/fhzx/fhwszx.m3u8#http://47.102.142.200/live/fhzx/fhwszx.m3u8#p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
 年代新闻,http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv#p2p://185.169.196.146:9906/5a56230e0004af51617ff5935a3e292e.ts
 非凡新闻,p2p://185.169.196.146:9906/59fd05f30007004f022bba4b77671d93.ts#vjms://23.237.33.155:8500:3502/live/cid=443
 三立新闻,p2p://185.169.196.146:9906/59fd08fd000707490237995b3c9f2775.ts#vjms://23.237.33.155:8500:3502/live/cid=352
