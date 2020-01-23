@@ -49,7 +49,7 @@ TVB无线新闻台,http://61.147.122.15/flv.live.xylive.tv/live/00wxxw.flv#p2p:/
 明珠台,p2p://185.169.196.146:9906/59fd0d0a0009323a02476cb020fe16f9.ts
 TVBS新闻台 HD,p2p://185.169.196.146:9906/59fd096d0003aa9702394e013b6206a2.ts#vjms://23.237.33.155:8500:3502/live/cid=348
 TVBS,p2p://185.169.196.146:9906/59fd20d3000f24fd0294b75f4a555e2a.ts#vjms://23.237.33.155:8500:3502/live/cid=349
-有线新闻台,http://61.147.122.14/flv.live.xylive.tv/live/youxianxinwen.flv
+有线新闻台,http://61.147.122.14/flv.live.xylive.tv/live/youxianxinwen.flv#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8#
 有线18台,http://61.147.122.14/flv.live.xylive.tv/live/18tai.flv
 viu six,p2p://185.169.196.146:9906/5b389c92000621bc35b08cbd438b4298.ts
 viu TV,p2p://185.169.196.146:9906/59fd171800092000026eb35003107eef.ts
@@ -146,7 +146,7 @@ CHINA MOVIE,p2p://185.169.196.146:9906/59fd31940007515202d627434d991d4f.ts
 珠江電影,p2p://185.169.196.146:9906/5a6c94d5000dae17b92d43033f1e125d.ts
 好莱坞电影,p2p://185.169.196.146:9906/5a141b66000b4be65f90135822b40e43.ts#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 综合娱乐,#genre#
-TVB J2,http://stream.mtime.info/live/tvbj2/tvbj2.m3u8#p2p://185.169.196.146:9906/59fd25e80008aaec02a88fc1476f2edf.ts#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf#vjms://23.237.33.155:8500:3502/live/cid=363#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+TVB J2,p2p://185.169.196.146:9906/59fd25e80008aaec02a88fc1476f2edf.ts#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf#vjms://23.237.33.155:8500:3502/live/cid=363#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367#p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#mitv://198.255.74.87:9906/5dc08f2e0006a51101b83ee3493e8249.ts
 TVB翡翠台,http://61.147.122.15/flv.live.xylive.tv/live/00fc.flv#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 民視台灣台HD,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c.ts#p2p://185.169.196.146:9906/59fd0670000decc5022da459628c3d1a.ts
