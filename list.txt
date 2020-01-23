@@ -886,6 +886,12 @@ HOT星颜 高清,P2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 K频道 高清,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 红粉台 高清,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
 樱花台 高清,p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
+青春乐园台(高清),p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
+乐活台(高清),p8p://0198.02686.cc:16871/5d25b7e80003e23d0a2fcce197673935.ts
+舒活台(高清),p8p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
+PLAYBOY,http://46.29.165.95:8081/stream/Playboy/chunks.m3u8
+Hustler HD,http://46.29.165.95:8081/stream/Hustler-HD/chunks.m3u8
+俄罗斯菊花台,http://46.29.165.95:8081/stream/Runight/chunks.m3u8
 本道無碼1,p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
 本道無碼2,p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
 本道無碼3,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
