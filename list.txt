@@ -250,11 +250,8 @@ Discovery动力频道 HD,p2p://185.169.196.146:9906/59fd2846000cb99902b1cffa3bb3
 TLC旅游生活,p2p://185.169.196.146:9906/59fd0b9100084afb0241abca38654efa.ts#vjms://23.237.33.155:8500:3502/live/cid=103
 EYETV旅游 HD,p2p://185.169.196.146:9906/59fd27c4000cb3b102afd41b5cc4003d.ts#mitv://198.255.74.87:9906/5dc08f1b0009402f01b7f5558e2ba763.ts
 信大HD,P2p://51.79.41.138:18912/5b14096a000c1de217d2647a3e82534a.ts
-台湾生命电视台,http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1#http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_1200K_ts&cpid=admin&size=1280X720&toflv=1#http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=15
 佛衛慈悲台,P2p://51.79.41.138:18912/5bdbf39c000a4154d21721c16bc7247c.ts#p2p://185.169.196.146:9906/59fd2a4f00097fcf02b9c2482e3e76cf.ts
 GOOD TV好消息,P2p://51.79.41.138:18912/5bdbf39200017a4bd216f86f7a511c7b.ts
-大愛1,p2p://185.169.196.146:9906/59fd173e0004273a026f46886dde4613.ts
-大愛2,P2p://51.79.41.138:18912/5bdbf3990002e4dcd217142515c50e46.ts#p2p://185.169.196.146:9906/5c02a25d000ddbf1c1013841154449d4.ts
 亚洲旅游台 HD,p2p://185.169.196.146:9906/59fd0809000909e90233e0b820d34ea5.ts#mitv://198.255.74.87:9906/5dc08f140004b9df01b7d8d57910c45c.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439#vjms://23.237.33.155:8500:3502/live/cid=439
 亚洲美食 HD,p2p://185.169.196.146:9906/59fd27e40007382002b04fb323e85206.ts
@@ -282,6 +279,64 @@ E! Entertainment,mitv://198.255.74.87:9906/5dc08f050005745d01b79e6d8bd2cbe8.ts
 Ci罪案偵緝 HD,p2p://185.169.196.146:9906/59fd2824000df04802b14b7973731f54.ts#mitv://198.255.74.87:9906/5dc08f050004997001b79e35b0f8145d.ts
 Disney Channel迪士尼卡通(國語),P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
 Disney Channel迪士尼卡通(日语),P2p://51.79.41.138:18912/5b140a57000904a717d60176480b2673.ts
+韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+大爱一台,http://tv1.wanfudaluye.com/live/live.m3u8
+大爱二台,http://tv2.wanfudaluye.com/live/live.m3u8
+大爱海外台,http://tv3.wanfudaluye.com/live/live.m3u8
+人间卫视,http://54.64.23.79:1935/live/vod/playlist.m3u8
+人间卫视,http://54.64.23.79:1935/live/vod/chunklist_w2045233730.m3u8
+人间卫视,http://54.64.23.79:1935/live/vod/chunklist_w226782990.m3u8
+人间卫视,http://54.64.23.79:1935/live/vod/chunklist_w1420404598.m3u8
+华藏卫视,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+华藏卫视,http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w119159473.m3u8
+华藏卫视,http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w1204199278.m3u8
+孝廉电视台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+孝廉电视台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/chunklist.m3u8
+佛卫慈悲台,http://btsu4k5-hisng.cdn.hinet.net/live/pool/bts-Live1/hievent-hls/index.m3u8
+唯心电视台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+唯心頻道,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+生命电视台,http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
+生命电视台,http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1280X720
+生命电视台,http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1280X720
+净宗学院网络直播,http://hls.ciguang.tv/hdtv/video.m3u8?auth_key=1557799219-0-0-4c865ccdb89d8eb4cbe54be628c127d9
+香港佛陀教育协会,http://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+香港佛陀教育协会,http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+净空老法师讲经直播台(台湾线路,https://tw1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+净空老法师讲经直播台,https://tw3.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+净空老法师讲经直播台,https://hk1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+净空老法师讲经直播台,https://sg1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+净空老法师讲经,https://hk1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+净空老法师讲经,https://tw3.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+净空老法师讲经,https://hk2.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+净空老法师讲经,https://sg1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+净空老法师讲经,http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w660449818.m3u8
+净空老法师讲经,http://amtbsg.cloudapp.net/redirect/liveedge/_definst_/livetv/chunklist_w872255516.m3u8
+净空老法师讲经,http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w577962608.m3u8
+悟道法师讲经,https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+悟道法师讲经,https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+悟道法师讲经,https://hk2.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+悟道法师讲经,https://sg1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+多元文化,https://tw2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+多元文化,https://tw3.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+多元文化,https://de1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+多元文化,https://hk2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+多元文化,https://sg1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+繫念法會,https://tw1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+繫念法會,https://tw3.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+繫念法會,https://de1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+繫念法會,https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+繫念法會,https://sg1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+网络念佛堂,https://tw1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+网络念佛堂,https://tw3.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+网络念佛堂,https://de1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+网络念佛堂,https://hk2.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+网络念佛堂,https://sg1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+儒释道网络电视台,http://amtbsg.cloudapp.net/liveedge/_definst_/cult/chunklist_w856981860.m3u8
+番薯电视台,http://211.73.19.201/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size=720X480
+信吉电视台,http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
+禅修电视台,http://210.209.3.1/live/A0F68EE9-C2D8-CE9D-87A6-5A405AAC3B8E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1&start=0
+禅修电视台,http://210.209.3.1/live/A0F68EE9-C2D8-CE9D-87A6-5A405AAC3B8E.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 卡通動畫,#genre#
 优漫卡通,http://111.40.205.87/PLTV/88888888/224/3221225656/index.m3u8#http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=hXBFdY8JcLiQHugFbkaqLij8XACrkLt6Sn3u0QkkizaIsIJmP1UxBAq03L3WxNlz%2BAhLv89U3HWKFogUjLcRuU%2BwWipdMTdABhAgmyZ6eCKeOgrOTj6kNi%2BIx6ovV9nM1vZngman2s%2FXYrOfrmB2EQ%3D%3D%3A20180401124733%2C18851042983%2C112.25.7.203%2C20180401124733%2CG_YOUMAN%2C60135CF8EDE111C45722B872F9A14F67%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
 東森幼幼,p2p://185.169.196.146:9906/5a32188e00095e2bd4b5d0737fe325f5.ts#vjms://23.237.33.155:8500:3502/live/cid=344
@@ -299,13 +354,9 @@ Baby TV 英语,p2p://185.169.196.146:9906/59fd088b000b59000235dd256d3d4ad5.ts
 天眼频道,#genre#
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 银链坠潭,http://gccncc.v.wscdns.com/gc/hgsylztpb_1.flv
-
 黄果树六角亭,http://gccncc.v.wscdns.com/gc/hgsspzxdpb_1.flv
-
 黄龙（五彩池）,http://gcalic.v.myalicdn.com/gc/hlwcc_1.flv
-
 丹梯铁索,http://gccncc.v.wscdns.com/gc/dxsdtts_1.flv
-
 韶音亭,http://gccncc.v.wscdns.com/gc/dxssyt_1.flv
 上海这一刻：魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 上海这一刻：陆家嘴,http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
