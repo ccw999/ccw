@@ -1,1263 +1,1367 @@
 #EXTM3U
-#EXTINF:-1,CCTV-1综合HD
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-1综合HD
 http://121.31.30.90:8085/ysten-business/live/cctv-1/yst.m3u8
-#EXTINF:-1,CCTV-2财经
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-2财经
 http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8
-#EXTINF:-1,CCTV-3综艺HD
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-3综艺HD
 http://121.31.30.90:8085/ysten-business/live/cctv-3/yst.m3u8
-#EXTINF:-1,CCTV-4中文国际
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-4中文国际
 http://121.31.30.90:8085/ysten-business/live/cctv-4/yst.m3u8
-#EXTINF:-1,CCTV-5体育HD
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-5体育HD
 http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
-#EXTINF:-1,CCTV-6电影HD
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-6电影HD
 http://121.31.30.90:8085/ysten-business/live/cctv-6/yst.m3u8
-#EXTINF:-1,CCTV-7军事农业
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-7军事农业
 http://121.31.30.90:8085/ysten-business/live/cctv-7/yst.m3u8
-#EXTINF:-1,CCTV-8电视剧HD
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-8电视剧HD
 http://121.31.30.90:8085/ysten-business/live/cctv-8/yst.m3u8
-#EXTINF:-1,CCTV-9记录
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-9记录
 http://121.31.30.90:8085/ysten-business/live/cctv-news/yst.m3u8
-#EXTINF:-1,CCTV-10科教
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-10科教
 http://121.31.30.90:8085/ysten-business/live/cctv-10/yst.m3u8
-#EXTINF:-1,CCTV-11戏曲
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-11戏曲
 http://121.31.30.90:8085/ysten-business/live/cctv-11/yst.m3u8
-#EXTINF:-1,CCTV-12社会与法
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-12社会与法
 http://121.31.30.90:8085/ysten-business/live/cctv-12/yst.m3u8
-#EXTINF:-1,CCTV-13新闻
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-13新闻
 http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8
-#EXTINF:-1,CCTV-14少儿
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-14少儿
 http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8
-#EXTINF:-1,CCTV-15音乐
+#EXTINF:-1 group-title="央视地方,#genre#",CCTV-15音乐
 http://121.31.30.90:8085/ysten-business/live/cctv-15/yst.m3u8
-#EXTINF:-1,音乐台超清
+#EXTINF:-1 group-title="央视地方,#genre#",音乐台超清
 http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
-#EXTINF:-1,舌尖上的中国超清
+#EXTINF:-1 group-title="央视地方,#genre#",舌尖上的中国超清
 http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-#EXTINF:-1,湖南卫视
+#EXTINF:-1 group-title="央视地方,#genre#",湖南卫视
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000153.m3u8
-#EXTINF:-1,番禺
+#EXTINF:-1 group-title="央视地方,#genre#",番禺
 http://live.pybtv.cn/channel1/sd/live.m3u8
-#EXTINF:-1,深圳蛇口
+#EXTINF:-1 group-title="央视地方,#genre#",深圳蛇口
 http://218.17.99.211:82/hls/d4encs75.m3u8
-#EXTINF:-1,广东经济科教HD
+#EXTINF:-1 group-title="央视地方,#genre#",广东经济科教HD
 http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
-#EXTINF:-1,广东珠江
+#EXTINF:-1 group-title="央视地方,#genre#",广东珠江
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
-#EXTINF:-1,广东新闻
+#EXTINF:-1 group-title="央视地方,#genre#",广东新闻
 http://nclive.grtn.cn/xwpd/sd/live.m3u8
-#EXTINF:-1,蛇口综合
+#EXTINF:-1 group-title="央视地方,#genre#",蛇口综合
 http://218.17.99.211:82/hls/d4encs75.m3u8
-#EXTINF:-1,潮州综合
+#EXTINF:-1 group-title="央视地方,#genre#",潮州综合
 http://live.zscz0768.com/live/zhpd.m3u8#http://dslive.grtn.cn/czzh/sd/live.m3u8
-#EXTINF:-1,潮安综合
+#EXTINF:-1 group-title="央视地方,#genre#",潮安综合
 http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
-#EXTINF:-1,广东影视
+#EXTINF:-1 group-title="央视地方,#genre#",广东影视
 http://nclive.grtn.cn/tvs4/sd/live.m3u8
-#EXTINF:-1,广东新闻
+#EXTINF:-1 group-title="央视地方,#genre#",广东新闻
 http://nclive.grtn.cn/xwpd/sd/live.m3u8
-#EXTINF:-1,广东少儿
+#EXTINF:-1 group-title="央视地方,#genre#",广东少儿
 http://nclive.grtn.cn/tvs5/sd/live.m3u8
-#EXTINF:-1,广东公共
+#EXTINF:-1 group-title="央视地方,#genre#",广东公共
 http://nclive.grtn.cn/ggpd/sd/live.m3u8
-#EXTINF:-1,广东国际
+#EXTINF:-1 group-title="央视地方,#genre#",广东国际
 http://nclive.grtn.cn/gjpd/sd/live.m3u8
-#EXTINF:-1,广东综艺超清
+#EXTINF:-1 group-title="央视地方,#genre#",广东综艺超清
 http://nclive.grtn.cn:80/4K/sd/live.m3u8
-#EXTINF:-1,珠江频道
+#EXTINF:-1 group-title="央视地方,#genre#",珠江频道
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
-#EXTINF:-1,珠江电影
+#EXTINF:-1 group-title="央视地方,#genre#",珠江电影
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=7&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1,TVS2 南方卫视
+#EXTINF:-1 group-title="央视地方,#genre#",TVS2 南方卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1,TVS5 广东少儿
+#EXTINF:-1 group-title="央视地方,#genre#",TVS5 广东少儿
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=231&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1,广东南方卫视
+#EXTINF:-1 group-title="央视地方,#genre#",广东南方卫视
 p2p://185.169.196.146:9906/59fd30fb0002434d02d3d053299809c9.ts
-#EXTINF:-1,南海综合
+#EXTINF:-1 group-title="央视地方,#genre#",南海综合
 http://183.238.77.9:9090/live/nanhaitai_2000.m3u8
-#EXTINF:-1,顺德综合
+#EXTINF:-1 group-title="央视地方,#genre#",顺德综合
 http://183.238.77.9:9090/live/shundetai_2000.m3u8
-#EXTINF:-1,新会综合
+#EXTINF:-1 group-title="央视地方,#genre#",新会综合
 http://183.238.77.9:9090/live/xinhui_1500.m3u8
-#EXTINF:-1,佛山综合
+#EXTINF:-1 group-title="央视地方,#genre#",佛山综合
 http://183.238.77.9:9090/live/foshannews_1500.m3u8
-#EXTINF:-1,佛山公共
+#EXTINF:-1 group-title="央视地方,#genre#",佛山公共
 http://183.238.77.9:9090/live/foshanyingshi_1500.m3u8
-#EXTINF:-1,汕头一套HD
+#EXTINF:-1 group-title="央视地方,#genre#",汕头一套HD
 http://27.36.62.162:9090/live/shantouyitaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
-#EXTINF:-1,汕头二套HD
+#EXTINF:-1 group-title="央视地方,#genre#",汕头二套HD
 http://27.36.62.162:9090/live/shantouertaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
-#EXTINF:-1,汕头三套HD
+#EXTINF:-1 group-title="央视地方,#genre#",汕头三套HD
 http://27.36.62.162:9090/live/shantousantaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
-#EXTINF:-1,TVB无线新闻台
-p2p://185.169.196.146:9906/5a562bec0007bfd761a2998e00b83dd5.ts#http://www.liveviptv.xyz/tv/tvb.php#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
-#EXTINF:-1,明珠台
-p2p://185.169.196.146:9906/59fd0d0a0009323a02476cb020fe16f9.ts
-#EXTINF:-1,TVBS新闻台 HD
-p2p://185.169.196.146:9906/59fd096d0003aa9702394e013b6206a2.ts#vjms://23.237.33.155:8500:3502/live/cid=348
-#EXTINF:-1,TVBS
-p2p://185.169.196.146:9906/59fd20d3000f24fd0294b75f4a555e2a.ts#vjms://23.237.33.155:8500:3502/live/cid=349
-#EXTINF:-1,有线新闻台
-http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-#EXTINF:-1,viu six
-p2p://185.169.196.146:9906/5b389c92000621bc35b08cbd438b4298.ts
-#EXTINF:-1,viu TV
-p2p://185.169.196.146:9906/59fd171800092000026eb35003107eef.ts
-#EXTINF:-1,凤凰香港
-http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
-#EXTINF:-1,凤凰卫视
-http://liveali.ifeng.com/live/FHZW.flv#p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts#vjms://23.237.33.155:8500:3502/live/cid=400
-#EXTINF:-1,凤凰资讯
-vjms://23.237.33.155:8500:3502/live/cid=401#p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts
-#EXTINF:-1,年代新闻
-p2p://185.169.196.146:9906/5a56230e0004af51617ff5935a3e292e.ts#vjms://23.237.33.155:8500:3502/live/cid=455
-#EXTINF:-1,非凡新闻
-p2p://185.169.196.146:9906/59fd05f30007004f022bba4b77671d93.ts#vjms://23.237.33.155:8500:3502/live/cid=443
-#EXTINF:-1,三立新闻
-p2p://185.169.196.146:9906/59fd08fd000707490237995b3c9f2775.ts#vjms://23.237.33.155:8500:3502/live/cid=352
-#EXTINF:-1,东森新闻
-p2p://185.169.196.146:9906/5a1427ee0009fb195fc1064a3af652d1.ts#vjms://23.237.33.155:8500:3502/live/cid=340
-#EXTINF:-1,中天新闻
-p2p://185.169.196.146:9906/59fd05020006070602280c953c2545e6.ts#vjms://23.237.33.155:8500:3502/live/cid=407
-#EXTINF:-1,中视新闻
-p2p://185.169.196.146:9906/59fd2282000219b8029b479b6fc21d86.ts
-#EXTINF:-1,台视新闻台 HD
-p2p://185.169.196.146:9906/59fd299b00054a3002b7020e67d657e3.ts
-#EXTINF:-1,壹新闻
-p2p://185.169.196.146:9906/59fd08ad000509c00236604f613b08e7.ts#vjms://23.237.33.155:8500:3502/live/cid=445
-#EXTINF:-1,寰宇新闻
-p2p://185.169.196.146:9906/59fd2b5e0006d13802bde4340bc41e87.ts#p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
-#EXTINF:-1,环宇新闻2
-p2p://185.169.196.146:9906/5a142744000f25045fbe6f82276e0d88.ts
-#EXTINF:-1,民视新闻
-p2p://185.169.196.146:9906/59fd05930008403b022a439a3b9b7401.ts#vjms://23.237.33.155:8500:3502/live/cid=454
-#EXTINF:-1,东森财经
-p2p://185.169.196.146:9906/59fd1f94000ee56d028fd937397b7e63.ts#vjms://23.237.33.155:8500:3502/live/cid=456
-#EXTINF:-1,寰宇财经台
-p2p://185.169.196.146:9906/59fd2b98000b4fba02bec7ed4c560211.ts#p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
-#EXTINF:-1,耀才财经台
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1,澳门卫视.
-p2p://185.169.196.146:9906/5c1dd67c000148d62b45c6190e5c6d92.ts
-#EXTINF:-1,中国电视
-p2p://185.169.196.146:9906/5c1dd70200056d532b47d2a222cd0097.ts
-#EXTINF:-1,澳门莲花卫视
-p2p://185.169.196.146:9906/5acb8740000253a62c1307843e7c4bc3.ts
-#EXTINF:-1,澳亚卫视
-p2p://185.169.196.146:9906/5c1dd6c700041c232b46ebcc369677f7.ts#http://stream.mastvnet.com/MASTV/playlist.m3u8#vjms://23.237.33.155:8500:3502/live/cid=337
-#EXTINF:-1,香港开电视
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1,KHS
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1,RTHK31
-p2p://185.169.196.146:9906/5b1ea0dc000bba59d03063fa2f1a513c.ts#p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
-#EXTINF:-1,RHK32
-p2p://185.169.196.146:9906/5b1ea120000af380d0316d6b59657817.ts#https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1,TVBS
-vjms://23.237.33.155:8500:3502/live/cid=349#vjms://58.215.133.185:8500:3502/live/cid=349
-#EXTINF:-1,CNBC
-vjms://58.215.133.185:8500:3502/live/cid=98#p8p://0198.02686.cc:16871/5d1a69720002ca3711bcdb2830f420fe.ts#vjms://23.237.33.155:8500:3502/live/cid=98#mitv://198.255.74.87:9906/5dc08efe000aa9d301b7846ac5b1b53c.ts
-#EXTINF:-1,CNN HD 
-p2p://185.169.196.146:9906/59fd16db000b5f05026dc5a57b516fdb.tsvjms://23.237.33.155:8500:3502/live/cid=428#p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
-#EXTINF:-1,NHK WORLD
-p2p://185.169.196.146:9906/59fd0a09000c3214023bb18461b51f7a.ts
-#EXTINF:-1,BBC
-p2p://185.169.196.146:9906/59fd16bc000f2550026d4d870b85516d.ts#vjms://23.237.33.155:8500:3502/live/cid=418#mitv://198.255.74.87:9906/5dc08f01000ad05201b7902c343bc007.ts
-#EXTINF:-1,今日俄罗斯
-p2p://185.169.196.146:9906/5acb88f40000e1422c19ae4624f1680c.ts
-#EXTINF:-1,FRANCE 24（English）
-p2p://185.169.196.146:9906/59fd268900088bbe02ab049910f0530f.ts
-#EXTINF:-1,fyi HD
-p2p://185.169.196.146:9906/59fd32500009ea1902d9064f0d2c0edc.ts
-#EXTINF:-1,FOXNews
-p2p://185.169.196.146:9906/5b1ea01b0005bd51d02d708b68395064.ts#p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts
-#EXTINF:-1,香港电影一台
-P2p://3114910866:9906/5cb05c52000a69c517a988073ced7a47.ts
-#EXTINF:-1,香港电影
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1,HBO原创电影
-p2p://185.169.196.146:9906/59fd14fc0005019f026674e730ed03b5.ts#vjms://58.215.133.185:8500:3502/live/cid=436#vjms://23.237.33.155:8500:3502/live/cid=436
-#EXTINF:-1,HBO家庭
-p2p://185.169.196.146:9906/59fd152900015243026723c45811069b.ts#vjms://23.237.33.155:8500:3502/live/cid=181
-#EXTINF:-1,HBO强档
-p2p://185.169.196.146:9906/59fd22e50004a1f8029ccaff41480126.ts#vjms://23.237.33.155:8500:3502/live/cid=238
-#EXTINF:-1,HBO
-vjms://58.215.133.185:8500:3502/live/cid=261#mitv://198.255.74.87:9906/5dc08f1000069e8c01b7c9b1fc8f2c36.ts#vjms://23.237.33.155:8500:3502/live/cid=261
-#EXTINF:-1,东森电影
-p2p://185.169.196.146:9906/59fd0cab0008230a0245f94a229777bd.ts#vjms://23.237.33.155:8500:3502/live/cid=338#http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1,东森洋片台
-p2p://185.169.196.146:9906/59fd17860002b83302705f6a03a560d2.ts
-#EXTINF:-1,靖天电影台
-p2p://185.169.196.146:9906/59fd358c00069b9502e5a7d404d940d2.ts#p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
-#EXTINF:-1,龍華經典
-P2p://51.79.41.138:18912/5b14090b0001269c17d0ee93023202c3.ts#p2p://185.169.196.146:9906/59fd3363000e740302dd39b062856e0b.ts#p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
-#EXTINF:-1,龍華洋片
-p2p://185.169.196.146:9906/59fd07650001a79102315e34781149f3.ts#mitv://198.255.74.87:9906/5dc08f2300048cfe01b81361fc3b1d55.ts
-#EXTINF:-1,龍祥时代
-p2p://185.169.196.146:9906/59fd0d3200071b6e02480863224e5f4d.ts
-#EXTINF:-1,美亚电影台
-p2p://185.169.196.146:9906/59fd08470008d4d60234d2d92e65644c.ts
-#EXTINF:-1,卫视电影台
-p2p://185.169.196.146:9906/59fd0369000ea5750221d12f32a532b8.ts#P2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts#p8p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts
-#EXTINF:-1,卫视西片 HD
-p2p://185.169.196.146:9906/59fd1475000301e1026465123e2e3650.ts
-#EXTINF:-1,卫视中文台 HD
-p2p://185.169.196.146:9906/59fd0394000660a0022277050be47b46.ts
-#EXTINF:-1,纬来电影台
-p2p://185.169.196.146:9906/59fd1feb0003d7be02912a31740004af.ts
-#EXTINF:-1,FOX电影
-P2p://51.79.41.138:18912/5b7267ae000b9c6c35cc884079c70164.ts#vjms://23.237.33.155:8500:3502/live/cid=94#mitv://198.255.74.87:9906/5dc08f0d0002935401b7bcf0e205eaa4.ts
-#EXTINF:-1,FOX 家庭影院HD
-p2p://185.169.196.146:9906/59fd229f000615aa029bb9ed79916213.ts
-#EXTINF:-1,FOX动作电影 HD
-mitv://198.255.74.87:9906/5dc08f0d0001bd0201b7bcb97d30ebcb.ts#http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1,FOX 优质影院 HD
-p2p://185.169.196.146:9906/59fd246a0009125502a2bba01b0f4bf5.ts
-#EXTINF:-1,FOX  HD
-p2p://185.169.196.146:9906/59fd14cf000321f60265c4a24ca93407.ts
-#EXTINF:-1,FOX CRIME HD
-p2p://185.169.196.146:9906/59fd14ae0007a794026544e32f606291.ts
-#EXTINF:-1,ELTA影剧
-mitv://198.255.74.87:9906/5dc08f1800025c2e01b7e7da7df39b79.ts
-#EXTINF:-1,龍華影劇
-P2p://51.79.41.138:18912/5b1408f2000aaf8c17d08f5c001549e8.ts#p2p://185.169.196.146:9906/59fd30d6000988d702d341a0202638f5.ts
-#EXTINF:-1,采昌影劇台
-P2p://51.79.41.138:18912/5b1409db0009049a17d41d161677386d.ts#p2p://185.169.196.146:9906/59fd15a600029d6902690c5b552d077d.ts#p2p://185.169.196.146:9906/59fd15cc000cd7cc0269a36a466420ca.ts
-#EXTINF:-1,龍華偶像 HD
-p2p://185.169.196.146:9906/59fd38a1000ca5a002f1b363682d5b70.ts
-#EXTINF:-1,TVB星河
-mitv://198.255.74.87:9906/5dc08f2a000c358f01b830afaa89e001.ts#p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
-#EXTINF:-1,鸿基影剧台
-p2p://185.169.196.146:9906/59fd2a8b000cb57f02baad731b97024c.ts
-#EXTINF:-1,華藝影剧台
-p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
-#EXTINF:-1,三立戏剧台
-p2p://185.169.196.146:9906/59fd274c0001400d02adfc6d23452c25.ts
-#EXTINF:-1,纬来戏剧
-p2p://185.169.196.146:9906/59fd20190002fb090291ddb256d73759.ts#vjms://23.237.33.155:8500:3502/live/cid=137
-#EXTINF:-1,八大戏剧
-p2p://185.169.196.146:9906/59fd21c7000edfe70298706f2ef217c7.ts#mitv://198.255.74.87:9906/5dc08f1f00038bfa01b80380693eb7f3.ts#vjms://23.237.33.155:8500:3502/live/cid=110
-#EXTINF:-1,EYETV戏剧台
-p2p://185.169.196.146:9906/59fd35bd00061f9e02e6671d60d7011c.ts#p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
-#EXTINF:-1,凤凰电影台
-rtmp://58.200.131.2:1935/livetv/fhdy#https://116.77.72.195/streams/d/fhdy/playlist.m3u8
-#EXTINF:-1,CHC家庭电影
-p2p://185.169.196.146:9906/59fd25b000031edb02a7b38a6a5d0696.ts#rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil
-#EXTINF:-1,CHC动作电影
-p2p://185.169.196.146:9906/59fd25c800060e1102a812154e343f18.ts#rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil
-#EXTINF:-1,CHC高清电影
-p2p://185.169.196.146:9906/59fd0b3f0002084d024069e339cc1997.ts#rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil
-#EXTINF:-1,WarnerTV
-p2p://185.169.196.146:9906/5a321796000072dfd4b2057134a263e5.ts#http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1,AXN
-p2p://185.169.196.146:9906/59fd2573000c0b9e02a6c794631510c8.ts#vjms://23.237.33.155:8500:3502/live/cid=2
-#EXTINF:-1,CINEMAX
-p2p://185.169.196.146:9906/59fd0b0b00042603023f9f5023951856.ts#mitv://198.255.74.87:9906/5dc08f0c000d7d5501b7bbd3536df5c6.ts
-#EXTINF:-1,CinemaWorld
-mitv://198.255.74.87:9906/5dc08f10000960c801b7ca669ad1a62d.ts
-#EXTINF:-1,FOX CRIME
-mitv://198.255.74.87:9906/5dc08f0c000f26df01b7bc4033c0db54.ts
-#EXTINF:-1,CatchPlay电影
-mitv://198.255.74.87:9906/5dc08f0200009eff01b791787b4828f5.ts
-#EXTINF:-1,FX
-p2p://185.169.196.146:9906/59fd279b000c06e702af33d47d4c770a.ts#p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
-#EXTINF:-1,BLUEANT
-p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
-#EXTINF:-1,靖天戏剧
-p2p://185.169.196.146:9906/59fd36f80009b75202eb367f603a273f.ts#p2p://fccsovh.pvbox.live:18912/5b14093e000c1de917d1b89a306502e9
-#EXTINF:-1,天映经典
-p2p://185.169.196.146:9906/5b2e01c400098d0f0c42edad22c37385#p2p://fccsovh.pvbox.live:18912/5b3c4f9b00031383627eef60721e1738#P2p://51.79.41.138:18912/5b3c4f9b00031383627eef60721e1738.ts
-#EXTINF:-1,天映频道
-mitv://198.255.74.87:9906/5dc08f10000b0c4f01b7cad355c99671.ts
-#EXTINF:-1,龍華戏剧
-p2p://185.169.196.146:9906/59fd38840006b53d02f14094613f7615.ts#http://vip.xp3.biz/HK.php?id=13#mitv://198.255.74.87:9906/5dc08f230001dd4c01b812b1e9915397.ts
-#EXTINF:-1,靖天映画
-p2p://185.169.196.146:9906/59fd3565000a788d02e5107642590dce.ts
-#EXTINF:-1,靖洋戏剧
-p2p://185.169.196.146:9906/59fd259600089bb202a74f6123416e8d.ts#mitv://198.255.74.87:9906/5dc08f1b000b184201b7f5ce694c5242.ts
-#EXTINF:-1,CHINA MOVIE
-p2p://185.169.196.146:9906/59fd31940007515202d627434d991d4f.ts
-#EXTINF:-1,都市剧场 HD
-p2p://185.169.196.146:9906/5bf91be6000ed46d9bcbb93713e17809.ts
-#EXTINF:-1,东森戏剧
-p2p://185.169.196.146:9906/59fd17a500022c250270d8533c186ce9.ts
-#EXTINF:-1,星卫电影 
-p2p://185.169.196.146:9906/59fd086a00072cbb02355b236c4a3fcb.ts
-#EXTINF:-1,珠江電影
-p2p://185.169.196.146:9906/5a6c94d5000dae17b92d43033f1e125d.ts
-#EXTINF:-1,好莱坞电影
-p2p://185.169.196.146:9906/5a141b66000b4be65f90135822b40e43.ts#http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1,TVB J2
-p2p://185.169.196.146:9906/59fd25e80008aaec02a88fc1476f2edf.ts#P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-#EXTINF:-1,TVB明珠台
-vjms://23.237.33.155:8500:3502/live/cid=367#p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#mitv://198.255.74.87:9906/5dc08f2e0006a51101b83ee3493e8249.ts
-#EXTINF:-1,TVB翡翠台
-P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
-#EXTINF:-1,民視台灣台HD
-P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c.ts#p2p://185.169.196.146:9906/59fd0670000decc5022da459628c3d1a.ts
-#EXTINF:-1,TVBS欢乐台
-p2p://185.169.196.146:9906/59fd20ae000635720294248563346fd6.ts#vjms://23.237.33.155:8500:3502/live/cid=438#rtmp://59.124.75.137/sat/tv421
-#EXTINF:-1,TVBS精采台HD
-P2p://51.79.41.138:18912/5b14095e000d4f6717d235e84b4432ff.ts#p2p://185.169.196.146:9906/59fd250f000aa01602a54096673b0f2a.ts#p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
-#EXTINF:-1,中视 HD
-p2p://185.169.196.146:9906/59fd06ac000555a7022e8c862ebc1019.ts
-#EXTINF:-1,公视 HD
-p2p://185.169.196.146:9906/59fd0656000e66cd022d3ee840ad175d.ts#vjms://23.237.33.155:8500:3502/live/cid=236
-#EXTINF:-1,华视 HD
-p2p://185.169.196.146:9906/59fd068a0005f99e022e07d55c2f581d.ts#vjms://23.237.33.155:8500:3502/live/cid=451
-#EXTINF:-1,民视
-p2p://185.169.196.146:9906/59fd230300046dc8029d402053e02fbf.ts#vjms://23.237.33.155:8500:3502/live/cid=226#rtmp://59.124.75.137/sat/tv051
-#EXTINF:-1,公視3
-P2p://51.79.41.138:18912/5b14094a0002d1d117d1e518204a1cf0.ts#p2p://185.169.196.146:9906/5ac5da01000d09fc15e6046427920804.ts
-#EXTINF:-1,台视
-p2p://185.169.196.146:9906/59fd099c00008ebf023a04ce64d57ff4.ts#rtmp://59.124.75.137/sat/tv071#vjms://23.237.33.155:8500:3502/live/cid=453
-#EXTINF:-1,三立都会
-p2p://185.169.196.146:9906/59fd20f5000e6b4602953c0079210fd1.ts#vjms://23.237.33.155:8500:3502/live/cid=226
-#EXTINF:-1,三立台湾
-p2p://185.169.196.146:9906/5a1425f00009bfad5fb93e0a6f7070c4.ts#vjms://23.237.33.155:8500:3502/live/cid=437#p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
-#EXTINF:-1,中天娱乐
-vjms://23.237.33.155:8500:3502/live/cid=350#mitv://198.255.74.87:9906/5dc08f1f000530a701b803eb78308968.ts
-#EXTINF:-1,八大综合
-p2p://185.169.196.146:9906/59fd22220005cbed0299d18627a207f7.ts#vjms://23.237.33.155:8500:3502/live/cid=354#http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-#EXTINF:-1,八大娱乐台 HD
-p2p://185.169.196.146:9906/59fd38fe000e2eeb02f31f187a8b3f49.ts
-#EXTINF:-1,八大第一
-p2p://185.169.196.146:9906/59fd22540006fb57029a95244a947e57.ts#vjms://23.237.33.155:8500:3502/live/cid=441
-#EXTINF:-1,国兴卫视
-p2p://185.169.196.146:9906/59fd0565000d04390229912232d21634.ts#vjms://23.237.33.155:8500:3502/live/cid=424
-#EXTINF:-1,华视
-p2p://185.169.196.146:9906/59fd23240005c9a4029dc1561885012e.ts
-#EXTINF:-1,韩国娱乐台
-p2p://185.169.196.146:9906/5c02a43d000dd8e8c1088b4117901dfc.ts
-#EXTINF:-1,JET综合
-p2p://185.169.196.146:9906/59fd054a00006c030229246e6fa27a75.ts#p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
-#EXTINF:-1,三立综合台
-p2p://185.169.196.146:9906/59fd27240003732f02ad60c95d8e10a7.ts#p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
-#EXTINF:-1,中天综合
-p2p://185.169.196.146:9906/59fd04bc00059d610226fb164a845fa5.ts#vjms://23.237.33.155:8500:3502/live/cid=341#http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1,中天亚洲 
-P2p://190.2.146.92:18912/5c724839000d2f361d51a7e41eb00016.ts
-#EXTINF:-1,中天娱乐
-p2p://185.169.196.146:9906/59fd049e0006fb6e0226863427c16955.ts#http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1,壹综合
-p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
-#EXTINF:-1,东森综合
-p2p://185.169.196.146:9906/5a141ade0007bc435f8dff2d5b3453d7.ts#vjms://23.237.33.155:8500:3502/live/cid=333
-#EXTINF:-1,有线综合娱乐台
-http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
-#EXTINF:-1,中視經典
-P2p://51.79.41.138:18912/5b140a14000a368c17d4fc0d0e2537ba.ts#p2p://185.169.196.146:9906/59fd09bd0002ab6d023a86337415321a.ts
-#EXTINF:-1,星空卫视
-rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1,tvN
-p2p://185.169.196.146:9906/59fd248e000a1aa502a3488f618b6de7.ts#p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
-#EXTINF:-1,华丽
-p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0#mitv://198.255.74.87:9906/5dc4e32300010cc212a0327c9fcab557.ts
-#EXTINF:-1,全佳
-mitv://198.255.74.87:9906/5dc4e322000da68812a031ce725ce7c2.ts
-#EXTINF:-1,双星
-mitv://198.255.74.87:9906/5dc4e322000cc35412a03194480a0a2f.ts
-#EXTINF:-1,星空卫视
-p2p://185.169.196.146:9906/5acb8af3000978192c217c90517245b7.ts
-#EXTINF:-1,星卫娱乐
-p2p://190.2.146.92:18912/5c724a0a000180991d58bd4f6e533ad5
-#EXTINF:-1,东森亚洲台 HD
-p2p://185.169.196.146:9906/59fd05260002b0730228985b2c380c8a.ts
-#EXTINF:-1,东森超视
-p2p://185.169.196.146:9906/5c02a2e500002a84c1034806691f25dc.ts#mitv://fccsovh.pvbox.live:18912/5c72487c000667911d52abe7044c2b21
-#EXTINF:-1,纬来综合
-mitv://198.255.74.87:9906/5dc08f26000e212e01b8218d6fb61da5.ts
-#EXTINF:-1,靖天日本 HD
-p2p://185.169.196.146:9906/59fd2893000bff8802b2fc847a9852a6.ts
-#EXTINF:-1,曼迪日本台
-p2p://185.169.196.146:9906/59fd3343000561bb02dcba5e474715ac.ts
-#EXTINF:-1,纬来日本
-p2p://185.169.196.146:9906/5bc8a92100047ccf6299e01b2aac4b86.ts#vjms://23.237.33.155:8500:3502/live/cid=102
-#EXTINF:-1,龙华日韩
-http://vip.xp3.biz/HK.php?id=14
-#EXTINF:-1,寰宇综合 HD
-p2p://185.169.196.146:9906/59fd383a000db1c102f021590c272f6e.ts
-#EXTINF:-1,ELTA综合
-p2p://185.169.196.146:9906/59fd26ca00086abe02ac0272796720c5.ts
-#EXTINF:-1,卫视中文台
-mitv://198.255.74.87:9906/5dc08f10000e5eb101b7cbad75968b35.ts
-#EXTINF:-1,纬来精彩 HD
-p2p://185.169.196.146:9906/5ac5d68600012bae15d868ee776c7fe2.ts
-#EXTINF:-1,MOMO综合
-rtmp://59.124.75.137/sat/tv761
-#EXTINF:-1,FOX SPORTS 
-p2p://185.169.196.146:9906/5b2e013f0005fbb20c40e53b79c61f74.ts
-#EXTINF:-1,FOX SPORTS 2
-p2p://185.169.196.146:9906/5b2e017100007d2d0c41a7236d450a00.ts#rtmp://59.124.75.137/sat/tv741#rtmp://59.124.75.137/sat/tv741
-#EXTINF:-1,FOXSPORT3
-p2p://185.169.196.146:9906/59fd0ab7000ca0d6023e595351427583.ts#mitv://198.255.74.87:9906/5dc08f140009290701b7d9f7e97f9c57.ts
-#EXTINF:-1,ELTA体育HD
-p2p://185.169.196.146:9906/59fd07ba000a4d260232ac6f507c5a84.ts#vjms://58.215.133.185:8500:3502/live/cid=266#vjms://23.237.33.155:8500:3502/live/cid=266
-#EXTINF:-1,ELTA體育2台201台
-P2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts#p2p://185.169.196.146:9906/59fd37f9000df20002ef2381617811bf.ts
-#EXTINF:-1,ELTA体育3 
-p2p://185.169.196.146:9906/5b1ea05d0009a88cd02e7355473b4230.ts#P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
-#EXTINF:-1,曼联足球台
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1,皇马足球台
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1,博斯无限
-p2p://185.169.196.146:9906/59fd149100031ddf0264d2721a4e5126.ts
-#EXTINF:-1,博斯高球1
-P2p://51.79.41.138:18912/5b1409f3000f373217d47c6d014c2310.ts#vjms://23.237.33.155:8500:3502/live/cid=265#p2p://185.169.196.146:9906/59fcf4c90006ba2c01e8ae1c1ec827ca.ts
-#EXTINF:-1,博斯高球2
-p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
-#EXTINF:-1,博斯运动二台
-P2p://51.79.41.138:18912/5b14098e0000e93717d2ee3b694601b7.ts#p2p://185.169.196.146:9906/59fd3861000ae97702f0b8f522337286.ts
-#EXTINF:-1,博斯运动一台
-mitv://198.255.74.87:9906/5dc08f17000cfdd501b7e6aadc319b99.ts
-#EXTINF:-1,博斯网球 HD
-p2p://185.169.196.146:9906/59fd0790000c3d34023208dc252633c0.ts
-#EXTINF:-1,纬来体育
-p2p://185.169.196.146:9906/5a141bab0009ca9c5f91208265721808.ts#vjms://23.237.33.155:8500:3502/live/cid=202#rtmp://59.124.75.137/sat/tv721
-#EXTINF:-1,Z频道
-p2p://185.169.196.146:9906/5acb650d0006707f2b8d716537d413a9.ts#p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
-#EXTINF:-1,Star Sports
-rtmp://58.200.131.2:1935/livetv/starsports
-#EXTINF:-1,SKY SPORTS 1 HD
-p2p://185.169.196.146:9906/5bfbedd600089d19a6d0079160a655f2.ts
-#EXTINF:-1,SKY SPORTS Action
-P2p://51.79.41.138:18912/5b2e22aa0004a5332b1f62567389445c.ts
-#EXTINF:-1,SKY SPORTS Mix
-P2p://51.79.41.138:18912/5b2e22ad000c83552b1f701134782a1d.ts
-#EXTINF:-1,Sky Sports 3
-p2p://185.169.196.146:9906/5c02a4ed000730a6c10b390b74cd33a6.ts
-#EXTINF:-1,Sport TV +
-P2p://51.79.41.138:18912/5bee55d8000d870519e6dcfc6c3d41d3.ts
-#EXTINF:-1,Sport TV 1
-P2p://51.79.41.138:18912/5bee55c3000c7bf119e68aa6503576af.ts
-#EXTINF:-1,Sporting TV
-P2p://51.79.41.138:18912/5bee55e300077df919e7065e03c605cf.ts
-#EXTINF:-1,SportNet 360
-P2p://51.79.41.138:18912/5cffd5d2000e898629bf8a4159c54415.ts
-#EXTINF:-1,SportNet One
-P2p://51.79.41.138:18912/5cffd5cf000a3eab29bf7d6f3eb92586.ts
-#EXTINF:-1,SportNet Ontario
-P2p://51.79.41.138:18912/5cffd5cd000ca04129bf763c62cb250f.ts
-#EXTINF:-1,SportNet World
-P2p://51.79.41.138:18912/5cffd5d10003ce2529bf839978971685.ts
-#EXTINF:-1,US-BeIN Sport 01
-p2p://185.169.196.146:9906/5c0376870009e298c43dfb47048832f8.ts
-#EXTINF:-1,US-BeIN Sport 02
-p2p://185.169.196.146:9906/5c0376b30006d1acc43ea65c2a624231.ts
-#EXTINF:-1,US-BeIN Sport 03
-p2p://185.169.196.146:9906/5c0376d80001867ac43f358c5da81e57.ts
-#EXTINF:-1,US-FOX-Sports1
-p2p://185.169.196.146:9906/5c03734e000d432fc431657a2bad6a41.ts
-#EXTINF:-1,US-FOX-Sports2
-p2p://185.169.196.146:9906/5c03736e0005c5c0c431e09564ac2840.ts
-#EXTINF:-1,CBS SPORTS
-P2p://51.79.41.138:18912/5cf559f0000c286a00cb9ed42a1547b3.ts
-#EXTINF:-1,NBA HD
-p2p://185.169.196.146:9906/59fd169800027ee0026cbdab73845c4a.ts#mitv://198.255.74.87:9906/5dc08f01000f128101b79143179b1752.ts
-#EXTINF:-1,Eleven Sport 1
-p2p://185.169.196.146:9906/59fd23c0000c1e7f02a0245c6964058b.ts
-#EXTINF:-1,Eleven Sports 2 HD
-p2p://185.169.196.146:9906/5c14ca9000083cc807ee3e02685b1a90.ts
-#EXTINF:-1,DUBAL SPORTS 1
-P2p://51.79.41.138:18912/5ce013dd000de8cf1470f7f476f375b9.ts
-#EXTINF:-1,US-ESPN-2
-p2p://185.169.196.146:9906/5c03725c00032ba2c42db19965666a1e.ts
-#EXTINF:-1,功夫台
-p2p://185.169.196.146:9906/5a32174e0001f481d4b0ec8f67f06c2b.ts
-#EXTINF:-1,国家地理野生
-p2p://185.169.196.146:9906/59fd082b000c6ca7023466633fed4c93.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263
-#EXTINF:-1,国家地理
-p2p://185.169.196.146:9906/59fd16240000683c026af7fe2edc67eb.ts#vjms://58.215.133.185:8500:3502/live/cid=115#vjms://23.237.33.155:8500:3502/live/cid=115#rtmp://58.200.131.2:1935/livetv/natlgeo
-#EXTINF:-1,国家地理People
-p2p://185.169.196.146:9906/59fd2804000a86bb02b0cd8e6fa14a15.ts
-#EXTINF:-1,探索频道
-rtmp://58.200.131.2:1935/livetv/discovery#mitv://198.255.74.87:9906/5dc08f0c000a7ead01b7bb0fb297bca5.ts
-#EXTINF:-1,探索亚洲
-p2p://185.169.196.146:9906/59fd15f7000e7852026a4bd030284bc8.ts#vjms://23.237.33.155:8500:3502/live/cid=440
-#EXTINF:-1,探索科学
-vjms://58.215.133.185:8500:3502/live/cid=457#mitv://198.255.74.87:9906/5dc08f090005b59301b7ae1d2b2dd80f.ts#vjms://23.237.33.155:8500:3502/live/cid=457
-#EXTINF:-1,探索EVE
-p2p://185.169.196.146:9906/59fd286b000e1cdb02b260d1385f3d28.ts#mitv://198.255.74.87:9906/5dc08f090004c52401b7ade0b5732b25.ts
-#EXTINF:-1,动物星球
-p2p://185.169.196.146:9906/59fd254500042de102a611e03cd83fa7.ts#p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts#vjms://23.237.33.155:8500:3502/live/cid=3
-#EXTINF:-1,Discovery科学频道 HD
-p2p://185.169.196.146:9906/59fd166e000c7533026c1c1b4bf23d6b.ts
-#EXTINF:-1,Discovery动力频道 HD
-p2p://185.169.196.146:9906/59fd2846000cb99902b1cffa3bb33abb.ts
-#EXTINF:-1,TLC旅游生活
-p2p://185.169.196.146:9906/59fd0b9100084afb0241abca38654efa.ts#vjms://23.237.33.155:8500:3502/live/cid=103
-#EXTINF:-1,EYETV旅游 HD
-p2p://185.169.196.146:9906/59fd27c4000cb3b102afd41b5cc4003d.ts#mitv://198.255.74.87:9906/5dc08f1b0009402f01b7f5558e2ba763.ts
-#EXTINF:-1,信大HD
-P2p://51.79.41.138:18912/5b14096a000c1de217d2647a3e82534a.ts
-#EXTINF:-1,佛衛慈悲台
-P2p://51.79.41.138:18912/5bdbf39c000a4154d21721c16bc7247c.ts#p2p://185.169.196.146:9906/59fd2a4f00097fcf02b9c2482e3e76cf.ts
-#EXTINF:-1,GOOD TV好消息
-P2p://51.79.41.138:18912/5bdbf39200017a4bd216f86f7a511c7b.ts
-#EXTINF:-1,大愛1
-p2p://185.169.196.146:9906/59fd173e0004273a026f46886dde4613.ts
-#EXTINF:-1,大愛2
-P2p://51.79.41.138:18912/5bdbf3990002e4dcd217142515c50e46.ts#p2p://185.169.196.146:9906/5c02a25d000ddbf1c1013841154449d4.ts
-#EXTINF:-1,亚洲旅游台 HD
-p2p://185.169.196.146:9906/59fd0809000909e90233e0b820d34ea5.ts#mitv://198.255.74.87:9906/5dc08f140004b9df01b7d8d57910c45c.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
-#EXTINF:-1,年代MUCH
-vjms://58.215.133.185:8500:3502/live/cid=439#vjms://23.237.33.155:8500:3502/live/cid=439
-#EXTINF:-1,亚洲美食 HD
-p2p://185.169.196.146:9906/59fd27e40007382002b04fb323e85206.ts
-#EXTINF:-1,中华美食频道 HD
-p2p://185.169.196.146:9906/59fd2b35000d642c02bd45b223ec494c.ts
-#EXTINF:-1,美食星球
-p2p://185.169.196.146:9906/59fd07190004a07d0230361f798d3b15.ts#p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
-#EXTINF:-1,原住民族電視台
-P2p://51.79.41.138:18912/5bdbf387000760a7d216ceee78f739f8.ts#p2p://185.169.196.146:9906/5c02a19f00076892c0fe506b6f372307.ts
-#EXTINF:-1,阿里郎电视台
-p2p://185.169.196.146:9906/59fd303f000e8d8702d0f510645c2ff4.ts
-#EXTINF:-1,客家電視台
-P2p://51.79.41.138:18912/5bdbf38e00051950d216e9ba54201283.ts#p2p://185.169.196.146:9906/5c02a2ac000109ddc102698d3d885c14.ts
-#EXTINF:-1,非凡商业.
-p2p://185.169.196.146:9906/5b07a59b0005c8ff766a65e653565438.ts
-#EXTINF:-1,SMART知識台
-P2p://51.79.41.138:18912/5b1408f20002579817d08d39272c54bf.ts#p2p://185.169.196.146:9906/59fd32970005fa4002da1a9d12c87a7d.ts
-#EXTINF:-1,MTV(台灣)
-P2p://51.79.41.138:18912/5b1409160006a29117d11af270d37d68.ts#p2p://185.169.196.146:9906/59fd38c4000c84ed02f23c1b626a19ac.ts
-#EXTINF:-1,MTV LIVE 音乐现场 HD
-p2p://185.169.196.146:9906/59fd338800019be502ddc6ec066c3089.ts
-#EXTINF:-1,Fashion
-P2p://51.79.41.138:18912/5bdbf3b50009e59ed217834a6500141e.ts#p2p://185.169.196.146:9906/59fd0add000221eb023eeb130f1c4195.ts
-#EXTINF:-1,老挝时尚台
-https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/chunklist.m3u8
-#EXTINF:-1,TV5MONDE
-p2p://185.169.196.146:9906/59fd1365000b6205026040b545ac325b.ts#vjms://23.237.33.155:8500:3502/live/cid=396
-#EXTINF:-1,StarWorld
-mitv://198.255.74.87:9906/5dc08f10000f2a9e01b7cbe13b6294a7.ts#p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
-#EXTINF:-1,CHANNEL[V]
-rtmp://58.200.131.2:1935/livetv/channelv
-#EXTINF:-1,History HD
-p2p://185.169.196.146:9906/59fd16f900060059026e396d395f3348.ts#mitv://198.255.74.87:9906/5dc08f0900012d9701b7acf4e27b9395.ts
-#EXTINF:-1,History2 HD
-p2p://185.169.196.146:9906/59fd2b7900012c9002be4c3577197bb9.ts#mitv://198.255.74.87:9906/5dc08f09000054ba01b7acbd491ca921.ts
-#EXTINF:-1,纬来育乐
-p2p://185.169.196.146:9906/59fd26ad000978f002ab917848d22993.ts#mitv://198.255.74.87:9906/5dc08f26000ef7b001b821c4f817017e.ts
-#EXTINF:-1,靖天育乐
-p2p://185.169.196.146:9906/59fd3068000ea26902d195477bc86f19.ts#mitv://198.255.74.87:9906/5dc08f1b000d0cf801b7f64e8b912572.ts
-#EXTINF:-1,BBC Lifestyle
-p2p://185.169.196.146:9906/59fd320000071ba102d7cd137e585878.ts#mitv://198.255.74.87:9906/5dc08f010009f63d01b78ff419325ae0.ts
-#EXTINF:-1,BBC earth
-p2p://185.169.196.146:9906/59fd3223000ee20302d857cf1a981663.ts#mitv://198.255.74.87:9906/5dc08f01000924dc01b78fbe69aa63f6.ts
-#EXTINF:-1,E! Entertainment
-mitv://198.255.74.87:9906/5dc08f050005745d01b79e6d8bd2cbe8.ts
-#EXTINF:-1,Ci罪案偵緝 HD
-p2p://185.169.196.146:9906/59fd2824000df04802b14b7973731f54.ts#mitv://198.255.74.87:9906/5dc08f050004997001b79e35b0f8145d.ts
-#EXTINF:-1,Disney Channel迪士尼卡通(國語)
-P2p://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
-#EXTINF:-1,Disney Channel迪士尼卡通(日语)
-P2p://51.79.41.138:18912/5b140a57000904a717d60176480b2673.ts
-#EXTINF:-1,优漫卡通
-http://111.40.205.87/PLTV/88888888/224/3221225656/index.m3u8#http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=hXBFdY8JcLiQHugFbkaqLij8XACrkLt6Sn3u0QkkizaIsIJmP1UxBAq03L3WxNlz%2BAhLv89U3HWKFogUjLcRuU%2BwWipdMTdABhAgmyZ6eCKeOgrOTj6kNi%2BIx6ovV9nM1vZngman2s%2FXYrOfrmB2EQ%3D%3D%3A20180401124733%2C18851042983%2C112.25.7.203%2C20180401124733%2CG_YOUMAN%2C60135CF8EDE111C45722B872F9A14F67%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
-#EXTINF:-1,東森幼幼
-p2p://185.169.196.146:9906/5a32188e00095e2bd4b5d0737fe325f5.ts#vjms://23.237.33.155:8500:3502/live/cid=344
-#EXTINF:-1,迪士尼卡通
-p2p://185.169.196.146:9906/59fd1766000a51cc026fe44f425c5788.ts
-#EXTINF:-1,动漫电影超清
-http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
-#EXTINF:-1,龙华动画 HD
-p2p://185.169.196.146:9906/59fd26690002a01402aa86134bf26468.ts
-#EXTINF:-1,靖天卡通台 HD
-p2p://185.169.196.146:9906/59fd38e0000de06a02f2a9c951a975a6.ts
-#EXTINF:-1,Baby TV 国语
-p2p://185.169.196.146:9906/59fd29b80001452702b7724d17645501.ts
-#EXTINF:-1,BabyFirst
-p2p://185.169.196.146:9906/59fd381b000ea26202efa87f74c25153.ts
-#EXTINF:-1,Boomerang
-p2p://185.169.196.146:9906/59fd37c100015d9d02ee4584223001fe.ts
-#EXTINF:-1,MY KIDS
-p2p://185.169.196.146:9906/59fd3515000d559a02e3d8b272784315.ts
-#EXTINF:-1,CN卡通
-p2p://185.169.196.146:9906/5a3b9d400006e7bcf9e47334508c3038.ts#vjms://23.237.33.155:8500:3502/live/cid=422
-#EXTINF:-1,Baby TV 英语
-p2p://185.169.196.146:9906/59fd088b000b59000235dd256d3d4ad5.ts
-#EXTINF:-1,黑莓动画
-http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8#http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1,全国风景总览
+#EXTINF:-1 group-title="天眼频道,#genre#",全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黟县宏村月沼
-https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黟县宏村南湖
-https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黟县西递牌坊
-https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黟县西递半山亭俯瞰
-https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黟县卢村远眺
-https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,婺源江岭1
-https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,婺源江岭2
-https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黄山始信峰
-https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黄山梦笔生花
-https://gccncc.v.wscdns.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黄山卧云峰
-https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黄山排云亭
-https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黄山光明顶
-https://gccncc.v.wscdns.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黄山信兴道
-https://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黄山西海大峡谷
-https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黄山飞来石
-https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,黄山平天矼
-https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,云台山红石硖
-https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,云台山小寨沟
-https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,云台山百家岩
-https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,乐山大佛
-http://gccncc.v.wscdns.com/gc/lsdfgfl_1.flv
-#EXTINF:-1,银链坠潭
+#EXTINF:-1 group-title="天眼频道,#genre#",银链坠潭
 http://gccncc.v.wscdns.com/gc/hgsylztpb_1.flv
-#EXTINF:-1,黄果树六角亭
+#EXTINF:-1 group-title="",黄果树六角亭
 http://gccncc.v.wscdns.com/gc/hgsspzxdpb_1.flv
-#EXTINF:-1,黄龙（五彩池）
+#EXTINF:-1 group-title="",黄龙（五彩池）
 http://gcalic.v.myalicdn.com/gc/hlwcc_1.flv
-#EXTINF:-1,丹梯铁索
+#EXTINF:-1 group-title="",丹梯铁索
 http://gccncc.v.wscdns.com/gc/dxsdtts_1.flv
-#EXTINF:-1,韶音亭
+#EXTINF:-1 group-title="",韶音亭
 http://gccncc.v.wscdns.com/gc/dxssyt_1.flv
-#EXTINF:-1,泰山主峰
+#EXTINF:-1 group-title="",上海这一刻：魔都眼
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+#EXTINF:-1 group-title="",上海这一刻：陆家嘴
+http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
+#EXTINF:-1 group-title="",张家界天门山西线玻璃栈道
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 group-title="",张家界天门山天门洞
+https://gccncc.v.wscdns.com/gc/tmstmd01_1/index.m3u8
+#EXTINF:-1 group-title="",张家界天门山天空步道
+https://gccncc.v.wscdns.com/gc/tms02_1/index.m3u8
+#EXTINF:-1 group-title="",张家界天门山云梦仙顶
+https://gctxyc.liveplay.myqcloud.com/gc/tms04_1_md.m3u8
+#EXTINF:-1 group-title="",张家界天门山云梦仙顶
+https://gctxyc.liveplay.myqcloud.com/gc/tms04_1/index.m3u8
+#EXTINF:-1 group-title="",张家界天门山云梦仙顶
+https://gccncc.v.wscdns.com/gc/tms04_1/index.m3u8
+#EXTINF:-1 group-title="",湖南湘西凤凰古城东关门
+http://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 group-title="",厦门鼓浪屿
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 group-title="",广西玉林大容山莲花山顶
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 group-title="",平山湖大峡谷九龙汇海
+https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
+#EXTINF:-1 group-title="",平山湖大峡谷峡谷石林
+https://gccncc.v.wscdns.com/gc/pshdxg02_1/index.m3u8
+#EXTINF:-1 group-title="",桂林象山公园
+https://gccncc.v.wscdns.com/gc/glxs01_1/index.m3u8
+#EXTINF:-1 group-title="",六盘山红军长征景区
+https://gccncc.v.wscdns.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 group-title="",西汉南越王博物馆
+https://gcalic.v.myalicdn.com/gc/nywbwg01_1/index.m3u8
+#EXTINF:-1 group-title="",广东省深圳市甘坑客家小镇
+https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1_md.m3u8
+#EXTINF:-1 group-title="",广东省深圳市甘坑客家小镇
+https://gctxyc.liveplay.myqcloud.com/gc/szgk01_1/index.m3u8
+#EXTINF:-1 group-title="",八里沟风景区天界山玻璃栈道
+https://gccncc.v.wscdns.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 group-title="",八里沟风景区桃花湾瀑布
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 group-title="",汶川映秀新城
+https://gccncc.v.wscdns.com/gc/wcyxxc01_1/index.m3u8
+#EXTINF:-1 group-title="",十八洞村
+https://gctxyc.liveplay.myqcloud.com/gc/sbd01_1_md.m3u8
+#EXTINF:-1 group-title="",十八洞村
+https://gctxyc.liveplay.myqcloud.com/gc/sbd01_1/index.m3u8
+#EXTINF:-1 group-title="",趵突泉
+https://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8
+#EXTINF:-1 group-title="",趵突泉
+https://gccncc.v.wscdns.com/gc/btq01_1/index.m3u8
+#EXTINF:-1 group-title="",安徽省池州市九华山风景区拜经台
+https://gccncc.v.wscdns.com/gc/jhs02_1/index.m3u8
+#EXTINF:-1 group-title="",安徽省池州市九华山风景区
+https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1_md.m3u8
+#EXTINF:-1 group-title="",安徽省池州市九华山风景区
+https://gctxyc.liveplay.myqcloud.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 group-title="",安徽省池州市九华山风景区花台
+https://gccncc.v.wscdns.com/gc/jhs01_1/index.m3u8
+#EXTINF:-1 group-title="",华山
+https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1_md.m3u8
+#EXTINF:-1 group-title="",华山
+https://gctxyc.liveplay.myqcloud.com/gc/hkhs01_1/index.m3u8
+#EXTINF:-1 group-title="",江苏徐州云龙湖风景区云龙山观景台南
+https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1_md.m3u8
+#EXTINF:-1 group-title="",江苏徐州云龙湖风景区云龙山观景台南
+https://gctxyc.liveplay.myqcloud.com/gc/ylh03_1/index.m3u8
+#EXTINF:-1 group-title="",江苏徐州云龙湖风景区云龙山观景台西
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 group-title="",贵州省兴义市万峰林
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 group-title="",贵州省兴义市马岭河峡谷
+https://gcalic.v.myalicdn.com/gc/xymlh_1/index.m3u8
+#EXTINF:-1 group-title="",贵州省贞丰市双乳峰景区
+https://gccncc.v.wscdns.com/gc/xysrf_1/index.m3u8
+#EXTINF:-1 group-title="",云南大理崇圣寺三塔中景
+https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1_md.m3u8
+#EXTINF:-1 group-title="",云南大理崇圣寺三塔中景
+https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 group-title="",云南大理崇圣寺三塔湖面
+https://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8
+#EXTINF:-1 group-title="",云南大理崇圣寺三塔远景
+https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 group-title="",浙江杭州千岛湖
+https://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8
+#EXTINF:-1 group-title="",桂林漓江景区
+https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1_md.m3u8
+#EXTINF:-1 group-title="",桂林漓江景区
+https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 group-title="",南京玄武湖公园
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 group-title="",玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 group-title="",玉龙雪山蓝月谷
+https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 group-title="",玉龙雪山印象实景
+https://gccncc.v.wscdns.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 group-title="",玉龙雪山玉液湖
+https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
+#EXTINF:-1 group-title="",白沙远眺玉龙雪山
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 group-title="",玉龙雪山の一滴水过丽江
+https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
+#EXTINF:-1 group-title="",玉龙雪山の冰川
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 group-title="",玉龙雪山草甸
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 group-title="",玉龙雪山白水台
+https://gccncc.v.wscdns.com/gc/hkylxs07_1/index.m3u8
+#EXTINF:-1 group-title="",玉龙雪山蓝月谷中游湖面
+https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
+#EXTINF:-1 group-title="",玉龙雪山の高尔夫
+https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
+#EXTINF:-1 group-title="",江苏南京牛首山
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 group-title="",福建漳州六鳌翡翠湾
+https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
+#EXTINF:-1 group-title="",福建漳州醉美沙滩翡翠湾
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 group-title="",青岛崂山灵旗峰
+https://gccncc.v.wscdns.com/gc/qdls01_1/index.m3u8
+#EXTINF:-1 group-title="",青岛崂山八水河
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 group-title="",青岛崂山双福
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 group-title="",青岛崂山太清
+https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8
+#EXTINF:-1 group-title="",三亚南山文化旅游区海上观音
+https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
+#EXTINF:-1 group-title="",天津之眼
+https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1 group-title="",天津之眼
+https://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
+#EXTINF:-1 group-title="",天津海河
+https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8
+#EXTINF:-1 group-title="",仙都风景区
+https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
+#EXTINF:-1 group-title="",四川凉山彝族自治州西昌市邛海景区
+https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1_md.m3u8
+#EXTINF:-1 group-title="",四川凉山彝族自治州西昌市邛海景区
+https://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1/index.m3u8
+#EXTINF:-1 group-title="",平遥古城
+https://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8
+#EXTINF:-1 group-title="",普陀山
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 group-title="",普陀山
+https://gccncc.v.wscdns.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 group-title="",浙江舟山东极岛
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 group-title="",浙江舟山东极岛
+https://gccncc.v.wscdns.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 group-title="",宁夏黄河大峡谷
+https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1_md.m3u8
+#EXTINF:-1 group-title="",宁夏黄河大峡谷
+https://gctxyc.liveplay.myqcloud.com/gc/hhdxg01_1/index.m3u8
+#EXTINF:-1 group-title="",郑东新区千玺广场
+https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
+#EXTINF:-1 group-title="",张掖七彩丹霞
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 group-title="",张掖七彩丹霞
+https://gccncc.v.wscdns.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 group-title="",四川四姑娘山幺妹峰
+https://gccncc.v.wscdns.com/gc/sgns01_1/index.m3u8
+#EXTINF:-1 group-title="",四川四姑娘山隆珠措
+https://gccncc.v.wscdns.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 group-title="",宁夏沙坡头大漠孤烟
+https://gccncc.v.wscdns.com/gc/nxsptdmgy_1/index.m3u8
+#EXTINF:-1 group-title="",宁夏沙坡头黄河漂流
+https://gccncc.v.wscdns.com/gc/nxspthhpl_1/index.m3u8
+#EXTINF:-1 group-title="",宁夏沙坡头黄河漂流
+https://gcalic.v.myalicdn.com/gc/nxspthhpl_1/index.m3u8
+#EXTINF:-1 group-title="",宁夏沙坡头长河落日
+https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
+#EXTINF:-1 group-title="",丽江古城万古楼遥望玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 group-title="",丽江古城大研花巷观景
+https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1_md.m3u8
+#EXTINF:-1 group-title="",丽江古城大研花巷观景
+https://gctxyc.liveplay.myqcloud.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 group-title="",丽江古城大水车
+https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1_md.m3u8
+#EXTINF:-1 group-title="",丽江古城大水车
+https://gctxyc.liveplay.myqcloud.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 group-title="",云台山小寨沟
+https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8
+#EXTINF:-1 group-title="",云台山百家岩
+https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8
+#EXTINF:-1 group-title="",云台山红石峡
+https://gctxyc.liveplay.myqcloud.com/gc/ytshsx_1/index.m3u8
+#EXTINF:-1 group-title="",福建武夷山印象大红袍
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1_md.m3u8
+#EXTINF:-1 group-title="",福建武夷山印象大红袍
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8
+#EXTINF:-1 group-title="",福建武夷山大红袍茶园
+https://gccncc.v.wscdns.com/gc/wysdhpcy_1/index.m3u8
+#EXTINF:-1 group-title="",福建武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 group-title="",黄山
+https://gccncc.v.wscdns.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 group-title="",黄山始信新道
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 group-title="",黄山卧云峰
+https://gccncc.v.wscdns.com/gc/hswlf_1/index.m3u8
+#EXTINF:-1 group-title="",黄山梦笔生花
+https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8
+#EXTINF:-1 group-title="",黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 group-title="",黄山平天矼
+https://gccncc.v.wscdns.com/gc/hsptgz_1/index.m3u8
+#EXTINF:-1 group-title="",黄山飞来石
+https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 group-title="",黄山光明顶
+https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8
+#EXTINF:-1 group-title="",泰山主峰
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 group-title="",泰山主峰
+https://gccncc.v.wscdns.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 group-title="",泰山望人松
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 group-title="",泰山
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8
+#EXTINF:-1 group-title="",泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 group-title="",泰山十八盘
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 group-title="",泰山十八盘
+https://gccncc.v.wscdns.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 group-title="",泰山天街
+https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
+#EXTINF:-1 group-title="",泰山天街
+https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8
+#EXTINF:-1 group-title="",泰山拱北日出
+https://gccncc.v.wscdns.com/gc/hkts01_1/index.m3u8
+#EXTINF:-1 group-title="",泰山白云亭悬崖
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 group-title="",泰山碧霞祠
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 group-title="",泰山经石峪
+https://gccncc.v.wscdns.com/gc/hkts04_1/index.m3u8
+#EXTINF:-1 group-title="",泰山开山
+https://gccncc.v.wscdns.com/gc/hkts05_1/index.m3u8
+#EXTINF:-1 group-title="",泰山龙潭水库
+https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8
+#EXTINF:-1 group-title="",泰山南天门
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 group-title="",泰山南天门
+https://gccncc.v.wscdns.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 group-title="",泰山扇子崖
+https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
+#EXTINF:-1 group-title="",泰山太平岭
+https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1_md.m3u8
+#EXTINF:-1 group-title="",泰山太平岭
+https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 group-title="",泰山玉皇顶东
+https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8
+#EXTINF:-1 group-title="",泰山玉皇顶西
+https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1_md.m3u8
+#EXTINF:-1 group-title="",泰山玉皇顶西
+https://gctxyc.liveplay.myqcloud.com/gc/hkts11_1/index.m3u8
+#EXTINF:-1 group-title="",张家界武陵源景区水绕四门
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 group-title="",张家界武陵源景区阿凡达悬浮山
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
+#EXTINF:-1 group-title="",张家界武陵源景区迷魂台
+https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 group-title="",张家界武陵源景区迷魂台
+https://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1_md.m3u8
+#EXTINF:-1 group-title="",张家界武陵源景区迷魂台
+https://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 group-title="",张家界武陵源景区御笔峰
+https://gccncc.v.wscdns.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 group-title="",张家界武陵源景区宝峰湖
+https://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1_md.m3u8
+#EXTINF:-1 group-title="",张家界武陵源景区宝峰湖
+https://gctxyc.liveplay.myqcloud.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 group-title="",张家界武陵源景区将军列队
+https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+#EXTINF:-1 group-title="",四川阿坝州松潘县黄龙景区
+https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 group-title="",四川阿坝州松潘县黄龙景区洗身洞
+https://gccncc.v.wscdns.com/gc/hlxsd_1/index.m3u8
+#EXTINF:-1 group-title="",四川阿坝州松潘县黄龙景区五彩池
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 group-title="",四川阿坝州松潘县黄龙景区望乡台
+https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 group-title="",四川阿坝州松潘县黄龙景区望乡台
+https://gccncc.v.wscdns.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 group-title="",乐山大佛全景
+https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8
+#EXTINF:-1 group-title="",乐山大佛全景
+https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 group-title="",江西龙虎山中间水泡
+https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
+#EXTINF:-1 group-title="",江西龙虎山中间水泡
+https://gccncc.v.wscdns.com/gc/lhszjsp_1/index.m3u8
+#EXTINF:-1 group-title="",江西龙虎山山涧栈道
+https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
+#EXTINF:-1 group-title="",江西龙虎山山涧栈道
+https://gccncc.v.wscdns.com/gc/lhssjzd_1/index.m3u8
+#EXTINF:-1 group-title="",丹霞山丹梯铁锁
+https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
+#EXTINF:-1 group-title="",丹霞山丹梯铁锁
+https://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1/index.m3u8
+#EXTINF:-1 group-title="",丹霞山韶音亭
+https://gccncc.v.wscdns.com/gc/dxssyt_1/index.m3u8
+#EXTINF:-1 group-title="",云南红河哈尼梯田普高老寨
+https://gccncc.v.wscdns.com/gc/hnttpgsz_1/index.m3u8
+#EXTINF:-1 group-title="",云南红河哈尼梯田老虎嘴
+https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
+#EXTINF:-1 group-title="",云南红河哈尼梯田多依树景点
+https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
+#EXTINF:-1 group-title="",云南红河哈尼梯田坝达景点观景台
+https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8
+#EXTINF:-1 group-title="",峨眉山云海日出
+https://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 group-title="",峨眉山远眺贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1_md.m3u8
+#EXTINF:-1 group-title="",峨眉山远眺贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 group-title="",峨眉山普贤菩萨铜像
+https://gccncc.v.wscdns.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 group-title="",峨眉山远眺万佛顶
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 group-title="",峨眉山远眺万佛顶
+https://gccncc.v.wscdns.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 group-title="",鸣沙山
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 group-title="",鸣沙山月牙泉
+https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
+#EXTINF:-1 group-title="",鸣沙山山门
+https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 group-title="",都江堰鱼嘴
+https://gccncc.v.wscdns.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 group-title="",都江堰鱼嘴
+https://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1_md.m3u8
+#EXTINF:-1 group-title="",都江堰鱼嘴
+https://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 group-title="",都江堰飞沙堰
+https://gcalic.v.myalicdn.com/gc/djyewm_1/index.m3u8
+#EXTINF:-1 group-title="",都江堰秦堰楼
+https://gcalic.v.myalicdn.com/gc/djyqyl2_1/index.m3u8
+#EXTINF:-1 group-title="",都江堰秦堰楼
+https://gccncc.v.wscdns.com/gc/djyqyl2_1/index.m3u8
+#EXTINF:-1 group-title="",黄花城水长城01
+https://gccncc.v.wscdns.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 group-title="",黄花城水长城02
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 group-title="",黄花城水长城03
+https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 group-title="",黄花城水长城04
+https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8
+#EXTINF:-1 group-title="",湘西凤凰古城东关门
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 group-title="",湘西凤凰古城南华山
+https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8
+#EXTINF:-1 group-title="",湘西凤凰古城南华山
+https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1/index.m3u8
+#EXTINF:-1 group-title="",安徽黟县宏村芦村远眺
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 group-title="",安徽黟县宏村西递半山亭
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
+#EXTINF:-1 group-title="",安徽黟县宏村西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 group-title="",安徽黟县宏村西递牌坊
+https://gccncc.v.wscdns.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 group-title="",安徽黟县宏村月沼
+https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8
+#EXTINF:-1 group-title="",安徽黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
+#EXTINF:-1 group-title="",嘉峪关01
+https://gccncc.v.wscdns.com/gc/jyg01_1/index.m3u8
+#EXTINF:-1 group-title="",嘉峪关02
+https://gccncc.v.wscdns.com/gc/jyg02_1/index.m3u8
+#EXTINF:-1 group-title="",嘉峪关02
+https://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
+#EXTINF:-1 group-title="",嘉峪关03
+https://gcalic.v.myalicdn.com/gc/jyg04_1/index.m3u8
+#EXTINF:-1 group-title="",浙江乌镇蓝印花布
+https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1_md.m3u8
+#EXTINF:-1 group-title="",浙江乌镇蓝印花布
+https://gctxyc.liveplay.myqcloud.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 group-title="",浙江乌镇全景
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 group-title="",浙江乌镇西市河
+https://gccncc.v.wscdns.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 group-title="",浙江乌镇龙形田
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 group-title="",牡丹江雪乡梦幻家园观景台
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
+#EXTINF:-1 group-title="",牡丹江雪乡梦幻家园
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1_md.m3u8
+#EXTINF:-1 group-title="",牡丹江雪乡梦幻家园
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 group-title="",牡丹江雪乡大石碑
+https://gccncc.v.wscdns.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 group-title="",神农架金丝猴01
+https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
+#EXTINF:-1 group-title="",神农架金丝猴02
+https://gccncc.v.wscdns.com/gc/jsh02_1/index.m3u8
+#EXTINF:-1 group-title="",神农架金丝猴06
+https://gccncc.v.wscdns.com/gc/jsh06_1/index.m3u8
+#EXTINF:-1 group-title="",八达岭长城南七楼
+https://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
+#EXTINF:-1 group-title="",八达岭长城北十楼
+https://gcalic.v.myalicdn.com/gc/bgwn10_1/index.m3u8
+#EXTINF:-1 group-title="",中央电视塔中塔东
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 group-title="",中央电视塔中塔南
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 group-title="",中央电视塔中塔西
+https://gctxyc.liveplay.myqcloud.com/gc/ztx_1_md.m3u8
+#EXTINF:-1 group-title="",中央电视塔中塔西
+https://gctxyc.liveplay.myqcloud.com/gc/ztx_1/index.m3u8
+#EXTINF:-1 group-title="",中央电视塔中塔西
+https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8
+#EXTINF:-1 group-title="",中央电视塔中塔北
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8
+#EXTINF:-1 group-title="",恒山悬空寺全景
+https://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1_md.m3u8
+#EXTINF:-1 group-title="",恒山悬空寺全景
+https://gctxyc.liveplay.myqcloud.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 group-title="",恒山悬空寺恒宗
+https://gccncc.v.wscdns.com/gc/hsxkssqdzrqj_1/index.m3u8
+#EXTINF:-1 group-title="",恒山悬空寺侧景
+https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1_md.m3u8
+#EXTINF:-1 group-title="",恒山悬空寺侧景
+https://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1/index.m3u8
+#EXTINF:-1 group-title="",恒山悬空寺侧景
+https://gccncc.v.wscdns.com/gc/hsxkscj_1/index.m3u8
+#EXTINF:-1 group-title="",黄果树瀑布银链坠潭瀑布
+https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1_md.m3u8
+#EXTINF:-1 group-title="",黄果树瀑布银链坠潭瀑布
+https://gctxyc.liveplay.myqcloud.com/gc/hgsylztpb_1/index.m3u8
+#EXTINF:-1 group-title="",黄果树瀑布六角亭瀑布
+https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 group-title="",黄果树瀑布六角亭瀑布
+https://gccncc.v.wscdns.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 group-title="",天涯海角の天涯鸟瞰
+https://gccncc.v.wscdns.com/gc/tyhjtynl_1/index.m3u8
+#EXTINF:-1 group-title="",天涯海角の天涯石
+https://gccncc.v.wscdns.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 group-title="",天涯海角の天涯石
+https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 group-title="",天涯海角の南天一柱
+https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
+#EXTINF:-1 group-title="",天涯海角の日月石
+https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8
+#EXTINF:-1 group-title="",嵩山少林寺广场
+https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8
+#EXTINF:-1 group-title="",嵩山少林寺峻极峰
+https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8
+#EXTINF:-1 group-title="",嵩山少林寺峻极峰
+https://gccncc.v.wscdns.com/gc/zsslsjjfsd_1/index.m3u8
+#EXTINF:-1 group-title="",嵩山少林寺胜观峰
+https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1_md.m3u8
+#EXTINF:-1 group-title="",嵩山少林寺胜观峰
+https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1/index.m3u8
+#EXTINF:-1 group-title="",江西婺源01
+https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
+#EXTINF:-1 group-title="",江西婺源02
+https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 group-title="",江西婺源02
+https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
+#EXTINF:-1 group-title="",陕西洋县国宝朱鹮01
+https://gccncc.v.wscdns.com/gc/zhhd01_1/index.m3u8
+#EXTINF:-1 group-title="",陕西洋县国宝朱鹮02
+https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 group-title="",陕西洋县国宝朱鹮03
+https://gccncc.v.wscdns.com/gc/zh03_1/index.m3u8
+#EXTINF:-1 group-title="",黟县宏村月沼
+https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="",黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="",黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="",黟县西递半山亭俯瞰
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="",黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="",黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="",黄山西海大峡谷
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="",黄山平天矼
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="",云台山红石硖
+https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="",泰山主峰
 https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,泰山迎客松
+#EXTINF:-1 group-title="",泰山迎客松
 https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,泰山大观峰
+#EXTINF:-1 group-title="",泰山大观峰
 https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,泰山拱北石
+#EXTINF:-1 group-title="",泰山拱北石
 https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,泰山十八盘
+#EXTINF:-1 group-title="",泰山十八盘
 https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,泰山玉皇顶
+#EXTINF:-1 group-title="",泰山玉皇顶
 https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,泰山天街
-https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,武夷山玉女峰
-https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,印象大红袍
+#EXTINF:-1 group-title="",印象大红袍
 https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,武夷山大红袍茶园
+#EXTINF:-1 group-title="",武夷山大红袍茶园
 https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,张家界迷魂台
-https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,张家界水绕4门
-https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,张家界将军列队
-https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,张家界阿凡达悬浮山
-https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,凤凰古城
-https://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,凤凰古城南华山
-https://gccncc.v.wscdns.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,水长城镜头一
+#EXTINF:-1 group-title="",水长城镜头一
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,水长城镜头二
+#EXTINF:-1 group-title="",水长城镜头二
 https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,水长城镜头三
-https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,水长城镜头四
-https://gccncc.v.wscdns.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,少林寺广场
-https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,狮子山鸟瞰古城
-https://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,远眺玉龙雪山
-https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,大研花巷景观台
+#EXTINF:-1 group-title="",大研花巷景观台
 https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,峨眉云海日出
+#EXTINF:-1 group-title="",峨眉云海日出
 https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,贡嘎雪山
+#EXTINF:-1 group-title="",贡嘎雪山
 https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,远眺万佛顶
+#EXTINF:-1 group-title="",远眺万佛顶
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,普贤菩萨像
+#EXTINF:-1 group-title="",普贤菩萨像
 https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,悬空寺全景
+#EXTINF:-1 group-title="",悬空寺全景
 https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,恒宗
+#EXTINF:-1 group-title="",恒宗
 https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,悬空寺侧景
+#EXTINF:-1 group-title="",悬空寺侧景
 https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,天涯鸟瞰
+#EXTINF:-1 group-title="",天涯鸟瞰
 https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,天涯石
-https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,南天一柱
+#EXTINF:-1 group-title="",南天一柱
 https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,日月石
-https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,雪乡大石碑
+#EXTINF:-1 group-title="",雪乡大石碑
 https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,雪乡梦幻家园
+#EXTINF:-1 group-title="",雪乡梦幻家园
 https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,观景台
-https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,嘉峪关长城
+#EXTINF:-1 group-title="",嘉峪关长城
 https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,中央电视台中塔西
-https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,中央电视台中塔东
+#EXTINF:-1 group-title="",中央电视台中塔东
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,中央电视台中塔南
-https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,中央电视台中塔北
+#EXTINF:-1 group-title="",中央电视台中塔北
 https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,【黑帮大片】
-http://al.hls.huya.com/backsrc/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
-#EXTINF:-1,成龙武打动作经典
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1,【贝爷】史上最强男人
-http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1.m3u8
-#EXTINF:-1,爱奇艺_惊悚午夜场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
-#EXTINF:-1,爱奇艺_动画电影
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
-#EXTINF:-1,爱奇艺_怀旧剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
-#EXTINF:-1,爱奇艺_欢乐剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
-#EXTINF:-1,爱奇艺_票房收割机
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
-#EXTINF:-1,【周星星经典】影片不间断
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1,电影-李连杰
-https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-金庸电影
-https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-黄渤
-https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-吴京 
-https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-周润发
+#EXTINF:-1 group-title="佛教频道,#genre#",韩国BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",韩国BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",大爱一台
+http://tv1.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",大爱二台
+http://tv2.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",大爱海外台
+http://tv3.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",人间卫视
+http://54.64.23.79:1935/live/vod/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",人间卫视
+http://54.64.23.79:1935/live/vod/chunklist_w2045233730.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",人间卫视
+http://54.64.23.79:1935/live/vod/chunklist_w226782990.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",人间卫视
+http://54.64.23.79:1935/live/vod/chunklist_w1420404598.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",华藏卫视
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",华藏卫视
+http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w119159473.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",华藏卫视
+http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w1204199278.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",孝廉电视台
+http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",孝廉电视台
+http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/chunklist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",佛卫慈悲台
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/bts-Live1/hievent-hls/index.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",唯心电视台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",唯心頻道
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",生命电视台
+http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
+#EXTINF:-1 group-title="佛教频道,#genre#",生命电视台
+http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1280X720
+#EXTINF:-1 group-title="佛教频道,#genre#",生命电视台
+http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1280X720
+#EXTINF:-1 group-title="佛教频道,#genre#",净宗学院网络直播
+http://hls.ciguang.tv/hdtv/video.m3u8?auth_key=1557799219-0-0-4c865ccdb89d8eb4cbe54be628c127d9
+#EXTINF:-1 group-title="佛教频道,#genre#",香港佛陀教育协会
+http://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",香港佛陀教育协会
+http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",净空老法师讲经直播台
+https://tw1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",净空老法师讲经直播台
+https://tw3.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",净空老法师讲经直播台
+https://hk1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",净空老法师讲经直播台
+https://sg1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",净空老法师讲经
+https://hk1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",净空老法师讲经
+https://tw3.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",净空老法师讲经
+https://hk2.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",净空老法师讲经
+https://sg1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",净空老法师讲经
+http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w660449818.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",净空老法师讲经
+http://amtbsg.cloudapp.net/redirect/liveedge/_definst_/livetv/chunklist_w872255516.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",净空老法师讲经
+http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w577962608.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",悟道法师讲经
+https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",悟道法师讲经
+https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",悟道法师讲经
+https://hk2.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",悟道法师讲经
+https://sg1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",多元文化
+https://tw2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",多元文化
+https://tw3.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",多元文化
+https://de1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",多元文化
+https://hk2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",多元文化
+https://sg1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",繫念法會
+https://tw1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",繫念法會
+https://tw3.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",繫念法會
+https://de1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",繫念法會
+https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",繫念法會
+https://sg1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",网络念佛堂
+https://tw1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",网络念佛堂
+https://tw3.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",网络念佛堂
+https://de1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",网络念佛堂
+https://hk2.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",网络念佛堂
+https://sg1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",儒释道网络电视台
+http://amtbsg.cloudapp.net/liveedge/_definst_/cult/chunklist_w856981860.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",番薯电视台
+http://211.73.19.201/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size=720X480
+#EXTINF:-1 group-title="佛教频道,#genre#",信吉电视台
+http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
+#EXTINF:-1 group-title="佛教频道,#genre#",禅修电视台
+http://210.209.3.1/live/A0F68EE9-C2D8-CE9D-87A6-5A405AAC3B8E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1&start=0
+#EXTINF:-1 group-title="佛教频道,#genre#",禅修电视台
+http://210.209.3.1/live/A0F68EE9-C2D8-CE9D-87A6-5A405AAC3B8E.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】陈翔六点半
+http://tx.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影解说
+http://tx.hls.huya.com/huyalive/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影解说-牛叔解说电影
+https://al.hls.huya.com/huyalive/94525224-2667571840-11457133812530544640-3527487402-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】周润发电影
 https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-刘德华
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】刘德华电影
 https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-徐峥
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】周星驰电影
+https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】周星驰电影
+http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】李连杰电影
+https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】宫崎骏动画
+http://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】徐峥电影
 https://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-甄子丹
-https://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
-#EXTINF:-1,电影-林正英
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】黄渤电影
+http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】邓超影视
+http://aldirect.hls.huya.com/huyalive/94525224-2469517548-10606497105558110208-2847699176-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】林正英系列1
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】林正英系列2
 https://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-林正英2
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】林正英系列3
 https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
-#EXTINF:-1,电影-超级英雄
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】洪金宝电影
+http://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】洪金宝电影
+https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】梁朝伟电影
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】甄子丹电影
+http://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】吴京电影
+https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】警匪电影
+http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】黑帮电影
+http://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】贝爷荒野
+http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-超级英雄
 https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-女神系列2
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-女神系列1
 https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-顶级科幻
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-女神系列2
+https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-五福星系列
+https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-顶级科幻
 https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-灾难
-https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1,电影-生化危机
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-速度与激情
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-速度与激情
 https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-死神来了
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-金庸电影
+https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-生化危机
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-黑帮大片
+https://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-灾难
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视01
+http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视03
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视04
+http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视05
+http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视06
+http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视08
+http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视09
+http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视10
+http://aldirect.hls.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视13
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视14
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视15
+http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视17
+http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】香港电影1
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】漫威电影
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】复仇犯罪
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视女神港片
+http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视真实改编
+http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视怪物科幻
+http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】影视丧尸电影
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】动作电影
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】轮播_好莱坞电影
+http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】轮播_怪物科幻
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】轮播_漫威电影
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】轮播_灾难电影
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】轮播电影轮播
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电视剧-雍正王朝
+https://txdirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电视剧-篮球火
+https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电视剧-西游记
+https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电视剧-龙门镖局
+https://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电视剧-终极一班
+https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电视剧-家有儿女
+https://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电视剧-轩辕剑
+https://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电视剧-屌丝男士
+https://aldirect.hls.huya.com/huyalive/29106097-2689285720-11550394216999813120-2789274540-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-死神来了
 https://txdirect.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-重案六组
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】电影-重案六组
 https://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
-#EXTINF:-1,CIBN电影超清
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN嗨播超清
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN军事超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN生活超清
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN教育超清
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN汽车超清
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN微电影超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN汉学院超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN纪录片超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN电影导视超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN精品影院超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN情感影院超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN喜剧影院超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN古装剧场超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN骄阳剧场超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN炫佳动漫超清
-http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN童学世界超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,CIBN文化中国超清
-http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1,BesTV 4k
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1,纯享 4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1,CCTV 4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1,爱上4K
-http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
-#EXTINF:-1,春天频道马来语
-P2p://51.79.41.138:18912/5b20e3af00036b8c4a06ffcf2b9c28ee.ts
-#EXTINF:-1,AMC(En)
-P2p://51.79.41.138:18912/5b59390f00089d8dd36eddf747043115.ts
-#EXTINF:-1,AXN(越南)
-P2p://51.79.41.138:18912/5bf4f3ce0003842f33bfe35c25280a06.ts
-#EXTINF:-1,HBO
-P2p://51.79.41.138:18912/5bf4f3ca000b623c33bfd5c009a1141e.ts
-#EXTINF:-1,HBO CA(En)
-P2p://51.79.41.138:18912/5cf559de000079ad00cb55872a7d0740.ts
-#EXTINF:-1,FOX(越南)
-P2p://51.79.41.138:18912/5c0f8a36000c99d49b9b6bee3f3c1926.ts
-#EXTINF:-1,FOX MOVIES(越南)
-P2p://51.79.41.138:18912/5bf4f3c70004099933bfc8236f24489b.ts
-#EXTINF:-1,Movie Network1(En)
-P2p://51.79.41.138:18912/5cffd5c70005b65a29bf5d06603e57de.ts
-#EXTINF:-1,HALLMARK CHANNEL
-P2p://51.79.41.138:18912/5b593baf000ba098d3791fb204863a7e.ts
-#EXTINF:-1,HALLMARK MOVIES&MYSTERIES
-P2p://51.79.41.138:18912/5b593bb300063efdd3792dfb31576d19.ts
-#EXTINF:-1,Disney XD(En)
-P2p://51.79.41.138:18912/5cffd5e200012f5b29bfc556358606b3.ts
-#EXTINF:-1,韓國MBC
-P2p://51.79.41.138:18912/5b140a0a0001dd3f17d4d2da348b1d35.ts
-#EXTINF:-1,韓國MBC(備)
-P2p://51.79.41.138:18912/5b140a0b000e807f17d4d9fe10172840.ts
-#EXTINF:-1,韓國TV CHOSUN
-P2p://51.79.41.138:18912/5b140a0a000388ab17d4d3475cd004fb.ts
-#EXTINF:-1,animal planet(En)
-P2p://51.79.41.138:18912/5b5939130005971dd36eeccc06917adb.ts
-#EXTINF:-1,BBC AMERICA
-P2p://51.79.41.138:18912/5b5939170002ff27d36efbc042dd768b.ts
-#EXTINF:-1,ESPN-NEWS
-P2p://51.79.41.138:18912/5b593b050000cac7d37684e3462a0de2.ts
-#EXTINF:-1,ESPN-U
-P2p://51.79.41.138:18912/5b593b08000d56bad37693c872f60093.ts
-#EXTINF:-1,A&E BR
-P2p://51.79.41.138:18912/5bee4dd40002191e19c78a6e680719fb.ts
-#EXTINF:-1,A&E
-P2p://51.79.41.138:18912/5bee537f000e17f219ddb1732f97613e.ts
-#EXTINF:-1,A&E-HD
-P2p://51.79.41.138:18912/5b62db7c0007a2edf911578043696386.ts
-#EXTINF:-1,abc Business
-P2p://51.79.41.138:18912/5b59390300092aa3d36eaf367d4677fe.ts
-#EXTINF:-1,abc NEWS(備)
-P2p://51.79.41.138:18912/5b62db780005f75bf9114773250064fe.ts
-#EXTINF:-1,abc NEWS
-P2p://51.79.41.138:18912/5b593907000a2a1ed36ebf154f6842a0.ts
-#EXTINF:-1,ACTION-MAX
-P2p://51.79.41.138:18912/5b59390b00099929d36ece950ede4ca2.ts
-#EXTINF:-1,abu dhabi TV
-P2p://51.79.41.138:18912/5ce013c200045f2e14708c0b403f1759.ts
-#EXTINF:-1,ACTION-MAX
-P2p://51.79.41.138:18912/5b59390b00099929d36ece950ede4ca2.ts
-#EXTINF:-1,AL Arabiya
-P2p://51.79.41.138:18912/5ce013c90005cd4d1470a7c01f2669c6.ts
-#EXTINF:-1,AL Emart TV
-P2p://51.79.41.138:18912/5ce013c5000b872714709997358a418b.ts
-#EXTINF:-1,AL Jazeera Arabic
-P2p://51.79.41.138:18912/5ce013d50005537d1470d68129d965cd.ts
-#EXTINF:-1,ALKASS TWO
-P2p://51.79.41.138:18912/5ce013be000cf45214707e9d446f5c54.ts
-#EXTINF:-1,AnTV
-P2p://51.79.41.138:18912/5d72049100073c761156395e49063edd.ts
-#EXTINF:-1,Arte 1
-P2p://51.79.41.138:18912/5bee4dde0006f88c19c7b2b769854a57.ts
-#EXTINF:-1,NATGEO KIDS
-P2p://51.79.41.138:18912/5bee51d6000130a019d73200220301b8.ts
-#EXTINF:-1,ARTV CANAL PARLAMENTO
-P2p://51.79.41.138:18912/5bee538d000cc84419dde7c67c7e19f0.ts
-#EXTINF:-1,ARYNEWSASID
-P2p://51.79.41.138:18912/5b140a84000533c717d6b0444e2a6dcd.ts
-#EXTINF:-1,Asianet
-P2p://51.79.41.138:18912/5d7202930001fa44114e6fd66f196e64.ts
-#EXTINF:-1,BET-HD
-P2p://51.79.41.138:18912/5b59391b0002ff76d36f0b60456d1eb0.ts
-#EXTINF:-1,BRAVO-HD
-P2p://51.79.41.138:18912/5b59391f000148a8d36f1a93095c3666.ts
-#EXTINF:-1,Canal Sony
-P2p://51.79.41.138:18912/5bee4e710005da6719c9f0a16acb4870.ts
-#EXTINF:-1,CBSN
-P2p://51.79.41.138:18912/5b59393700075d00d36f79d957914dd4.ts
-#EXTINF:-1,印度ColorsHD
-P2p://51.79.41.138:18912/5d72028c000a9001114e56b057497c4c.ts
-#EXTINF:-1,Comedy Central BR
-P2p://51.79.41.138:18912/5bee4e780009e08319ca0d023ac351c5.ts
-#EXTINF:-1,COMEDY-CENTRAL
-P2p://51.79.41.138:18912/5b593ae50004c1b3d37608dd4adb03fa.ts
-#EXTINF:-1,C-SPAN-1
-P2p://51.79.41.138:18912/5b593922000ca739d36f2929548325e6.ts
-#EXTINF:-1,C-SPAN-2
-P2p://51.79.41.138:18912/5b59392700009927d36f39a42a72613a.ts
-#EXTINF:-1,C-SPAN-3
-P2p://51.79.41.138:18912/5b59392a000cefb4d36f48886d384162.ts
-#EXTINF:-1,Discovery BR
-P2p://51.79.41.138:18912/5bee4e830000792b19ca359942847fe8.ts
-#EXTINF:-1,Discovery Civilization
-P2p://51.79.41.138:18912/5bee4e860006918a19ca42d74e5c2169.ts
-#EXTINF:-1,Discovery Home Health
-P2p://51.79.41.138:18912/5bee4e89000e17d319ca50831e4746cf.ts
-#EXTINF:-1,Discovery Science BR
-P2p://51.79.41.138:18912/5bee4e90000c4e2119ca6b6e513a3de2.ts
-#EXTINF:-1,Discovery WORLD
-P2p://51.79.41.138:18912/5bee4e9b0004056f19ca944341e3368d.ts
-#EXTINF:-1,Discovery
-P2p://51.79.41.138:18912/5bf4f3d1000938ef33bff08b58107436.ts
-#EXTINF:-1,Disney BR
-P2p://51.79.41.138:18912/5bee4e9e000ba64919caa1ef52c43b23.ts
-#EXTINF:-1,DISNEY CHANNEL
-P2p://51.79.41.138:18912/5bf4f3d5000278d633bffe6667e809ba.ts
-#EXTINF:-1,DUBAI
-P2p://51.79.41.138:18912/5ce013bb000609c9147071204ee7070d.ts
-#EXTINF:-1,E! BR
-P2p://51.79.41.138:18912/5bee4ea9000002e319cac9ea55133cb5.ts
-#EXTINF:-1,E!
-P2p://51.79.41.138:18912/5b593afd000076d3d37665846c6451f9.ts
-#EXTINF:-1,FOOD-NETWORK
-P2p://51.79.41.138:18912/5b593b0c000caf35d376a3492c6338d5.ts
-#EXTINF:-1,FREEFORM
-P2p://51.79.41.138:18912/5b593b2000060226d376efb33dd75200.ts
-#EXTINF:-1,Globo BR
-P2p://51.79.41.138:18912/5bee4ff300052ad419cfd451540a51e7.ts
-#EXTINF:-1,HBO EAST
-P2p://51.79.41.138:18912/5b593bb70009322fd3793e567a0f4afe.ts
-#EXTINF:-1,HBO ZONE EAST
-P2p://51.79.41.138:18912/5b593bbf0007e641d3795d485e3e1ddf.ts
-#EXTINF:-1,HISTORY HD(En)
-P2p://51.79.41.138:18912/5b593bc700055296d3797bdc54675753.ts
-#EXTINF:-1,ID-HD
-P2p://51.79.41.138:18912/5b593bcb00009977d3798a4422184fc5.ts
-#EXTINF:-1,MADANITV
-P2p://51.79.41.138:18912/5ce0062e000cfe07143b841d0f83339a.ts
-#EXTINF:-1,MLB NETWORK美職業棒球網絡
-P2p://51.79.41.138:18912/5b593bda000bf009d379c7ba6b0770ec.ts
-#EXTINF:-1,MULTISHOW
-P2p://51.79.41.138:18912/5bee51cb000be33919d709c711d03dde.ts
-#EXTINF:-1,Music Box
-P2p://51.79.41.138:18912/5bee51cf00025dc319d716f615a56ce3.ts
-#EXTINF:-1,MSNBC HD
-P2p://51.79.41.138:18912/5b593bde000d6234d379d7c74dd8781f.ts
-#EXTINF:-1,NAT GEO BR
-P2p://51.79.41.138:18912/5bee51d2000a15b819d724a2451a26ed.ts
-#EXTINF:-1,NAT GEO Wild BR
-P2p://51.79.41.138:18912/5bee51d90006e56519d73f2f0b113304.ts
-#EXTINF:-1,NAT-GEO
-P2p://51.79.41.138:18912/5b593be6000692ffd379f5421f363fda.ts
-#EXTINF:-1,NBC-GOLF
-P2p://51.79.41.138:18912/5b593bee0000bb8ad37a12fc650f7f77.ts
-#EXTINF:-1,NBC-HD
-P2p://51.79.41.138:18912/5b593bf1000ccd51d37a21d1479a44f7.ts
-#EXTINF:-1,NBCSN-HD
-P2p://51.79.41.138:18912/5b593c8f000428bad37c88ce71180be4.ts
-#EXTINF:-1,NFL-NETWORK
-P2p://51.79.41.138:18912/5b593c93000493e0d37c988d1fd90a20.ts
-#EXTINF:-1,Nickelodeon BR
-P2p://51.79.41.138:18912/5bee51e3000e41bf19d7682351f91f61.ts
-#EXTINF:-1,NICKTOONS
-P2p://51.79.41.138:18912/5b593c97000172abd37ca75318991f6f.ts
-#EXTINF:-1,阿曼苏丹Oman TV
-P2p://51.79.41.138:18912/5ce013da00060b671470ea384d2e4e57.ts
-#EXTINF:-1,OWN
-P2p://51.79.41.138:18912/5b593c9e000e6959d37cc60678cc4696.ts
-#EXTINF:-1,&Pictures HD
-P2p://51.79.41.138:18912/5d72028f000d6c09114e6324515b2ac7.ts
-#EXTINF:-1,Qatar TV
-P2p://51.79.41.138:18912/5ce013d1000923d91470c7db72ef1b82.ts
-#EXTINF:-1,Rama  Channel(越南)
-P2p://51.79.41.138:18912/5d7206ef0001c36e115f772652587bd1.ts
-#EXTINF:-1,QUOC HOI(越南)
-P2p://51.79.41.138:18912/5beec6ce000ea1381ba01e2b5c194b24.ts
-#EXTINF:-1,PTV HD(越南)
-P2p://51.79.41.138:18912/5beec6d6000237a11ba03a3e6aff5abf.ts
-#EXTINF:-1,PPTV(越南)
-P2p://51.79.41.138:18912/5d7206e700060db8115f58ff197c2506.ts
-#EXTINF:-1,RCTI
-P2p://51.79.41.138:18912/5d72049f0005545711566f9106780d3b.ts
-#EXTINF:-1,Rede TV
-P2p://51.79.41.138:18912/5bee5277000b190919d9a9680df841d5.ts
-#EXTINF:-1,DISNEY CHANNEL(葡萄牙)
-P2p://51.79.41.138:18912/5bee527400038b2b19d99bcc47124389.ts
-#EXTINF:-1,葡萄牙RTP1
-P2p://51.79.41.138:18912/5bee555a0009ba1719e4efd25cec3c11.ts
-#EXTINF:-1,SCIENCE
-P2p://51.79.41.138:18912/5b593ca2000d3c2dd37cd5587e2849c3.ts
-#EXTINF:-1,SCTV
-P2p://51.79.41.138:18912/5d72049a00086dbc11565cd425230002.ts
-#EXTINF:-1,SHOWTIME
-P2p://51.79.41.138:18912/5b593ca6000a671ad37ce43c097f614b.ts
-#EXTINF:-1,SHOWTIME2
-P2p://51.79.41.138:18912/5b593caa000a89a8d37cf3ec1d843e31.ts
-#EXTINF:-1,Starplus
-P2p://51.79.41.138:18912/5d72028e0003e26d114e5ccb7ee33229.ts
-#EXTINF:-1,SYFY(En)
-P2p://51.79.41.138:18912/5b593cb2000428d6d37d11866c85289b.ts
-#EXTINF:-1,TBS HD(En)
-P2p://51.79.41.138:18912/5b593cb600034f85d37d20e82bdf786c.ts
-#EXTINF:-1,TENNIS
-P2p://51.79.41.138:18912/5b593cba0006ee82d37d3172459d1d02.ts
-#EXTINF:-1,Thailnc LIVE(泰国)
-P2p://51.79.41.138:18912/5d7206ea0006c522115f64e611e95ffa.ts
-#EXTINF:-1,Thaifilm(泰国)
-P2p://51.79.41.138:18912/5d7206e90000180c115f5f49659e167d.ts
-#EXTINF:-1,Thanthi TV
-P2p://51.79.41.138:18912/5d720280000a157e114e27b170861dfc.ts
-#EXTINF:-1,THE CW SOUTH FLORIDA(sflcw)
-P2p://51.79.41.138:18912/5b593ae900043458d376185e45e46b15.ts
-#EXTINF:-1,THVL1(越南)
-P2p://51.79.41.138:18912/5b57f131000465e5ce6e21ae70436c42.ts
-#EXTINF:-1,TNN2(泰国)
-P2p://51.79.41.138:18912/5d7206f1000b4cc0115f816767e8209f.ts
-#EXTINF:-1,TNT-HD
-P2p://51.79.41.138:18912/5b593cbe000ae51ad37d421c15cb43a5.ts
-#EXTINF:-1,Trans TV
-P2p://51.79.41.138:18912/5d72049c00008f64115662a03e9726b6.ts
-#EXTINF:-1,TRAVEL-CHANNEL
-P2p://51.79.41.138:18912/5b593cc2000954d9d37d515e0cf90580.ts
-#EXTINF:-1,True  Music
-P2p://51.79.41.138:18912/5d7206f5000018f1115f8e2910305a5c.ts
-#EXTINF:-1,True  TPPY(泰国)
-P2p://51.79.41.138:18912/5d7206f30003ab9f115f87431b0d4f37.ts
-#EXTINF:-1,True X-ZYTE HD(泰国)
-P2p://51.79.41.138:18912/5d7206f6000c40fd115f952e0979002f.ts
-#EXTINF:-1,TRU TV
-P2p://51.79.41.138:18912/5b593cc60006374fd37d60235fe423e2.ts
-#EXTINF:-1,TSN1
-P2p://51.79.41.138:18912/5cf55a00000f055200cbde102a1f6bb9.ts
-#EXTINF:-1,TSN2
-P2p://51.79.41.138:18912/5cffd792000e927a29c66041424e5220.ts
-#EXTINF:-1,TSN3
-P2p://51.79.41.138:18912/5cffd7940009905b29c666c80f1c3c18.ts
-#EXTINF:-1,TSN4
-P2p://51.79.41.138:18912/5cffd7960007e5d529c66e2b73982d18.ts
-#EXTINF:-1,TSN5
-P2p://51.79.41.138:18912/5cffd798000451f529c6751156f32d26.ts
-#EXTINF:-1,TV LAND
-P2p://51.79.41.138:18912/5b593bce000c8ce7d37999095c2e2c0e.ts
-#EXTINF:-1,TVRI SPORT HD(SUPER SOCCER TV)
-P2p://51.79.41.138:18912/5b14090c0000e97417d0f26b3e4850a2.ts
-#EXTINF:-1,T MUSIC
-P2p://51.79.41.138:18912/5d72048f000a5667115632595ca565fc.ts
-#EXTINF:-1,astro Vanaali
-P2p://51.79.41.138:18912/5d72029600068236114e7cb75ec52335.ts
-#EXTINF:-1,VELOCITY-HD
-P2p://51.79.41.138:18912/5b593cca00034078d37d6f0814ff56e3.ts
-#EXTINF:-1,Very
-P2p://51.79.41.138:18912/5d7206eb000e6643115f6ac20a231576.ts
-#EXTINF:-1,VH1 BR
-P2p://51.79.41.138:18912/5bee4df40001a6a619c8074f691c0ac9.ts
-#EXTINF:-1,VH1
-P2p://51.79.41.138:18912/5b593cce00005873d37d7dec5c6a453b.ts
-#EXTINF:-1,VICELAND
-P2p://51.79.41.138:18912/5b59392f00011af3d36f59035509360b.ts
-#EXTINF:-1,WEATHER
-P2p://51.79.41.138:18912/5b593cd5000d1d9fd37d9c807c560c8b.ts
-#EXTINF:-1,WE-TV
-P2p://51.79.41.138:18912/5b593cd20000362ad37d8d7c360007dd.ts
-#EXTINF:-1,WGN-NEWS
-P2p://51.79.41.138:18912/5b593cd9000c4412d37dabf14dda3b00.ts
-#EXTINF:-1,WIN SPORTS
-P2p://51.79.41.138:18912/5bee5420000f418619e026aa78a35460.ts
-#EXTINF:-1,印度ZING
-P2p://51.79.41.138:18912/5b140a86000d4efe17d6ba281b876e59.ts
-#EXTINF:-1,加拿大CTV Sci-Fi Channel科幻頻道
-P2p://51.79.41.138:18912/5cffd7a8000e552429c6b62101c45bdb.ts
-#EXTINF:-1,加拿大HGTV HD
-P2p://51.79.41.138:18912/5b593bc300073eb4d3796cb908774fa7.ts
-#EXTINF:-1,美國BOSTON 25 NEWS
-P2p://51.79.41.138:18912/5b593b10000836aed376b1c0180c3f0f.ts
-#EXTINF:-1,印度AALAMI SAHARA
-P2p://51.79.41.138:18912/5b140a89000f379f17d6c65d66746e51.ts
-#EXTINF:-1,印度ALJAZEERA(半岛电视台)
-P2p://51.79.41.138:18912/5b140a84000533c717d6b0444e2a6dcd.ts
-#EXTINF:-1,印度B4U MOVIES
-P2p://51.79.41.138:18912/5ce00638000468b5143ba8fb145c0645.ts
-#EXTINF:-1,印度FILMY
-P2p://51.79.41.138:18912/5b140a890009bd5f17d6c4f567807bc6.ts
-#EXTINF:-1,印度IndiaTV
-P2p://51.79.41.138:18912/5b140a890004b9ea17d6c3ad76bc421d.ts
-#EXTINF:-1,印度NDTV新德里電視台
-P2p://51.79.41.138:18912/5b140a87000dc92517d6be2f7ee45257.ts
-#EXTINF:-1,印度SAHARA BIH
-P2p://51.79.41.138:18912/5b140a87000dc92517d6be2f7ee45257.ts
-#EXTINF:-1,印度SAHARA MP
-P2p://51.79.41.138:18912/5b140a850000e96e17d6b31302f418d9.ts
-#EXTINF:-1,印度SAHARA MUM
-P2p://51.79.41.138:18912/5b140a88000efa2e17d6c2654a1d3a44.ts
-#EXTINF:-1,印度SAHARA NAT
-P2p://51.79.41.138:18912/5b140a880009bb5717d6c10d55fc4fc1.ts
-#EXTINF:-1,印度SAHARA NCR
-P2p://51.79.41.138:18912/5b140a8800043fbe17d6bfa64e0f3a0d.ts
-#EXTINF:-1,印度SAHARA ONE
-P2p://51.79.41.138:18912/5b140a84000aafa217d6b1ac4c80417b.ts
-#EXTINF:-1,印度SAHARA UP
-P2p://51.79.41.138:18912/5b140a890004b9ea17d6c3ad76bc421d.ts
-#EXTINF:-1,印度Sanskar
-P2p://51.79.41.138:18912/5b140a89000f379f17d6c65d66746e51.ts
-#EXTINF:-1,阿联酋Saudi1
-P2p://51.79.41.138:18912/5ce013e10007793e147105ee3d480df6.ts
-#EXTINF:-1,印度ZEE FLASH
-P2p://51.79.41.138:18912/5b140a85000664f617d6b47b66ea0f3c.ts
-#EXTINF:-1,印度ZEE MP CHHATTISGA
-P2p://51.79.41.138:18912/5ce0063400068e18143b99e7231b1e0b.ts
-#EXTINF:-1,印度ZEE PUNJABI HH
-P2p://51.79.41.138:18912/5b140a8700088a7c17d6bcd74661512f.ts
-#EXTINF:-1,印度ZEE RAJASTHAN
-P2p://51.79.41.138:18912/5b140a8700088a7c17d6bcd74661512f.ts
-#EXTINF:-1,印度ZEE TV
-P2p://51.79.41.138:18912/5d720289000acccc114e4b086d2751b1.ts
-#EXTINF:-1,印度ZEE新闻台
-P2p://51.79.41.138:18912/5b140a8700034bae17d6bb7f05807cf9.ts
-#EXTINF:-1,印度ZNEWS
-P2p://51.79.41.138:18912/5b140a880009bb5717d6c10d55fc4fc1.ts
-#EXTINF:-1,印尼IGNW HD
-P2p://51.79.41.138:18912/5c90a36e000e3df293e5ef3a082413ee.ts
-#EXTINF:-1,印尼KTV HD
-P2p://51.79.41.138:18912/5d7202880002ee4a114e451c117c69b6.ts
-#EXTINF:-1,印尼SINEMA X
-P2p://51.79.41.138:18912/5c90a38400007cfa93e641b024a37892.ts
-#EXTINF:-1,印尼SCTV
-P2p://51.79.41.138:18912/5d72049a00086dbc11565cd425230002.ts
-#EXTINF:-1,印尼美都電視台Metro TV
-P2p://51.79.41.138:18912/5d720498000ede7c115656aa12c95c83.ts
-#EXTINF:-1,Indonesia_Ahsan TV
-P2p://51.79.41.138:18912/5c90a38f000d5d0d93e66ff330fb347f.ts
-#EXTINF:-1,Indonesia_AlIman TV
-P2p://51.79.41.138:18912/5c90a36b0001307b93e5e03742fc252d.ts
-#EXTINF:-1,Indonesia_Bandung TV
-P2p://51.79.41.138:18912/5c90a3660005cb2b93e5cdd76e806c25.ts
-#EXTINF:-1,Indonesia_CH6
-P2p://51.79.41.138:18912/5ce00c89000c024f1454575767663639.ts
-#EXTINF:-1,Indonesia_INDO24 TV
-P2p://51.79.41.138:18912/5ce00c8d000518431454653273415942.ts
-#EXTINF:-1,Indonesia_jtv
-P2p://51.79.41.138:18912/5ce00c7e000e647614542cfb105432b4.ts
-#EXTINF:-1,Indonesia_LANGSUNG
-P2p://51.79.41.138:18912/5ce00c71000cf6a71453f9d526bb320e.ts
-#EXTINF:-1,Indonesia_M Cine Channel
-P2p://51.79.41.138:18912/5ce00c6a000015711453db3104cc6f65.ts
-#EXTINF:-1,Indonesia_Md
-P2p://51.79.41.138:18912/5ce00c820009dcd714543b7221fc2f47.ts
-#EXTINF:-1,Indonesia_Metro TV
-P2p://51.79.41.138:18912/5c90a37d0000886893e626582d0b0d52.ts
-#EXTINF:-1,Indonesia_MNC TV
-P2p://51.79.41.138:18912/5c90a3720006e19393e5fcf6559b18ae.ts
-#EXTINF:-1,Indonesia_mutv
-P2p://51.79.41.138:18912/5ce00c8600023c161454491e27f32dd7.ts
-#EXTINF:-1,Indonesia_Puldapii TV
-P2p://51.79.41.138:18912/5c90a3880009310293e6538257754588.ts
-#EXTINF:-1,Indonesia_quran hidayah
-P2p://51.79.41.138:18912/5ce00c940005cfbf145480b81a213a70.ts
-#EXTINF:-1,Indonesia_rodjatv
-P2p://51.79.41.138:18912/5ce00c77000831551454100d22990e9a.ts
-#EXTINF:-1,Indonesia_rtv5
-P2p://51.79.41.138:18912/5ce00c7b0000cd1514541dc810e46a16.ts
-#EXTINF:-1,Indonesia_SCTV
-P2p://51.79.41.138:18912/5ce00c90000deb241454732c78f67d15.ts
-#EXTINF:-1,Indonesia_tv9
-P2p://51.79.41.138:18912/5ce00c6e00032f3c1453eb9d26ae0a1c.ts
-#EXTINF:-1,Indonesia_TVRI 3
-P2p://51.79.41.138:18912/5c90a3760000d4fe93e60b0f21ce0fb0.ts
-#EXTINF:-1,Indonesia_TVRI
-P2p://51.79.41.138:18912/5c90a3790008ec5193e618db1ad4595e.ts
-#EXTINF:-1,Indosiar
-P2p://51.79.41.138:18912/5d72049d000b4a34115669471a490adb.ts
-#EXTINF:-1,英國5Spike Channel5斯派克5
-P2p://51.79.41.138:18912/5b593cae00069ab4d37d028263a333b1.ts
-#EXTINF:-1,越南3 33HD
-P2p://51.79.41.138:18912/5d7206e100001827115f40096c610f09.ts
-#EXTINF:-1,越南5 SHOP ch nnu5HD
-P2p://51.79.41.138:18912/5d7206e20008ea4c115f463361693692.ts
-#EXTINF:-1,越南7 ch HD
-P2p://51.79.41.138:18912/5d7206e40002006c115f4c3e38da3cdd.ts
-#EXTINF:-1,越南FOX SPORT
-P2p://51.79.41.138:18912/5bf4f3c3000ce37233bfbac57c7601f3.ts
-#EXTINF:-1,越南FOX SPORT2
-P2p://51.79.41.138:18912/5c0f8a240000fe649b9b22b04be77536.ts
-#EXTINF:-1,越南HTV3
-P2p://51.79.41.138:18912/5c09fd92000ee7d685ee0bea73414b7b.ts
-#EXTINF:-1,越南HTV4
-P2p://51.79.41.138:18912/5befb737000e82aa1f4b3853035f4903.ts
-#EXTINF:-1,越南HTV7
-P2p://51.79.41.138:18912/5b8e5fb00002026ba30d4d9f4e3c1f45.ts
-#EXTINF:-1,越南HTV9
-P2p://51.79.41.138:18912/5b8e5fac000767b4a30d3f674191096b.ts
-#EXTINF:-1,越南HTVC THE THAO
-P2p://51.79.41.138:18912/5c0f8a200006dd329b9b148759ad160d.ts
-#EXTINF:-1,越南K+1
-P2p://51.79.41.138:18912/5be79db50002be6dffa7917563c52836.ts
-#EXTINF:-1,越南K+NS HD
-P2p://51.79.41.138:18912/5be79dbc000623fcffa7adb816774547.ts
-#EXTINF:-1,越南K+PC HD
-P2p://51.79.41.138:18912/5be79db8000f1cdfffa7a05a257150cc.ts
-#EXTINF:-1,越南K+PM HD VTC1
-P2p://51.79.41.138:18912/5be79dbf000d8fd4ffa7bb54206e5c51.ts
-#EXTINF:-1,越南MAX BY HBO
-P2p://51.79.41.138:18912/5c09fd960008b51485ee19f401b51d94.ts
-#EXTINF:-1,越南VTC1
-P2p://51.79.41.138:18912/5bf54128000ebc6734ee0dca6e8e4749.ts
-#EXTINF:-1,越南VTC10 netviet
-P2p://51.79.41.138:18912/5bf4f3b900054db433bf91c1256026f2.ts
-#EXTINF:-1,越南VTC14
-P2p://51.79.41.138:18912/5bf4f3b200070be033bf76e640f64cea.ts
-#EXTINF:-1,越南VTC16
-P2p://51.79.41.138:18912/5bf4f3b5000b9f2233bf83c77c4f0a1e.ts
-#EXTINF:-1,越南VTC3
-P2p://51.79.41.138:18912/5bf5412c000e870834ee1d5b04cd4ece.ts
-#EXTINF:-1,越南VTC4
-P2p://51.79.41.138:18912/5c09fd880002e1b785ede1bd2771400e.ts
-#EXTINF:-1,越南VTC5
-P2p://51.79.41.138:18912/5c09fd8b000b22d285edef9817135410.ts
-#EXTINF:-1,越南VTC6
-P2p://51.79.41.138:18912/5c09fd8f0002043f85edfce6165c24da.ts
-#EXTINF:-1,越南VTC7
-P2p://51.79.41.138:18912/5bf541300005a57434ee2ab9644c6a93.ts
-#EXTINF:-1,越南VTC9
-P2p://51.79.41.138:18912/5bf54133000c4eb034ee38261edd6020.ts
-#EXTINF:-1,越南VTV1
-P2p://51.79.41.138:18912/5bf4293900004c0130a88c792c291451.ts
-#EXTINF:-1,越南VTV2
-P2p://51.79.41.138:18912/5c09fd7d0007783785edb7fe1f5146ff.ts
-#EXTINF:-1,越南VTV3
-P2p://51.79.41.138:18912/5bf4293c000a073130a89ab278da17ec.ts
-#EXTINF:-1,越南VTV5
-P2p://51.79.41.138:18912/5c09fd8100022aa185edc6361ece378f.ts
-#EXTINF:-1,越南VTV6
-P2p://51.79.41.138:18912/5bf429400001b28e30a8a82f4a025b78.ts
-#EXTINF:-1,越南VTV7
-P2p://51.79.41.138:18912/5bf429430008489b30a8b59c5e6b4502.ts
-#EXTINF:-1,越南VTV8
-P2p://51.79.41.138:18912/5c09fd84000ade2c85edd4306b452045.ts
-#EXTINF:-1,越南VTV9
-P2p://51.79.41.138:18912/5bf429470000d1da30a8c348421a2c2c.ts
-#EXTINF:-1,越南VTVcab1
-P2p://51.79.41.138:18912/5c09fd9a0000ea0485ee279006b56813.ts
-#EXTINF:-1,越南VTVcab19
-P2p://51.79.41.138:18912/5bf4f3bc000b939c33bf9f1f534948e2.ts
-#EXTINF:-1,越南VTVcab20
-P2p://51.79.41.138:18912/5bf4f3c00004612a33bfacdb3ead22d6.ts
-#EXTINF:-1,越南VTVcab2-PhimViet
-P2p://51.79.41.138:18912/5c0f8a2b00030ca19b9b3e853bfe70b7.ts
-#EXTINF:-1,越南VTVcab3
-P2p://51.79.41.138:18912/5c09fd9d000c633585ee36367e981901.ts
-#EXTINF:-1,越南VTVcab5-E CHANNEL
-P2p://51.79.41.138:18912/5c0f8a2e000c23c19b9b4c8e546f2dd2.ts
-#EXTINF:-1,越南VTVcab7-D DRAMS
-P2p://51.79.41.138:18912/5c0f8a32000400f39b9b5a1b68495ffa.ts
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】新三国
+http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】我是特种兵
+http://tx.hls.huya.com/huyalive/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】五福星系列
+http://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】家有儿女
+http://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】爱情公寓
+http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】蜡笔小新
+http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】动漫-火神君
+https://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】动漫-1000种死法
+https://aldirect.hls.huya.com/huyalive/29141112-2689666878-11552031278144421888-3049003116-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】荒野生存
+https://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】三国演义
+https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】康熙微服私访记
+https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】康熙皇朝
+https://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】铁齿铜牙纪晓岚
+http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】大秦帝国
+https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】楚汉传奇
+https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】宝莲灯前传
+http://js.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】亮剑
+http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】神雕侠侣古天乐版
+http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【虎牙】倚天屠龙记苏有朋
+http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【斗鱼】Rainsunn[1920*1080]
+http://tx2play1.douyucdn.cn/live/323876r3i6lsHiFG_2000.flv?uuid=
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】时装1
+http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】时装2
+http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】时尚1
+http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】有象视频
+http://hls-ott-zhibo.wasu.tv/live/301/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】视频
+http://hls-ott-zhibo.wasu.tv/live/302/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】BBC系列
+http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】军事纪实
+http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】历史解密
+http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】科教人文
+http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】大国时代
+http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】热血抗战
+http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】睡前故事
+http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】公主城堡
+http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【咪咕】FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226756/index.m3u8
+#EXTINF:-1 group-title="轮播频道,#genre#",【华数】SD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226326/index.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",爱尔达综合
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c614a26c0e0fb521c5cdfa10ed7f2089.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",爱尔达影视
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0916fef64c4baab95f7097d001e4c27e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",中天综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",中天娱乐台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/25ea449d554a16ec584e82d039065e5f.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",中天新闻台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/e1a397539e76f45bbbf39d1467024aa3.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",东森综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/7485194388c0ca1d43a664701afb2ff2.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",东森新闻台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b237f97b0e9e21e88e0bdaae40730332.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",东森财经新闻台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/10e21c98ff74745141a386d91da24c56.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",东森电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/d2325cfdfd53364263d307573f78e3ce.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",东森洋片台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/24b15906d2250c062c0f0b5339e166b2.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",东森戏剧台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/17cdea424a288175c834060c58b3bb4e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",东森超视
+http://pili-live-hdl.qhmywl.com:80/dsdtv/47d46d26bba55dd674454ad46c569ffa.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",东森幼幼台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0c0a03db510687f73c455afcc220386b.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",民视新闻
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",靖天综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/7a7b662db65f478451144355efa0f02b.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",靖天国际台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/cbd38069eb1e8b2c04e356c22baac506.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",靖天戏剧台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4c3b3fa6235fce99e794a16e096c2e1b.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",靖天育乐台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b4b4eb536ffc346864d2dcc03adedd85.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",靖天欢乐台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4da43dff7cd731ffb9bbe9a85b029536.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",靖天日本台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/031b3e399e9530310abc135a0b19a8ac.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",靖天资讯台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/e81342a5e0ecde1ee634f19b50fab501.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",靖天映画
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4364abb0a9f358049a535f4692cd49b5.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",靖天电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",靖天卡通台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",靖洋卡通台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/8fa63f69fe90ce0597aa6d4b7c262810.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",寰宇新闻
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4677cf6625ce01b236bbb58f99094d51.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",寰宇新闻2台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",寰宇综合
+http://pili-live-hdl.qhmywl.com:80/dsdtv/82b78befe54a601876654e1db3e3741a.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",寰宇财经台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/77c9bab3af161386df16ad9d8a3f3541.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",三立综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/16eda25701fe842c519d881c68829ead.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",三立戏剧台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/bdc9e5f7487003c20223fd67f25c7ee7.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",三立台湾台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/e71635b53bb874a085b2a469802bbc81.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",三立都会台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4abe46a5faf4865e251ac981287a6e20.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",公视
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0be9e52678b937320897033d90bb268a.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",公视2台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/236c80ba515e5bf302f3db6f4d009914.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",公视三台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/514590fdb3ba8e3f2c3a15dd13037f31.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",卫视中文台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a08a123b4af3aebb4e19b82f64952c9e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",卫视电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",卫视合家欢
+http://pili-live-hdl.qhmywl.com:80/dsdtv/277056149034cc5fb133537bc411c2c9.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",卫视洋片台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/78c4edcada009192a9b1f8976b5692ab.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",八大综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a26d25ad9eaabca42fa6d526199d61e5.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",八大第一台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/5e147a8d04ab43725d40e72fd7169952.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",八大娱乐台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/31c5b2c0fa7ac37b2e1447befb076d08.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",八大戏剧台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/6d7d7a9c22ba9aa4e411e3f7567763d8.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",TVBS
+http://pili-live-hdl.qhmywl.com:80/dsdtv/f94be038bca84147bbf132d8ddd9bb39.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",TVBS精彩台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/15379cc75ee0fb41ab2fb3a11f3d909f.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",TVBS欢乐台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",亚洲综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/8e08d22adcc7748ceedc31006b55f7de.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",亚洲旅游台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a7003032346b06ad6a610ce1751be6a4.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",亚洲美食频道
+http://pili-live-hdl.qhmywl.com:80/dsdtv/13e17ff9d96096b87e7902d77452ae76.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",TLC旅游生活频道
+http://pili-live-hdl.qhmywl.com:80/dsdtv/2389cbac5b421dd5b069a232f3d321bc.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",中视
+http://pili-live-hdl.qhmywl.com:80/dsdtv/318e4839a23f9ff15e327de9bcb31687.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",中视新闻
+http://pili-live-hdl.qhmywl.com:80/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",中视经典
+http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",龙华电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",龙华经典台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",龙华洋片台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",龙华戏剧
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b40ec839440a97d24d0aee0c69d186a1.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",龙华偶像
+http://pili-live-hdl.qhmywl.com:80/dsdtv/046d62141df9366aa54a66b22e095e24.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",龙华影剧
+http://pili-live-hdl.qhmywl.com:80/dsdtv/d2e1d697b31906f91d7e19a5f06f64ed.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",龙华动画
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4a3c4fbd39ddf82979cf3ecf3cd942c8.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",纬来综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/932044d200ab730968a8f9bc67feaef5.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",纬来育乐台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/5cd65f73313b022253084c489a6705c8.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",纬来戏剧台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/82605f105052ccaef7bb5d55ebc1341d.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",纬来日本台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",纬来精彩台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c311c72c22313d2991be335ea4872f46.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",纬来体育台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/464311a99c6465a1f36681b73c62fa83.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",纬来电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4f10b67646969a422a5490deaaabbc69.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",台视
+http://pili-live-hdl.qhmywl.com:80/dsdtv/bec346d29d4c665d04db41d28a4e033f.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",台视综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a8905b7e88b656b83c0f5d8bf5771430.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",台视财经台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c5d061725e49943973c43a404b913f17.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",华视
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",年代MUCH
+http://pili-live-hdl.qhmywl.com:80/dsdtv/3d20cf4de65aadb4d2b2e30ad3974750.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",壹综合
+http://pili-live-hdl.qhmywl.com:80/dsdtv/3cec0560564363facfd892d88b741c62.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",FOX
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c2c91afe09bad325929734624c19d07b.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",FOX CRIME
+http://pili-live-hdl.qhmywl.com:80/dsdtv/833d6cdeed807b755e6c449832b26621.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",FOX Sports
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b00b46e382e81efd9902a848c9b89101.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",FOX Sports 2
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a726b0d8db38a23435c5c3ba95507d3e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",FOX Sports 3
+http://pili-live-hdl.qhmywl.com:80/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",FOX MOVIES
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b3d2208824d1ca27dad3068e376ab557.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",FOX家庭电影
+http://pili-live-hdl.qhmywl.com:80/dsdtv/440b3d3c474813d7ead7d3a795978e69.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Trace Sport Stars
+http://pili-live-hdl.qhmywl.com:80/dsdtv/3b88f91a420e6cd59cd034ccf2a05c10.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",欧洲体育
+http://pili-live-hdl.qhmywl.com:80/dsdtv/96681c92588f5254e1c9f8fcb41e9d64.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",ELEVVEN SPORTS PLUS
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b599c0682fbb5364078cb9e3093228a6.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",ELEVVEN SPORTS 2
+http://pili-live-hdl.qhmywl.com:80/dsdtv/94283c6401f80334d9acd488b649830b.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",智林体育台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",博斯高球1台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4870a14ca0496e434825594643eea173.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",博斯高球2台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",博斯魅力网
+http://pili-live-hdl.qhmywl.com:80/dsdtv/906ff5c1e590fdc0f41744077f56672a.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",博斯无限台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",博斯网球台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/cf415a2419c61638eefa5eb8c5a65922.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",博斯运动一台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",博斯运动二台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c71aa3f9ef9e92531a06863b9a731849.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",星卫娱乐
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4c3c2a7fe5ffc33e45bca04f983f02b0.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",星卫HD电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/41e05f3849c21412aa8b347f18adb3f6.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",好莱坞电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",影迷纪实台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",CatchPlay电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",LS TIME 龙祥时代电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a5da9875c963d704ac5dd8f866869723.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",壹电影
+http://pili-live-hdl.qhmywl.com:80/dsdtv/eb53b692ccbe8c836bc20be6734a9555.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",美亚电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/4a1141f101530bff4fc0e9229625e6b5.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",我的欧洲电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/2d2f46a778c93f01b614213456fc97fc.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",影迷电影台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/991d0a1e4fc3c270d037fae11c587741.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",华艺影剧台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/49d33b7521ceef2115572e8906e9f906.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",新加坡亚洲新闻台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/1aab6cf57296bdefc6f4bea94702782a.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",非凡新闻台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/408a2834f703f2162d0d5b5789344c39.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",幸福空间居家台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/891dfa401663622b29ab70c16ea2273e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",东风37台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0b2e19ee2374470b5dede1013afcb4b5.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",JET综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c4fcaea7013c6b1d6aef9f1d0e99871e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",高点综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/f11ea1c1918059c58b42c637fa9dc678.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",MY101综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/6c4078ac7601f5787aef2f8b88dd449c.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",国家地理悠人
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0293b493509468a0a896adea05ad5e30.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",国家地理野生
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a4540237835700ece1fc1e54ce826125.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",国家地理频道
+http://pili-live-hdl.qhmywl.com:80/dsdtv/1b4017a457de80eec599895ec807e124.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",动物星球
+http://pili-live-hdl.qhmywl.com:80/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",美食星球
+http://pili-live-hdl.qhmywl.com:80/dsdtv/7f2e2b78b85222886ccb3792c905408e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Smart知识台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/641befebabe286484103e2980e05694d.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",历史频道HD
+http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",HISTORY历史频道
+http://pili-live-hdl.qhmywl.com:80/dsdtv/998ce23199bda76900024601f6dd859d.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",HISTORY历史频道2
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b4d47c14a4665a2ef43d657ea6384c27.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",E!Entertainment
+http://pili-live-hdl.qhmywl.com:80/dsdtv/284df67673a590b64593e0127029b0b2.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Outoor
+http://pili-live-hdl.qhmywl.com:80/dsdtv/fa1bc78d17a433dfd3214271efe7e82b.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",达西文频道
+http://pili-live-hdl.qhmywl.com:80/dsdtv/6d5a837a6f42e9d82be9243e51a91d50.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",EYE TV旅游台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/6d6535e5e44f88df204129354e77b2a7.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Travel Channel
+http://pili-live-hdl.qhmywl.com:80/dsdtv/2f1e104da16f66b93ad4d873326b19eb.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Discovery Asia
+http://pili-live-hdl.qhmywl.com:80/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Discovery
+http://pili-live-hdl.qhmywl.com:80/dsdtv/ef2748398207873cae12b151ae78b0af.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Discovery科学
+http://pili-live-hdl.qhmywl.com:80/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",DMAX
+http://pili-live-hdl.qhmywl.com:80/dsdtv/41a76576ae78436eb0951f2aee0c9bda.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Animax
+http://pili-live-hdl.qhmywl.com:80/dsdtv/13b6c6ecbb388c105fd9d98338162abb.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",CINEMAX
+http://pili-live-hdl.qhmywl.com:80/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Cinema World
+http://pili-live-hdl.qhmywl.com:80/dsdtv/357252de83720e30d40c00bfba69c497.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",DIVA
+http://pili-live-hdl.qhmywl.com:80/dsdtv/2ff14655a982c6d2be2a8b0c5649d257.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Warner TV
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a645bdeafb1216c23352144c3505bd8c.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",AXN
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c762110b3eef8bcccce5863643dd66aa.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",TVN
+http://pili-live-hdl.qhmywl.com:80/dsdtv/060e39b20b7616170ba4ba63c53bc336.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Channel V
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c8ade260941e368acfdb110a04811b3e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",MTV Live
+http://pili-live-hdl.qhmywl.com:80/dsdtv/116911efa30e70c9cf64ea9a0e990a05.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",CNEX
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a079e0f13033fc06d42cd0e9e40913ee.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",CRIME
+http://pili-live-hdl.qhmywl.com:80/dsdtv/3b19a19852e7bdc6b6f238108c94cb82.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",迪士尼频道
+http://pili-live-hdl.qhmywl.com:80/dsdtv/198038b134ad459d9cc251038c74685a.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",梦工厂动画
+http://pili-live-hdl.qhmywl.com:80/dsdtv/aae9c139f056e6c003448ba1e4908ee3.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",I-FUN动漫台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",MOMO亲子台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/0c795e6e7f8e067dd4110a57375a71b9.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",CN卡通频道(台湾)
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c865782e4a131efe17651165835ca37e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",曼迪日本台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/d9445086fd2dd474087674f638f2a8ed.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",BabyTV
+http://pili-live-hdl.qhmywl.com:80/dsdtv/d7ede3e748413a7ad065d29dbe542149.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Babyfirst
+http://pili-live-hdl.qhmywl.com:80/dsdtv/efd423af0e64fd82c1cc29e909eb4303.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",My kids
+http://pili-live-hdl.qhmywl.com:80/dsdtv/9bb01fa9902e14cd5811f5474283171b.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",NICK 卡通
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a81b6e417028b6d72ed3e6ee7c42619b.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",HBO HD
+http://pili-live-hdl.qhmywl.com:80/dsdtv/13e83b20bc716e68221da438d761d352.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",BBC earth
+http://pili-live-hdl.qhmywl.com:80/dsdtv/f7146ac8e65cb75112431f87ddcea22e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",BBC World News
+http://pili-live-hdl.qhmywl.com:80/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",BBC Lifestyle
+http://pili-live-hdl.qhmywl.com:80/dsdtv/5e80f4a9e17c991df381030c65856687.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",HBO Hits
+http://pili-live-hdl.qhmywl.com:80/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",HBO Signature
+http://pili-live-hdl.qhmywl.com:80/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",HBO Family
+http://pili-live-hdl.qhmywl.com:80/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",法国时尚
+http://pili-live-hdl.qhmywl.com:80/dsdtv/f737108ad740b942b32d751b0577d534.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",ELTV生活英语台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/094cb0c295f8bde2de59d5f421230dbd.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",FX HD
+http://pili-live-hdl.qhmywl.com:80/dsdtv/245532ab74af9be852014a93e292f690.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",BoomErang卡通
+http://pili-live-hdl.qhmywl.com:80/dsdtv/65796ce70deacc164cf2eb854ad43994.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",彩昌影剧台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b93ac92b703885f3cfe39bad8aa689d1.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",BLUE Ant Extreme
+http://pili-live-hdl.qhmywl.com:80/dsdtv/7b3b2e1d0006091415635226a2ac5d86.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Blue Ant Entertainment
+http://pili-live-hdl.qhmywl.com:80/dsdtv/41005bf306743766c5affb055bc5c164.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",EYE TV戏剧台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/69a400e45b6fbd61c8182736ec80e013.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",HITS
+http://pili-live-hdl.qhmywl.com:80/dsdtv/e6d6d3927102ce6e0e99187b52946497.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",国兴卫视
+http://pili-live-hdl.qhmywl.com:80/dsdtv/148acbf5aac2d7a9afc4b6ab6e8f05ec.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",高点育乐台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/ab3024fd5d5b0e84cbcd0bc0085cf043.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",ET综合台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/f6e19af652637cfde3c0f5d34822b4b5.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",霹雳台湾台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/14b736ee363e84918a8c43c69691faaa.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",客家电视台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/9535868a6a173399d3913cab3bb61675.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",原住民频道
+http://pili-live-hdl.qhmywl.com:80/dsdtv/8f44c933620b603a874a18ed1bb9a033.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",香港电台
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="港台频道,#genre#",全美電視
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",澳门卫视
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",澳门澳亚卫视台
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",翡翠台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",香港J2台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",香港有线电视603
+http://pili-live-hdl.qhmywl.com:80/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",TVB明珠台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/e5b375085720fd04cec615352224b493.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",TVB 星河
+http://pili-live-hdl.qhmywl.com:80/dsdtv/e70f35708baededbbd1d0963f76981a1.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",TVB 功夫
+http://pili-live-hdl.qhmywl.com:80/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",阳光卫视
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",CNN NEWS
+http://pili-live-hdl.qhmywl.com:80/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",SKY NEWS
+http://pili-live-hdl.qhmywl.com:80/dsdtv/64a4807c0cf482cffe922d7b8f091303.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",LUXE.TV
+http://pili-live-hdl.qhmywl.com:80/dsdtv/5eb27870debdb04d89a6246b163c2da5.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Bloombreg TV
+http://pili-live-hdl.qhmywl.com:80/dsdtv/ab2450af4c80b52d0810eceaf055abee.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",NHK
+http://pili-live-hdl.qhmywl.com:80/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",NHK WORLD
+http://pili-live-hdl.qhmywl.com:80/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",FOX News
+http://pili-live-hdl.qhmywl.com:80/dsdtv/b78a7c4f460285596b53bfa802eca8e8.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",TV5 MONDE
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a9dd7099d0abf47c5e17f8038234df22.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",DWTV
+http://pili-live-hdl.qhmywl.com:80/dsdtv/a4aa25e01a432729323f4d0778605887.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",欧洲新闻
+http://pili-live-hdl.qhmywl.com:80/dsdtv/7c52797bf1ca2da52c212bdead1d607c.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",日-衛星劇場
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",日本映画HD
+http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",Z频道
+http://pili-live-hdl.qhmywl.com:80/dsdtv/30a7edb2f6c42bd079dd4910806decde.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",AMC日舞
+http://pili-live-hdl.qhmywl.com:80/dsdtv/40d0812307cd389be76c358de7f4913e.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",WaKaWaka Japan
+http://pili-live-hdl.qhmywl.com:80/dsdtv/6fab3a8298ba5097394c5fdcdea8ea81.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",花花公子韩国
+http://122.38.74.172:9981/stream/channelid/966306501.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",韩国娱乐台
+http://pili-live-hdl.qhmywl.com:80/dsdtv/8ae61414f7e2972598956105e2e9969d.m3u8
+#EXTINF:-1 group-title="港台频道,#genre#",LIFE TIME
+http://pili-live-hdl.qhmywl.com:80/dsdtv/d8ab211a4f23fe8e143757d13ade9b32.m3u8
