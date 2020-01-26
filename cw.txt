@@ -726,7 +726,7 @@ Baby TV 英语,p2p://185.169.196.146:9906/59fd088b000b59000235dd256d3d4ad5.ts
 【咪咕】FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226756/index.m3u8
 【华数】SD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226326/index.m3u8
 【周星星经典】影片不间断,http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-测试频道,genre#
+测试频道,#genre#
 爱尔达综合,http://pili-live-hdl.qhmywl.com:80/dsdtv/c614a26c0e0fb521c5cdfa10ed7f2089.m3u8
 爱尔达影视,http://pili-live-hdl.qhmywl.com:80/dsdtv/0916fef64c4baab95f7097d001e4c27e.m3u8
 中天综合台,http://pili-live-hdl.qhmywl.com:80/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.m3u8
