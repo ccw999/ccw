@@ -41,15 +41,15 @@ TVS5 广东少儿,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&
 新会综合,http://183.238.77.9:9090/live/xinhui_1500.m3u8
 佛山综合,http://183.238.77.9:9090/live/foshannews_1500.m3u8
 佛山公共,http://183.238.77.9:9090/live/foshanyingshi_1500.m3u8
-汕头一套HD,http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
-汕头二套HD,http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
-汕头三套HD,http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8#http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
+汕头一套HD,http://221.179.69.238:880/dx041.m3u8#http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
+汕头二套HD,http://221.179.69.238:880/dx2.m3u8#http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
+汕头三套HD,http://221.179.69.238:880/dx3.m3u8#http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
 港台新闻,#genre#
 TVB无线新闻台,http://61.147.122.15/flv.live.xylive.tv/live/00wxxw.flv#p2p://185.169.196.146:9906/5a562bec0007bfd761a2998e00b83dd5.ts#http://www.liveviptv.xyz/tv/tvb.php#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
 明珠台,p2p://185.169.196.146:9906/59fd0d0a0009323a02476cb020fe16f9.ts
 TVBS新闻台 HD,p2p://185.169.196.146:9906/59fd096d0003aa9702394e013b6206a2.ts#vjms://23.237.33.155:8500:3502/live/cid=348
 TVBS,p2p://185.169.196.146:9906/59fd20d3000f24fd0294b75f4a555e2a.ts#vjms://23.237.33.155:8500:3502/live/cid=349
-有线新闻台,http://61.147.122.14/flv.live.xylive.tv/live/youxianxinwen.flv#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 有线18台,http://61.147.122.14/flv.live.xylive.tv/live/18tai.flv
 viu six,p2p://185.169.196.146:9906/5b389c92000621bc35b08cbd438b4298.ts
 viu TV,p2p://185.169.196.146:9906/59fd171800092000026eb35003107eef.ts
@@ -148,9 +148,10 @@ CHINA MOVIE,p2p://185.169.196.146:9906/59fd31940007515202d627434d991d4f.ts
 综合娱乐,#genre#
 TVB J2,p2p://185.169.196.146:9906/59fd25e80008aaec02a88fc1476f2edf.ts#P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB明珠台,vjms://23.237.33.155:8500:3502/live/cid=367#p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#mitv://198.255.74.87:9906/5dc08f2e0006a51101b83ee3493e8249.ts
-TVB翡翠台,http://61.147.122.15/flv.live.xylive.tv/live/00fc.flv#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
+TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 民視台灣台HD,P2p://51.79.41.138:18912/5b14095f00097ec617d238d6575b7b8c.ts#p2p://185.169.196.146:9906/59fd0670000decc5022da459628c3d1a.ts
 TVBS欢乐台,p2p://185.169.196.146:9906/59fd20ae000635720294248563346fd6.ts#vjms://23.237.33.155:8500:3502/live/cid=438#rtmp://59.124.75.137/sat/tv421
+功夫台,p2p://185.169.196.146:9906/5a32174e0001f481d4b0ec8f67f06c2b.ts
 TVBS精采台HD,P2p://51.79.41.138:18912/5b14095e000d4f6717d235e84b4432ff.ts#p2p://185.169.196.146:9906/59fd250f000aa01602a54096673b0f2a.ts#p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 中视 HD,p2p://185.169.196.146:9906/59fd06ac000555a7022e8c862ebc1019.ts
 公视 HD,p2p://185.169.196.146:9906/59fd0656000e66cd022d3ee840ad175d.ts#vjms://23.237.33.155:8500:3502/live/cid=236
@@ -235,7 +236,6 @@ Eleven Sport 1,p2p://185.169.196.146:9906/59fd23c0000c1e7f02a0245c6964058b.ts
 Eleven Sports 2 HD,p2p://185.169.196.146:9906/5c14ca9000083cc807ee3e02685b1a90.ts
 DUBAL SPORTS 1,P2p://51.79.41.138:18912/5ce013dd000de8cf1470f7f476f375b9.ts
 US-ESPN-2,p2p://185.169.196.146:9906/5c03725c00032ba2c42db19965666a1e.ts
-功夫台,p2p://185.169.196.146:9906/5a32174e0001f481d4b0ec8f67f06c2b.ts
 港台育乐,#genre#
 国家地理野生,p2p://185.169.196.146:9906/59fd082b000c6ca7023466633fed4c93.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263
 国家地理,p2p://185.169.196.146:9906/59fd16240000683c026af7fe2edc67eb.ts#vjms://58.215.133.185:8500:3502/live/cid=115#vjms://23.237.33.155:8500:3502/live/cid=115#rtmp://58.200.131.2:1935/livetv/natlgeo
