@@ -48,6 +48,7 @@ TVS5 广东少儿,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&
 佛山影视频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 佛山高明频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.m3u8
 佛山三水频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
+普宁台,rtmp://rtmp2.danghongyun.com:1935/live/2ybartbd_87587630e8904f55a1340789928bb7f8
 揭阳综合,http://livejieyang.chinamcache.com/live/zb01.m3u8
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
 汕头一套HD,http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
