@@ -50,9 +50,9 @@ TVS5 广东少儿,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&
 佛山三水频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
 揭阳综合,http://livejieyang.chinamcache.com/live/zb01.m3u8
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
-汕头综合,rtsp://125.88.53.18:554/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
-汕头生活,rtsp://125.88.53.18:554/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?icpid=88888888
-汕头公共,rtsp://125.88.53.18:554/PLTV/88888895/224/3221227415/10000100000000060000000003869079_0.smil?icpid=88888888
+汕头一套HD,http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
+汕头二套HD,http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
+汕头三套HD,http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
 港台新闻,#genre#
 無線新聞臺,http://61.147.122.15/flv.live.xylive.tv/live/00wxxw.flv#mitv://198.255.74.57:10196/5e29dc8700036612a7b976d3220f5160#http://www.liveviptv.xyz/tv/tvb.php#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
 TVBS新聞臺,mitv://198.255.74.57:10196/5e29dccb00077c1ca7ba817e99a611e2
