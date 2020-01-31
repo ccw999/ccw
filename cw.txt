@@ -50,9 +50,9 @@ TVS5 广东少儿,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&
 佛山三水频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
 揭阳综合,http://livejieyang.chinamcache.com/live/zb01.m3u8
 揭阳公共,http://livejieyang.chinamcache.com/live/zb02.m3u8
-汕头一套HD,http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
-汕头二套HD,http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
-汕头三套HD,http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
+汕头综合,rtsp://125.88.53.18:554/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
+汕头生活,rtsp://125.88.53.18:554/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil?icpid=88888888
+汕头公共,rtsp://125.88.53.18:554/PLTV/88888895/224/3221227415/10000100000000060000000003869079_0.smil?icpid=88888888
 港台新闻,#genre#
 無線新聞臺,http://61.147.122.15/flv.live.xylive.tv/live/00wxxw.flv#mitv://198.255.74.57:10196/5e29dc8700036612a7b976d3220f5160#http://www.liveviptv.xyz/tv/tvb.php#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
 TVBS新聞臺,mitv://198.255.74.57:10196/5e29dccb00077c1ca7ba817e99a611e2
@@ -63,8 +63,8 @@ ViuTV,mitv://198.255.74.57:10196/5e29dcbd000622dba7ba4a7635bbb7b3
 ViuTV_6,mitv://198.255.74.57:10196/5e29dcbd00054d3ba7ba4a3f6b197153
 鳳凰香港臺,http://stream.mtime.info/live/fhwsxg/fhwsxg.m3u8#mitv://198.255.74.57:10196/5e29dcbd00005223a7ba48f91c2916bf
 凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv#p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts#vjms://23.237.33.155:8500:3502/live/cid=400
-鳳凰中文臺,mitv://198.255.74.57:10196/5e29dcbd0001f202a7ba496324f373f7
-鳳凰資訊臺,mitv://198.255.74.57:10196/5e29dcbd00011e47a7ba492d6820e3a1
+鳳凰中文臺,http://liveali.ifeng.com/live/FHZW.flv#mitv://198.255.74.57:10196/5e29dcbd0001f202a7ba496324f373f7
+鳳凰資訊臺,http://liveali.ifeng.com/live/FHZX.flv#mitv://198.255.74.57:10196/5e29dcbd00011e47a7ba492d6820e3a1
 年代新聞,http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv#mitv://198.255.74.57:10196/5e29dcc4000e1256a7ba67d6dcbd790f
 非凡新聞,mitv://198.255.74.57:10196/5e29dcc4000d3837a7ba679e0707e155
 三立新聞,mitv://198.255.74.57:10190126/5e29dcc7000e35e9a7ba739717ffe3c9
