@@ -359,8 +359,6 @@ Disney Channel迪士尼卡通(國語),P2p://51.79.41.138:18912/5b1409f30004f6ec1
 Disney Channel迪士尼卡通(日语),P2p://51.79.41.138:18912/5b140a57000904a717d60176480b2673.ts
 黑莓动画,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8#http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 天眼频道,#genre#
-武汉火神山,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230248/index.m3u8
-武汉雷神山,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230250/index.m3u8
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 银链坠潭,http://gccncc.v.wscdns.com/gc/hgsylztpb_1.flv
 黄果树六角亭,http://gccncc.v.wscdns.com/gc/hgsspzxdpb_1.flv
