@@ -61,11 +61,6 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 蛇口综合,http://218.17.99.211:82/hls/d4encs75.m3u8
 潮州综合,http://live.zscz0768.com/live/zhpd.m3u8#http://dslive.grtn.cn/czzh/sd/live.m3u8
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
-深圳都市,https://sztv-live.cutv.com/ZwxzUXr/500/k3ujw4z.m3u8?sign=d98e5d779cad2f8ac81b129ce5b5d904&t=5e318fab
-深圳DV生活,https://sztv-live.cutv.com/xO1xQFv/500/h1rhO4x.m3u8?sign=d4f6c194a2728dc00a9c0d11e674f67e&t=5e31900d
-深圳娱乐生活,https://sztv-live.cutv.com/1q4iPng/500/sifq40k.m3u8?sign=20de3e6308b7717084b3b2bb333edeac&t=5e31903e
-深圳少儿频道,https://sztv-live.cutv.com/1SIQj6s/500/58r1xI0.m3u8?sign=03d660e96e1790855a86f156fabe7838&t=5e325700
-深圳电视剧频道,https://sztv-live.cutv.com/4azbkoY/500/h1rha4b.m3u8?sign=c90426de612fd8378e2fa5431026403d&t=5e319088
 佛山综合频道,http://dslive.grtn.cn/fszh/sd/live.m3u8
 佛山公共频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
 佛山南海频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
