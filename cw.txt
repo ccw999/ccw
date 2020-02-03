@@ -258,7 +258,6 @@ DIVA HD,mitv://198.255.74.57:10596/5e29dcd5000dde39a7baaa31e9ef11bc
 中華美食,mitv://198.255.74.57:10596/5e29dcfa000e6ae6a7bb3add8633353b
 好消息2,mitv://198.255.74.57:10596/5e29dcd6000045e7a7baaa9eba587274
 信大HD,P2p://51.79.41.138:18912/5b14096a000c1de217d2647a3e82534a.ts
-佛衛慈悲台,P2p://51.79.41.138:18912/5bdbf39c000a4154d21721c16bc7247c.ts
 GOOD TV好消息,P2p://51.79.41.138:18912/5bdbf39200017a4bd216f86f7a511c7b.ts
 緯來育樂,mitv://198.255.74.57:10596/5e29dcc4000c5858a7ba6765eed8ba5e
 靖天國際臺,mitv://198.255.74.57:10596/5e29dcce000f18b6a7ba8f291d22225d
@@ -295,7 +294,7 @@ DW-TV,mitv://198.255.74.57:10596/5e29dceb000d92a0a7bb000d02c5ddfe
 华藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w1204199278.m3u8
 孝廉電視臺,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 孝廉電視臺,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/chunklist.m3u8
-佛卫慈悲臺,p3p://190.2.146.92:18912/5bdbf39c000a4154d21721c16bc7247c.ts#
+佛卫慈悲臺,p3p://190.2.146.92:18912/5bdbf39c000a4154d21721c16bc7247c.ts#P2p://51.79.41.138:18912/5bdbf39c000a4154d21721c16bc7247c.ts#
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/bts-Live1/hievent-hls/index.m3u8
 唯心電視臺,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心頻道,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
