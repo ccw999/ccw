@@ -75,7 +75,7 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 汕头二套HD,http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
 汕头三套HD,http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
 港台新闻,#genre#
-無線新聞臺,http://61.147.122.15/flv.live.xylive.tv/live/00wxxw.flv#mitv://198.255.74.57:10596/5e29dc8700036612a7b976d3220f5160#http://www.liveviptv.xyz/tv/tvb.php#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
+無線新聞臺,mitv://198.255.74.57:10596/5e29dc8700036612a7b976d3220f5160#http://www.liveviptv.xyz/tv/tvb.php#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
 NOW直播台,http://hls.ws.anyrtc.io/live/9d4a409b1a1f4eeb5a5ae23a94d7ecd5.flv
 TVBS新聞臺,mitv://198.255.74.57:10196/5e29dccb00077c1ca7ba817e99a611e2
 TVBS HD,mitv://198.255.74.57:10196/5e29dccf00042180a7ba90434587c4b3
@@ -87,7 +87,7 @@ ViuTV_6,mitv://198.255.74.57:10596/5e29dcbd00054d3ba7ba4a3f6b197153
 凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv#p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
 鳳凰中文臺,http://liveali.ifeng.com/live/FHZW.flv#mitv://198.255.74.57:10596/5e29dcbd0001f202a7ba496324f373f7
 鳳凰資訊臺,http://liveali.ifeng.com/live/FHZX.flv#mitv://198.255.74.57:10596/5e29dcbd00011e47a7ba492d6820e3a1
-年代新聞,http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv#mitv://198.255.74.57:10596/5e29dcc4000e1256a7ba67d6dcbd790f
+年代新聞,mitv://198.255.74.57:10596/5e29dcc4000e1256a7ba67d6dcbd790f
 非凡新聞,mitv://198.255.74.57:10596/5e29dcc4000d3837a7ba679e0707e155
 三立新聞,mitv://198.255.74.57:10596/5e29dcc7000e35e9a7ba739717ffe3c9
 東森新聞臺,mitv://198.255.74.57:10596/5e29dcc4000727f8a7ba66110711fb67
