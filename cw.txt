@@ -75,19 +75,19 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 汕头二套HD,http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
 汕头三套HD,http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
 港台新闻,#genre#
-無線新聞臺,mitv://198.255.74.57:11596/5e29dc8700036612a7b976d3220f5160#http://www.liveviptv.xyz/tv/tvb.php#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
-TVBS新聞臺,mitv://198.255.74.57:11596/5e29dccb00077c1ca7ba817e99a611e2
-TVBS HD,mitv://198.255.74.57:11596/5e29dccf00042180a7ba90434587c4b3
-有线新闻台,mitv://198.255.74.57:11596/5e29dcbc000ec5ffa7ba48c4ba18c467#http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-ViuTV,mitv://198.255.74.57:11596/5e29dcbd000622dba7ba4a7635bbb7b3
-ViuTV_6,mitv://198.255.74.57:11596/5e29dcbd00054d3ba7ba4a3f6b197153
-鳳凰香港臺,http://stream.mtime.info/live/fhwsxg/fhwsxg.m3u8#mitv://198.255.74.57:11596/5e29dcbd00005223a7ba48f91c2916bf
+無線新聞臺,mitv://198.255.74.57:11396/5e29dc8700036612a7b976d3220f5160#http://www.liveviptv.xyz/tv/tvb.php#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
+TVBS新聞臺,mitv://198.255.74.57:11396/5e29dccb00077c1ca7ba817e99a611e2
+TVBS HD,mitv://198.255.74.57:11396/5e29dccf00042180a7ba90434587c4b3
+有线新闻台,mitv://198.255.74.57:11396/5e29dcbc000ec5ffa7ba48c4ba18c467#http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+ViuTV,mitv://198.255.74.57:11396/5e29dcbd000622dba7ba4a7635bbb7b3
+ViuTV_6,mitv://198.255.74.57:11396/5e29dcbd00054d3ba7ba4a3f6b197153
+鳳凰香港臺,http://stream.mtime.info/live/fhwsxg/fhwsxg.m3u8#mitv://198.255.74.57:11396/5e29dcbd00005223a7ba48f91c2916bf
 凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv#p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts
-鳳凰中文臺,http://liveali.ifeng.com/live/FHZW.flv#mitv://198.255.74.57:11596/5e29dcbd0001f202a7ba496324f373f7
-鳳凰資訊臺,http://liveali.ifeng.com/live/FHZX.flv#mitv://198.255.74.57:11596/5e29dcbd00011e47a7ba492d6820e3a1
-年代新聞,mitv://198.255.74.57:11596/5e29dcc4000e1256a7ba67d6dcbd790f
-非凡新聞,mitv://198.255.74.57:11596/5e29dcc4000d3837a7ba679e0707e155
-三立新聞,mitv://198.255.74.57:11596/5e29dcc7000e35e9a7ba739717ffe3c9
+鳳凰中文臺,http://liveali.ifeng.com/live/FHZW.flv#mitv://198.255.74.57:11396/5e29dcbd0001f202a7ba496324f373f7
+鳳凰資訊臺,http://liveali.ifeng.com/live/FHZX.flv#mitv://198.255.74.57:11396/5e29dcbd00011e47a7ba492d6820e3a1
+年代新聞,mitv://198.255.74.57:11396/5e29dcc4000e1256a7ba67d6dcbd790f
+非凡新聞,mitv://198.255.74.57:11396/5e29dcc4000d3837a7ba679e0707e155
+三立新聞,mitv://198.255.74.57:11396/5e29dcc7000e35e9a7ba739717ffe3c9
 東森新聞臺,mitv://198.255.74.57:11596/5e29dcc4000727f8a7ba66110711fb67
 中天新聞,mitv://198.255.74.57:11596/5e29dccb000eb9f2a7ba83592cbd7f42
 中視新聞臺,mitv://198.255.74.57:11596/5e29dcc00009b1e4a7ba571739048e2a
