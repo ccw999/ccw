@@ -1,3 +1,9 @@
+港澳秒开,#genre#
+TVB翡翠,https://3grhdgmtsgyzdnpjtfa4uo.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791abc.flv
+无线新闻,https://1gr3demt1ge41hcjs8yzdepa.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791cde.flv
+J2,https://1ge51hcjigwzdncbafaaunpa.ourdvsss.com/hdl0901.plures.net/onlive/a195f07a-caaa-4c4d-930a-1156e791bcd.flv
+鳳凰中文臺,http://liveali.ifeng.com/live/FHZW.flv
+鳳凰資訊臺,http://liveali.ifeng.com/live/FHZX.flv
 央视地方,#genre#
 CCTV-1高清,rtsp://183.59.156.50/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPM6mos1IHjv1t7+cAii2qgw==:20200129225117,02040597503,10.171.93.178,20200129225117,02000000000000050000000000000152,7A47986FEA5275D617B07C7E2BF791D4
 CCTV-2高清测试,rtsp://183.59.156.50/PLTV/88888905/224/3221227634/10000100000000060000000004662503_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPcC0draa33m1PxBXOOpfMUQ==:20200129225117,02040597503,10.171.93.178,20200129225117,02000004000000052015041300000001,7A47986FEA5275D617B07C7E2BF791D4
