@@ -95,7 +95,6 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 深圳娱乐,rtsp://183.59.156.50/PLTV/88888895/224/3221226803/00000100000000060000000000338618_0.smil?icpid=88888888
 深圳少儿,rtsp://183.59.156.50/PLTV/88888895/224/3221226806/00000100000000060000000000338630_0.smil?icpid=88888888
 深圳DV,rtsp://183.59.156.50/PLTV/88888895/224/3221226774/00000100000000060000000000338632_0.smil?icpid=88888888
-深圳宜和购物,rtsp://183.59.156.50/PLTV/88888895/224/3221226809/00000100000000060000000000338633_0.smil?icpid=88888888
 深圳气象,rtsp://183.59.156.50/PLTV/88888895/224/3221227359/10000100000000060000000003547162_0.smil?icpid=88888888
 茶频道HD,rtsp://183.59.156.50/PLTV/88888895/224/3221228357/10000100000000060000000007978301_0.smil?icpid=88888888
 港澳頻道,#genre#
@@ -286,17 +285,6 @@ DW-TV,mitv://198.255.74.57:12396/5e45a53d00035da314417dc19a7ceefb
 True  Music,P2p://51.79.41.138:18912/5d7206f5000018f1115f8e2910305a5c.ts
 True  TPPY(泰国),P2p://51.79.41.138:18912/5d7206f30003ab9f115f87431b0d4f37.ts
 True X-ZYTE HD(泰国),P2p://51.79.41.138:18912/5d7206f6000c40fd115f952e0979002f.ts
-新唐人亚太台,https://live.ntdimg.com/aplive200/playlist.m3u8
-新唐人美东台,https://live.ntdimg.com/live400/playlist.m3u8
-新唐人美东台,https://live2.ntdimg.com/live330/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/uwlive990/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/uwlive520/playlist.m3u8
-新唐人美西台,https://live.ntdimg.com/sflive220/playlist.m3u8
-新唐人加东台,https://live.ntdimg.com/mllive860/playlist.m3u8
-新唐人加东台,https://live.ntdimg.com/mllive220/playlist.m3u8
-新唐人加西台,https://live.ntdimg.com/cwlive220/playlist.m3u8
-新唐人旧金山台,https://live.ntdimg.com/sflive990/playlist.m3u8
-新唐人中国台,https://live2.ntdimg.com/cnlive/playlist.m3u8
 日本马来,#genre#
 日テレ,mitv://198.255.74.57:12396/5e45a54b000693e91441b543adb249b8
 テレビ朝日,mitv://198.255.74.57:12396/5e45a54b0005bab01441b50ba6380a68
