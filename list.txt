@@ -1,3 +1,13 @@
+港台秒开,#genre#
+凤凰中文,http://liveali.ifeng.com/live/FHZW.flv
+凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
+有线新闻台,http://pull.scphsd.com/live/f17116cb89211bf3a0529b15c.flv
+无线新闻台,http://pull.scphsd.com/live/3a71b2c91a01b7621f5122a3c.flv
+ViuTV,http://pull.scphsd.com/live/aa35c7dc9141bcda4aa68.flv
+翡翠台,http://pull.scphsd.com/live/9ea88dtcd8db789c0b91bbcg3.flv
+TVB J2,http://pull.scphsd.com/live/34b2aa1f2a7278aa1ac07a14.flv
+明珠台,http://pull.scphsd.com/live/73305f9d5c6e3asdwdbd3265/playlist.m3u8
+中天新闻,http://pull.scphsd.com/live/9ef09dbb9c0a95a494c518fd585b434f/playlist.m3u8
 央视地方,#genre#
 CCTV-1高清,rtsp://183.59.156.50/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPM6mos1IHjv1t7+cAii2qgw==:20200129225117,02040597503,10.171.93.178,20200129225117,02000000000000050000000000000152,7A47986FEA5275D617B07C7E2BF791D4
 CCTV-2高清测试,rtsp://183.59.156.50/PLTV/88888905/224/3221227634/10000100000000060000000004662503_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPcC0draa33m1PxBXOOpfMUQ==:20200129225117,02040597503,10.171.93.178,20200129225117,02000004000000052015041300000001,7A47986FEA5275D617B07C7E2BF791D4
