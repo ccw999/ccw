@@ -1,4 +1,17 @@
 测试频道,#genre#
+TVB翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+TVB翡翠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+TVB明珠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+TVB明珠台,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+鳳凰電影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
+鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+鳳凰電影,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+星空衛視,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+RHK-31電視台,http://61.93.125.49:9981/stream/channelid/800825777?ticket=2e12aa19682c2fcf2bddacf8e4158ba7a160f77a&profile=pass
+RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+RHK-32電視台,http://61.93.125.49:9981/stream/channelid/1937987518?ticket=86a4cdeced8f00e53b3f0410f8f565741e14ea3f&profile=pass
+RHK-32電視台,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
 凤凰中文,p2p://142.4.96.113:7999/2e1416e03c5d5b88468e6ba1bdf80075
 凤凰资讯,p2p://142.4.96.113:7999/ee987b5f253f85f3ac789fc18266e98d
 凤凰香港,p2p://142.4.96.113:7999/02e951464b17777d78d69d2c83af22c8
