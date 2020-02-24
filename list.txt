@@ -347,64 +347,6 @@ Music Japan TV,mitv://42.116.8.235:9906/58a5394d000258ec002b3b8db66a5327.ts
 ナショナル ジオグラフィッ,mitv://42.116.8.235:9906/58a5394d0007da09002b3cf6ceb48c78.ts
 TBSニュースバード,mitv://42.116.8.235:9906/58a5394d0008eaaf002b3d3b91fd3936.ts
 旅チャンネル,mitv://42.116.8.235:9906/58a5394d000a0502002b3d84119d3d96.ts
-臺灣宗教,#genre#
-韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-大愛一臺,http://tv1.wanfudaluye.com/live/live.m3u8
-大愛二臺,http://tv2.wanfudaluye.com/live/live.m3u8
-大愛海外臺,http://tv3.wanfudaluye.com/live/live.m3u8
-人间衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
-人间衛視,http://54.64.23.79:1935/live/vod/chunklist_w2045233730.m3u8
-人间衛視,http://54.64.23.79:1935/live/vod/chunklist_w226782990.m3u8
-人间衛視,http://54.64.23.79:1935/live/vod/chunklist_w1420404598.m3u8
-华藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-华藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w119159473.m3u8
-华藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/chunklist_w1204199278.m3u8
-孝廉電視臺,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-孝廉電視臺,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/chunklist.m3u8
-佛卫慈悲臺,p3p://190.2.146.92:18912/5bdbf39c000a4154d21721c16bc7247c.ts#P2p://51.79.41.138:18912/5bdbf39c000a4154d21721c16bc7247c.ts#
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/bts-Live1/hievent-hls/index.m3u8
-唯心電視臺,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-唯心頻道,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-生命電視臺,http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
-生命電視臺,http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1280X720
-生命電視臺,http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1280X720
-净宗学院网络直播,http://hls.ciguang.tv/hdtv/video.m3u8?auth_key=1557799219-0-0-4c865ccdb89d8eb4cbe54be628c127d9
-香港佛陀教育协会,http://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-香港佛陀教育协会,http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-净空老法师讲经直播臺,https://tw1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-净空老法师讲经直播臺,https://tw3.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-净空老法师讲经直播臺,https://hk1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-净空老法师讲经直播臺,https://sg1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-净空老法师讲经,https://hk1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
-净空老法师讲经,https://tw3.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
-净空老法师讲经,https://hk2.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
-净空老法师讲经,https://sg1.amtb.de/liveedge/_definst_/masterck/playlist.m3u8
-净空老法师讲经,http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w660449818.m3u8
-净空老法师讲经,http://amtbsg.cloudapp.net/redirect/liveedge/_definst_/livetv/chunklist_w872255516.m3u8
-净空老法师讲经,http://amtbsg.cloudapp.net/liveedge/_definst_/livetv/chunklist_w577962608.m3u8
-悟道法师讲经,https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
-悟道法师讲经,https://tw3.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
-悟道法师讲经,https://hk2.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
-悟道法师讲经,https://sg1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
-多元文化,https://tw2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-多元文化,https://tw3.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-多元文化,https://de1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-多元文化,https://hk2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-多元文化,https://sg1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-繫念法會,https://tw1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-繫念法會,https://tw3.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-繫念法會,https://de1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-繫念法會,https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-繫念法會,https://sg1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-网络念佛堂,https://tw1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
-网络念佛堂,https://tw3.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
-网络念佛堂,https://de1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
-网络念佛堂,https://hk2.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
-网络念佛堂,https://sg1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
-儒释道网络电视台,http://amtbsg.cloudapp.net/liveedge/_definst_/cult/chunklist_w856981860.m3u8
-禅修電視臺,http://210.209.3.1/live/A0F68EE9-C2D8-CE9D-87A6-5A405AAC3B8E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1&start=0
-禅修電視臺,http://210.209.3.1/live/A0F68EE9-C2D8-CE9D-87A6-5A405AAC3B8E.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 體育頻道,#genre#
 FOX SPORTS 2,rtmp://59.124.75.137/sat/tv741#rtmp://59.124.75.137/sat/tv741
 ELTA體育2台201台,P2p://51.79.41.138:18912/5b1409da0004ba1317d418157a2631bc.ts
@@ -818,9 +760,6 @@ K频道 高清,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 青春乐园台(高清),p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
 乐活台(高清),p8p://0198.02686.cc:16871/5d25b7e80003e23d0a2fcce197673935.ts
 舒活台(高清),p8p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
-PLAYBOY,http://46.29.165.95:8081/stream/Playboy/chunks.m3u8
-Hustler HD,http://46.29.165.95:8081/stream/Hustler-HD/chunks.m3u8
-俄罗斯菊花台,http://46.29.165.95:8081/stream/Runight/chunks.m3u8
 本道無碼1,p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
 本道無碼2,p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
 本道無碼3,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
@@ -831,6 +770,49 @@ Hustler HD,http://46.29.165.95:8081/stream/Hustler-HD/chunks.m3u8
 本道無碼8,p8p://0198.02686.cc:16871/5d25b7e80003e23d0a2fcce197673935.ts
 本道無碼9,p8p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
 本道無碼10,p6p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
+十一本道,p9p://192.95.32.107:9906/59222d2f0009e1d64e05afb8166e2c72&link=
+十二本道,p9p://192.95.32.107:9906/59222c3b000337794e01f4e21ea11f29&link=
+十三本道,p9p://192.95.32.107:9906/59222cfc000d44ad4e04e95e6dad6550&link=
+十四本道,p9p://192.95.32.107:9906/59222d1f00026ac94e056f4f15752758&link=
+十五本道,p9p://192.95.32.107:9906/59222d0e0007d49c4e052e4a57ce514b&link=
+IBIZA巨乳控頻道, http://sywly.xyz/19hd.php?id=1
+HEYZO零時差頻道, http://sywly.xyz/19hd.php?id=2
+IBIZA制服誘惑頻道, http://sywly.xyz/19hd.php?id=3
+加勒比全球同步頻道, http://sywly.xyz/19hd.php?id=4
+松視+深夜劇場頻道, http://sywly.xyz/19hd.php?id=5
+松視+超強企劃頻道, http://sywly.xyz/19hd.php?id=6
+HOT+西洋黑映畫頻道, http://sywly.xyz/19hd.php?id=7
+IBIZAD槽素人頻道, http://sywly.xyz/19hd.php?id=9
+IBIZA日本無碼頻道, http://sywly.xyz/19hd.php?id=10
+加勒比高清無碼, p9p://192.95.32.107:9906/5a00e088000c87354f15a28579f75a51&link=
+東京熱高清無碼, p9p://192.95.32.107:9906/5a00e050000b83734f14c782452b6c50&link=
+熟女人妻高清無碼, p9p://192.95.32.107:9906/59222cba000a1df94e03e6bf4ac746e5&link=
+全高清無碼, p9p://192.95.32.107:9906/59222cab00007c3e4e03a9b06f6e3544&link=
+XXX高清無碼電影, p9p://192.95.32.107:9906/59222cdc000262844e04699514602c9f&link=
+韓國娛樂圈潛規則, p9p://192.95.32.107:9906/5a00e01f000a53fd4f1407cc4a6d185f&link=
+素人萌妹高清無碼, p9p://192.95.32.107:9906/59222c9c0003f2144e036ffb2b1a0fa3&link=
+ 人妻斬全高清無碼, p9p://192.95.32.107:9906/59222c6f00022fc44e02bfbf20064484&link=
+CatWalk高清無碼, p9p://192.95.32.107:9906/59222c7d0002cc1d4e02f69777421fe1&link=
+J-Girls高清, p9p://192.95.32.107:9906/59222cec00099ca14e04a9ee49f975aa&link=
+泰國高清無碼, p9p://192.95.32.107:9906/59222c8d00098c5a4e0336d2051d28b7&link=
+美麗人妻偷情高清, p9p://192.95.32.107:9906/59222ccd00018f794e042ec773946adc&link=
+美國黑白大戰高清, p9p://192.95.32.107:9906/5a00dee700058f184f0f43d2171210de&link=
+美麗黑人女孩高清, p美國淫蕩辦公室高清, p9p://192.95.32.107:9906/5a00de9d0000efc54f0e2193010f615d&link=
+美國淘氣情色高清, p9p://192.95.32.107:9906/5a00df47000468704f10ba870037058d&link=
+葡萄牙色情高清, p9p://192.95.32.107:9906/59222d2f0009e1d64e05afb8166e2c72&link=
+歐洲懷舊經典啄木鳥, p9p://192.95.32.107:9906/59222c3b000337794e01f4e21ea11f29&link=
+21 Members,p9p://192.95.32.107:9906/59222cfc000d44ad4e04e95e6dad6550&link=
+21 Sextuary,p9p://192.95.32.107:9906/59222d1f00026ac94e056f4f15752758&link=
+1 ON 1 SEX,p9p://192.95.32.107:9906/59222d0e0007d49c4e052e4a57ce514b&link=
+Dorcel HD,p9p://192.95.32.107:9906/59222c4f00014cfc4e0242852b9d1f13&link=
+Hulster HD,p9p://192.95.32.107:9906/5924d29d000952de585be53f04ef7bd7&link=
+SSHD, http://59.120.242.104:9000/live/live6.m3u8
+HOUSE, http://122.38.74.172:9981/stream/channelid/1086640851
+MIDNIGHT, http://122.38.74.172:9981/stream/channelid/339312133
+PLAYOY, http://122.38.74.172:9981/stream/channelid/966306501
+VIKI, http://122.38.74.172:9981/stream/channelid/798964177
+Honey, http://122.38.74.172:9981/stream/channelid/1463854277
+Desike, http://122.38.74.172:9981/stream/channelid/816085039
 私人影视_12303,#genre#
 色戒,https://qqc1107.phpdaniu.com/japan/20190829/5fjOUM6C/index.m3u8
 苹果,https://qqc1107.phpdaniu.com/japan/20190821/xKAFD0kH/800kb/hls/index.m3u8
