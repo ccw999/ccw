@@ -6,7 +6,11 @@ DOXTV,http://wsvpull.utoooo.com/live/fd0b9839fd9441c5b510fb09f74c915b.flv
 凤凰卫视资讯,http://wsvpull.utoooo.com/live/3adab63a2f8e4499b15b3944a7fdf491.flv
 TVB星河国语,http://wsvpull.utoooo.com/live/262630e23f204ce4906ddcca7dfdc331.flv
 TVB功夫,http://wsvpull.utoooo.com/live/e5ea475964ec4ce4b95e5bf1050426be.flv
+无线新闻,http://27.148.151.109/hdl0901.plures.net/onlive/a195f07a-caa-4c4d-930a-1156e791cde.flv
 有线新闻,http://wsvpull.utoooo.com/live/d21a305aa33e465b8f08182dd929029c.flv
+翡翠,http://27.148.151.148/hdl0901.plures.net/onlive/a195f07a-caa-4c4d-930a-1156e791abc.flv
+明珠台,http://124.225.98.40/hdl0901.plures.net/onlive/a195f07a-caa-4c4d-930a-1156e791cde12.flv
+J2,http://183.6.248.14/hdl0901.plures.net/onlive/a195f07a-caa-4c4d-930a-1156e791bcd1.flv
 有线财经资讯,http://wsvpull.utoooo.com/live/f733211edbd7410d9d6742482db0523a.flv
 有线娱乐台,http://wsvpull.utoooo.com/live/4d9b607496d74c74bcf648c8344de92a.flv
 有线603,http://wsvpull.utoooo.com/live/44d56e3173e24b769aebb807bd85f407.flv
