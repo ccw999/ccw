@@ -293,6 +293,30 @@ GOLF,mitv://198.255.74.57:11396/5e44318000092d630e9564f5e60f1d74
 Eleven Sport 1,p2p://185.169.196.146:9906/59fd23c0000c1e7f02a0245c6964058b.ts
 Eleven Sports 2 HD,p2p://185.169.196.146:9906/5c14ca9000083cc807ee3e02685b1a90.ts
 DUBAL SPORTS 1,P2p://51.79.41.138:18912/5ce013dd000de8cf1470f7f476f375b9.ts
+體育测试,#genre#
+有线球彩台,tvbus://3VjLoj1xZvw4X9p7n4n1q9D3JvaLoHTPPE4QR3tiKMnfz4vNw8
+有线体育台,tvbus://3QPFMD6DTQdSLgv1mXByvhMEUReyE6tutHFrRCJoWYnucJ4RAL
+有线体育2台,tvbus://3VVyGVyQB7hhcuRxWDKb7nxgCqJcBSkZCd9qBnWGp3k5hH74uf
+华视体育台,tvbus://3cG3v1uXp8ABHDkVnSNPB28wgYBxhQX3dkHDkd5sS6zCWgqDrW
+纬来体育,tvbus://3McvoXpquiexfVDyhdsLDsoo2cvXqdStNA5kG1LL4kLQLUDtuq
+爱尔达体育台,tvbus://2wuitocZ2KkcowAcNFkGyHxiAzMRR1efgXsQk4AHMQweVaQS3s
+爱尔达体育2台,tvbus://4SN61Uu7YEEb7cnWNwTdV4xuZMgBKvp9AGAarScuVXQvRJxTtf
+爱尔达体育3台,tvbus://3zRV3nyBBU25Kag1D7C4LQ2td3QLqQ5chdnE4G4QFybRRJDUgp
+NBA,tvbus://3CV92y789NguFBLqxLfeENKxQKyoodM1NftH8uYwMjtP5zKzCF
+Eleven_Sport1,tvbus://4TizJNEWymEBKVE9c9xfZrCmz5iFyvNtDFza3woFeEEtYmo2ww
+Eleven_Sport2,tvbus://2ya32EtoX5shs7wC1eMwxMQuoNZqAQYtY1boFdM2jf3Kn772vT
+博斯運動II,tvbus://4BE2WmJCZKGELVSddfwrVxayN1VxHQLt6MJ9e5jZi9cdGDzfbp
+博斯足球檯,tvbus://4BE2WmJCZKGELVSddfwrVxayN1VxHQLt6MJ9e5jZi9cdGDzfbp
+FOX_运动,tvbus://4s9mLzSWMnD3kLXGTJHZPhefn7DnuKugcVuzm6sdRgQNEEvd8U
+FOX_SPORTS_2,tvbus://3tu3LpWa2nW5We4s5oK9VGxd8RTuKmCtEWWVVNDrn8L69a6uq4
+ASSP1,tvbus://4N4K4T6w98gA6nRqJT3B9aXbcGKHN1pRcmw7wt9dJPFBz8tNmf
+ASSP2,tvbus://2zoA3d5r5AEVC4Fc4x7dw7sv6QHBYuRCSQL5P5i6bCdL7pBjWo
+ASSP3,tvbus://4joCnuRjN5oHfX9hX18vtTqPcjfkzVP2QhTXRGUdvCb2RLX3Vh
+ASSP4,tvbus://3e9R54cQEp68yZuMgKAKe4M3FaWgucaGEAPEGkRWHikivq7y5t
+astro SUPERSPORT,tvbus://3mWdqhYDKHuLwQvkMq9mSFH4NqHS3xFDnSVyvz2mcurpm3dXyB
+astro SUPERSPORT2,tvbus://3P2onoxjfKwDrR8WH5khwz3Qkfkuc1p8Asg2VbjQwxdJqJYpSg
+astro SUPERSPORT3,tvbus://3uiHrD9AZf9Jb7zLzMoRb26cRsKEULknVTMTPPG5kDsiymgYcf
+astro SUPERSPORT4,tvbus://2yVrNz6Q6TfYPvyp7LC2epL9z4ivFwK7oCHYNSjLUTjTDPmYiy
 天眼频道,#genre#
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 银链坠潭,http://gccncc.v.wscdns.com/gc/hgsylztpb_1.flv
