@@ -1,7 +1,5 @@
 港台秒开,#genre#
 RTM 2,https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-RTM Parlimen,https://rtm2mobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b2064000.m3u8
-RTM体育,https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 八度空间,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 Drama Sangat,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 中天娱乐,http://192.200.120.82:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
@@ -668,6 +666,7 @@ astro SUPERSPORT4,tvbus://2yVrNz6Q6TfYPvyp7LC2epL9z4ivFwK7oCHYNSjLUTjTDPmYiy
 雪乡梦幻家园,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
 嘉峪关长城,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
 轮播节目,#genre#
+粤语专场,http://aldirect.rtmp.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
 好莱坞,http://47.240.60.73/Mitv/cibn.php?id=8
 微电影,http://47.240.60.73/Mitv/cibn.php?id=25
 精品影院,http://47.240.60.73/Mitv/cibn.php?id=4
