@@ -1,4 +1,24 @@
 港台秒开,#genre#
+凤凰中文,http://liveali.ifeng.com/live/FHZW.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰香港,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
+翡翠台,http://hzyhjg.cc/cs/gat/fct-2.php
+J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
+明珠台,http://hzyhjg.cc/cs/gat/mzt-2.php
+无线财经资讯台,http://hzyhjg.cc/cs/gat/wxcjzx.php
+无线新闻台,http://hzyhjg.cc/cs/gat/wxxw-2.php
+有线新闻台,http://hzyhjg.cc/cs/gat/yxxw.php
+有线电影台,http://hzyhjg.cc/cs/gat/yxdy.php
+有线603台,http://hzyhjg.cc/cs/gat/yx603.php
+ViuTV,http://hzyhjg.cc/cs/gat/viu tv.php
+港台电视31,http://hzyhjg.cc/cs/gat/rhk31.php
+港台电视32,http://hzyhjg.cc/cs/gat/rhk32.php
+香港开电视,http://hzyhjg.cc/cs/gat/xgkds.php
+TVB星河,http://hzyhjg.cc/cs/gat/tvbxh.php
+TVB功夫,http://hzyhjg.cc/cs/gat/gft.php
+中天新闻,http://hzyhjg.cc/cs/gat/ztxw.php
+东森新闻,http://hzyhjg.cc/cs/gat/dsxw.php
+非凡新闻,http://hzyhjg.cc/cs/gat/ffxw.php
 RTM 2,https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 八度空间,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 Drama Sangat,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
