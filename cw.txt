@@ -2,11 +2,16 @@
 RTM 2,https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 八度空间,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 Drama Sangat,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天娱乐,http://192.200.120.82:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 中天综合,http://192.200.120.82:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 八大综合,http://192.200.120.82:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森洋片,http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森电影,http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+华视,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+年代 新闻,http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 龙祥时代电影,http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8
 福斯动作电影,http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 好莱坞电影,http://192.200.120.82:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
@@ -14,6 +19,10 @@ Drama Sangat,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/D
 TVB星河频道,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 亚洲电视台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+动物星球,http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+国家地理 (SD),http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+WarnerTV,http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+Fox Action Movie,http://192.200.108.130:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 央视地方,#genre#
 CCTV-1高清,rtsp://183.59.156.50/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPM6mos1IHjv1t7+cAii2qgw==:20200129225117,02040597503,10.171.93.178,20200129225117,02000000000000050000000000000152,7A47986FEA5275D617B07C7E2BF791D4
 CCTV-2高清测试,rtsp://183.59.156.50/PLTV/88888905/224/3221227634/10000100000000060000000004662503_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPcC0draa33m1PxBXOOpfMUQ==:20200129225117,02040597503,10.171.93.178,20200129225117,02000004000000052015041300000001,7A47986FEA5275D617B07C7E2BF791D4
@@ -110,7 +119,7 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 茶频道HD,rtsp://183.59.156.50/PLTV/88888895/224/3221228357/10000100000000060000000007978301_0.smil?icpid=88888888
 港澳頻道,#genre#
 翡翠臺,http://hzyhjg.cc/cs/gat/fct-2.php#mitv://198.255.74.57:12396/5e502083000f32013d330a38c5462049.ts#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-無綫新聞臺,http://hzyhjg.cc/cs/gat/wxxw-2.php#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+無綫新聞臺,http://hzyhjg.cc/cs/gat/wxxw-2.php#http://www.liveviptv.xyz/tv/tvb.php#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
 有綫新聞臺,http://hzyhjg.cc/cs/gat/yxxw.php#mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts
 有线電影臺,http://hzyhjg.cc/cs/gat/yxdy.php
 無綫財經,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
