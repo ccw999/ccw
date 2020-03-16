@@ -6,8 +6,8 @@
 J2,http://hzyhjg.cc/cs/gat/tvbj2-2.php
 明珠台,http://hzyhjg.cc/cs/gat/mzt-2.php
 无线财经资讯台,http://hzyhjg.cc/cs/gat/wxcjzx.php
-无线新闻台,http://hzyhjg.cc/cs/gat/wxxw-2.php
-有线新闻台,http://hzyhjg.cc/cs/gat/yxxw.php
+无线新闻台,http://104.243.17.219/qq/wxxw.php#http://hzyhjg.cc/cs/gat/wxxw-2.php
+有线新闻台,http://104.243.17.219/qq/yxxw.php#http://hzyhjg.cc/cs/gat/yxxw.php
 有线电影台,http://hzyhjg.cc/cs/gat/yxdy.php
 有线603台,http://hzyhjg.cc/cs/gat/yx603.php
 ViuTV,http://hzyhjg.cc/cs/gat/viu tv.php
@@ -139,8 +139,8 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 茶频道HD,rtsp://183.59.156.50/PLTV/88888895/224/3221228357/10000100000000060000000007978301_0.smil?icpid=88888888
 港澳頻道,#genre#
 翡翠臺,http://hzyhjg.cc/cs/gat/fct-2.php#mitv://198.255.74.57:12396/5e502083000f32013d330a38c5462049.ts#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-無綫新聞臺,http://hzyhjg.cc/cs/gat/wxxw-2.php#http://www.liveviptv.xyz/tv/tvb.php#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
-有綫新聞臺,http://hzyhjg.cc/cs/gat/yxxw.php#mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts
+無綫新聞臺,http://104.243.17.219/qq/wxxw.php#http://hzyhjg.cc/cs/gat/wxxw-2.php#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
+有綫新聞臺,http://104.243.17.219/qq/yxxw.php#http://hzyhjg.cc/cs/gat/yxxw.php#mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts
 有线電影臺,http://hzyhjg.cc/cs/gat/yxdy.php
 無綫財經,mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
 明珠臺,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
