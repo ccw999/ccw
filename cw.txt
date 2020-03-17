@@ -154,7 +154,7 @@ RHK32,mitv://198.255.74.57:12396/5e5020810005111f3d32ffd0f7c066b7.ts
 ViuTV,mitv://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
 ViuTV_6,mitv://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
 香港开电视,mitv://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
-TVB星河,http://hzyhjg.cc/cs/gat/tvbxh.php#mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts
+TVB星河,tvbus://2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD#http://hzyhjg.cc/cs/gat/tvbxh.php#mitv://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts
 RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 鳳凰中文臺,http://liveali.ifeng.com/live/FHZW.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 鳳凰資訊臺,http://liveali.ifeng.com/live/FHZX.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
@@ -322,6 +322,8 @@ TBSニュースバード,mitv://42.116.8.235:9906/58a5394d0008eaaf002b3d3b91fd39
 旅チャンネル,mitv://42.116.8.235:9906/58a5394d000a0502002b3d84119d3d96.ts
 韓國TV CHOSUN,P2p://51.79.41.138:18912/5b140a0a000388ab17d4d3475cd004fb.ts
 臺灣宗教,#genre#
+生命电视,tvbus://4mJbgVibyFJkcVs8cdQYbjHtVjAZcmT7z1u3hYhWPbbB4ECVrQ
+华藏卫视,tvbus://3xo3WJBvPNeMCZCGM9vCJNKoAvgecoiAoAJ7zVcECsvquRQwuX
 大愛一臺,http://tv1.wanfudaluye.com/live/live.m3u8
 大愛二臺,http://tv2.wanfudaluye.com/live/live.m3u8
 大愛海外臺,http://tv3.wanfudaluye.com/live/live.m3u8
