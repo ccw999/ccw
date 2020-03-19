@@ -606,6 +606,14 @@ Eleven_Sport1,tvbus://4TizJNEWymEBKVE9c9xfZrCmz5iFyvNtDFza3woFeEEtYmo2ww
 Eleven_Sport2,tvbus://2ya32EtoX5shs7wC1eMwxMQuoNZqAQYtY1boFdM2jf3Kn772vT
 DUBAL SPORTS 1,P2p://51.79.41.138:18912/5ce013dd000de8cf1470f7f476f375b9.ts
 天眼频道,#genre#
+巴拉达提茹卡,https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist_w1267727427.m3u8#https://cdn.jmvstream.com/w/IPC-6849/camera.stream/playlist.m3u8
+亚特兰大国际机场1,https://svc-lv-elemental-wsbtv.cmgvideo.com/hls/cmg_WSBTVT2a.m3u8
+亚特兰大国际机场2,https://svc-lv-elemental-wsbtv.cmgvideo.com/hls/cmg_WSBTVT3a.m3u8
+那霸机场,https://57eeb4e810fec.streamlock.net/live/livenahacity.smil/playlist.m3u8
+考拉凸轮-圣地亚哥动物园,https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/Playlist.m3u8
+蒂格雷斯-圣地亚哥动物园,https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8
+卑尔根-Festplassen,https://stream1.vossaskyen.no/bt/Festplassen.stream/playlist.m3u8
+鹰峰,https://cdn.jmvstream.com/w/IPC-6753/camera.stream/playlist.m3u8
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 银链坠潭,http://gccncc.v.wscdns.com/gc/hgsylztpb_1.flv
 黄果树六角亭,http://gccncc.v.wscdns.com/gc/hgsspzxdpb_1.flv
