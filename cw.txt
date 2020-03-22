@@ -307,10 +307,10 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 深圳气象,rtsp://183.59.156.50/PLTV/88888895/224/3221227359/10000100000000060000000003547162_0.smil?icpid=88888888
 茶频道HD,rtsp://183.59.156.50/PLTV/88888895/224/3221228357/10000100000000060000000007978301_0.smil?icpid=88888888
 港澳頻道,#genre#
-翡翠臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qxSYHSIptzinr0AhIDiB%3DCuhJTgW2Vjg4TMVqh%3DD7fUW9jDWuEJk5GCCByyr#mitv://198.255.74.57:12396/5e73b387000720e9c8294fc7e4346592#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-無綫新聞臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=QafK%3D%3D0q0h8MoOpTsTrOySFinUYJ9P8Ts%3DUPlXJNVNMavjOXlVYm6RYmqRcqH#mitv://198.255.74.57:12396/5e5020840000cc1e3d330a70ca1a8614.ts
+翡翠臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qxSYHSIptzinr0AhIDiB%3DCuhJTgW2Vjg4TMVqh%3DD7fUW9jDWuEJk5GCCByyr#mitv://198.255.74.57:12396/5e75e7647bd00034ec8d23c41bd7f7debe8.ts#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
+無綫新聞臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=QafK%3D%3D0q0h8MoOpTsTrOySFinUYJ9P8Ts%3DUPlXJNVNMavjOXlVYm6RYmqRcqH#mitv://198.255.74.57:12396/5e75d77e000a0fe9d085cd5ff18d0a89.ts
 有綫新聞臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=WVNOsiBQ5aJrtYdgbSgTAUwLvXwYtSJTsUayomersV8mwoOsxVko-QteqZeU4#mitv://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts
-有线電影臺,http://hzyhjg.cc/cs/gat/yxdy.php
+有线電影臺,http://hzyhjg.cc/cs/gat/yxdy.php#mitv://198.255.74.57:12396/5e502080000bda4b3d32fda5c67d4497.ts
 有线高清603台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=nqinAjjpulu0xWUwXjtSQVeo-4ShToCstizRtmezEix8FoQvEXh1%3DoyuCryX9
 有線娛樂台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=XiPZ2msw8Jw8-baJxamnskgRrQ%3DlAWvl2ccY6IAE9ldNipWztbgZ-BvyrYPYE
 無綫財經,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=lpch8kTltzzauzMp4vD06ozh60%3DZ9wAcDnQZ9oPV8vAAw3juuqvlLgDBupwN6#mitv://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
