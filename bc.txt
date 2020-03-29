@@ -132,32 +132,32 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 深圳气象,rtsp://183.59.156.50/PLTV/88888895/224/3221227359/10000100000000060000000003547162_0.smil?icpid=88888888
 茶频道HD,rtsp://183.59.156.50/PLTV/88888895/224/3221228357/10000100000000060000000007978301_0.smil?icpid=88888888
 港澳頻道,#genre#
-翡翠臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qxSYHSIptzinr0AhIDiB%3DCuhJTgW2Vjg4TMVqh%3DD7fUW9jDWuEJk5GCCByyr#P2p://198.255.74.57:12396/5e75e7647bd00034ec8d23c41bd7f7debe8.ts#p5p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-無綫新聞臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=QafK%3D%3D0q0h8MoOpTsTrOySFinUYJ9P8Ts%3DUPlXJNVNMavjOXlVYm6RYmqRcqH#P2p://198.255.74.57:12396/5e75d77e000a0fe9d085cd5ff18d0a89.ts
+翡翠臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qxSYHSIptzinr0AhIDiB%3DCuhJTgW2Vjg4TMVqh%3DD7fUW9jDWuEJk5GCCByyr#P2p://198.255.74.57:12396/5e8063c200092adff9b9b6c55c648733.ts#p5p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
+無綫新聞臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=QafK%3D%3D0q0h8MoOpTsTrOySFinUYJ9P8Ts%3DUPlXJNVNMavjOXlVYm6RYmqRcqH#P2p://198.255.74.57:12396/5e8063a80008f600f9b951276e91e26a.ts
 有綫新聞臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=WVNOsiBQ5aJrtYdgbSgTAUwLvXwYtSJTsUayomersV8mwoOsxVko-QteqZeU4#P2p://198.255.74.57:12396/5e502080000cac0a3d32fddab505f816.ts
 有线電影臺,http://hzyhjg.cc/cs/gat/yxdy.php#mitv://198.255.74.57:12396/5e502080000bda4b3d32fda5c67d4497.ts
 有线高清603台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=nqinAjjpulu0xWUwXjtSQVeo-4ShToCstizRtmezEix8FoQvEXh1%3DoyuCryX9
 有線娛樂台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=XiPZ2msw8Jw8-baJxamnskgRrQ%3DlAWvl2ccY6IAE9ldNipWztbgZ-BvyrYPYE
 無綫財經,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=lpch8kTltzzauzMp4vD06ozh60%3DZ9wAcDnQZ9oPV8vAAw3juuqvlLgDBupwN6#P2p://198.255.74.57:12396/5e5020810002752f3d32ff252f84c69d.ts
-明珠臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=04tmIDHaPkYLN%3D8kg9r4Ryc6auOzKivsc09vNkd0NEr9MHt7856yghLLO2pcd#P2p://198.255.74.57:12396/5e5020810005fbee3d33000cecd53652
-TVB J2,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=xxrAHsGu3zo7ZgGG3zYrYsp-0x4LVs2xI94ndfmNDxIHKwpO30rEYcJO30orW#P2p://198.255.74.57:12396/5e5020840001a1223d330aa74cb1ccd5.ts#p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+明珠臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=04tmIDHaPkYLN%3D8kg9r4Ryc6auOzKivsc09vNkd0NEr9MHt7856yghLLO2pcd#P2p://198.255.74.57:12396/5e8063f8000a049af9ba89ec8fd4b474.ts
+TVB J2,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=xxrAHsGu3zo7ZgGG3zYrYsp-0x4LVs2xI94ndfmNDxIHKwpO30rEYcJO30orW#P2p://198.255.74.57:12396/5e8063a8000959bef9b951413213f8fc.ts#p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 RTHK31,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=J7g-NO9Cy9wRiaguu7D1jPQDbIwNcNw6tHACPO9LeIQNReAPe-DKfKgPe-A1b#p5p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
-RHK32,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=FPKvZDY6bIsaiP63eCYKcI8JyP9zZE7OdHvBuDqOuP4CRXviiG9Hs%3DbfPJ8Fv#P2p://198.255.74.57:12396/5e5020810005111f3d32ffd0f7c066b7.ts
-ViuTV,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=LKDGVMBCoICBS5jYlPHERUW9kNBh0TVBSGDBSPXMSJT1Wd0moKFZk2WlSQXbu#P2p://198.255.74.57:12396/5e502081000434db3d32ff98c2c3e2b6.ts
-ViuTV_6,P2p://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
-香港开电视,P2p://198.255.74.57:12396/5e502083000ee1003d330a23da058f45.ts
+RHK32,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=FPKvZDY6bIsaiP63eCYKcI8JyP9zZE7OdHvBuDqOuP4CRXviiG9Hs%3DbfPJ8Fv#P2p://198.255.74.57:12396/5e8063f800093264f9ba89b788e6cda5.ts
+ViuTV,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=LKDGVMBCoICBS5jYlPHERUW9kNBh0TVBSGDBSPXMSJT1Wd0moKFZk2WlSQXbu#P2p://198.255.74.57:12396/5e8063f800085f76f9ba89811dd008b8.ts
+ViuTV_6,P2p://198.255.74.57:12396/5e8063f80007da86f9ba895f345cdd44.ts
+香港开电视,P2p://198.255.74.57:12396/5e8063c20008e8f4f9b9b6b46538c22e.ts
 TVB星河,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=HIVAhJNAfFSVhIgCzHuKcHvKjRcATICUhKNHx5yNiIAalYBieKSKzCPgRJS%3Dy#P2p://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts
-星空衛視,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=n11PDWzgCw-Exh0gUXwjEVus84SRQoSv8WzNskOz8VR4FoQvEXh1%3DoyuCryPC#P2p://198.255.74.57:12396/5e5020810001975d3d32feec7da3a9d1
+星空衛視,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=n11PDWzgCw-Exh0gUXwjEVus84SRQoSv8WzNskOz8VR4FoQvEXh1%3DoyuCryPC#P2p://198.255.74.57:12396/5e5020810001975d3d32feec7da3a9d1.ts
 耀才財經,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=J7QNjZN6y8gJdNACwIz9bZwuvHgxiNN%3DcHgFcZwyxIzFReAPe-DKfKgPe-Axk
 鳳凰中文臺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://liveali.ifeng.com/live/FHZW.flv
 鳳凰資訊臺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://liveali.ifeng.com/live/FHZX.flv
 鳳凰香港臺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8#http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
-TVB经典,P2p://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
+TVB经典,P2p://198.255.74.57:12396/e50207e00027a993d32f36ee2982d43.ts
 TVB娱乐P2p://198.255.74.57:12396/5e50207e0001a84e3d32f3391ccaac57.ts
 天映经典,p3p://190.2.146.92:18912/5b3c4f9b00031383627eef60721e1738.ts#p3p://51.79.41.138:18912/5b3c4f9b00031383627eef60721e1738.ts
-國家地理 HD,P2p://198.255.74.57:12396/5e502063000621963d328ae6b3104a59
-國家地理People HD,P2p://198.255.74.57:12396/5e502063000543333d328aad4edbe099
-國家地理野生頻道 HD,P2p://198.255.74.57:12396/5e502063000465923d328a746d4c01dd
+國家地理 HD,P2p://198.255.74.57:12396/5e502063000621963d328ae6b3104a59.ts
+國家地理People HD,P2p://198.255.74.57:12396/5e502063000543333d328aad4edbe099.ts
+國家地理野生頻道 HD,P2p://198.255.74.57:12396/5e502063000465923d328a746d4c01dd.ts
 華麗臺,P2p://198.255.74.57:12396/5e502088000cfd053d331d2f14f4f794.ts
 小太陽,P2p://198.255.74.57:12396/5e502088000b4dac3d331cc1b3720b92.ts
 全佳,P2p://198.255.74.57:12396/5e502088000a71553d331c886218242c.ts
