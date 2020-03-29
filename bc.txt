@@ -149,9 +149,9 @@ ViuTV_6,P2p://198.255.74.57:12396/5e5020810003593f3d32ff5f0b34caac.ts
 TVB星河,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=HIVAhJNAfFSVhIgCzHuKcHvKjRcATICUhKNHx5yNiIAalYBieKSKzCPgRJS%3Dy#P2p://198.255.74.57:12396/5e50207e00034a933d32f3a42bd947a2.ts
 星空衛視,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=n11PDWzgCw-Exh0gUXwjEVus84SRQoSv8WzNskOz8VR4FoQvEXh1%3DoyuCryPC#P2p://198.255.74.57:12396/5e5020810001975d3d32feec7da3a9d1
 耀才財經,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=J7QNjZN6y8gJdNACwIz9bZwuvHgxiNN%3DcHgFcZwyxIzFReAPe-DKfKgPe-Axk
-鳳凰中文臺,http://liveali.ifeng.com/live/FHZW.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-鳳凰資訊臺,http://liveali.ifeng.com/live/FHZX.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-鳳凰香港臺,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
+鳳凰中文臺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://liveali.ifeng.com/live/FHZW.flv
+鳳凰資訊臺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://liveali.ifeng.com/live/FHZX.flv
+鳳凰香港臺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8#http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
 TVB经典,P2p://198.255.74.57:12396/5e50207e00027a993d32f36ee2982d43.ts
 TVB娱乐P2p://198.255.74.57:12396/5e50207e0001a84e3d32f3391ccaac57.ts
 天映经典,p3p://190.2.146.92:18912/5b3c4f9b00031383627eef60721e1738.ts#p3p://51.79.41.138:18912/5b3c4f9b00031383627eef60721e1738.ts
