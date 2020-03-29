@@ -935,31 +935,46 @@ CIBN综合,http://v.iam7.cn/iptv/cibn.php?code=DianJing
 CIBN动作影院,http://v.iam7.cn/iptv/cibn.php?code=ShengHuo
 音乐欣赏,#genre#
 张惠妹-我可以抱你吗,http://vodcdn.video.taobao.com/oss/taobao-ugc/f4428d3e798c4d279f90ba68a5b06dfa/1520326486/video.m3u8.m3u8
+张惠妹-听海,http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
+张惠妹-我可以抱你吗,http://vodcdn.video.taobao.com/oss/taobao-ugc/f4428d3e798c4d279f90ba68a5b06dfa/1520326486/video.m3u8.m3u8
+张惠妹-别在伤口撒盐,http://vodcdn.video.taobao.com/oss/ali-video/5997fdd5c8b241b7b2995ae6da3bc8f8/1458294379/video.m3u8.m3u8
+张惠妹-趁早,http://cloud.video.taobao.com/play/u/1748679248/p/2/e/3/t/1/d/sd/79162948.m3u8
 陈慧娴-孤单背影,http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
 陈慧娴-归来吧,http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
-陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
 陈慧娴-人生何处不相逢,http://vodcdn.video.taobao.com/oss/ali-video/e45ed62546d055938577994f0c16d2e0/video.m3u8
+陈慧娴 Ⅰ 玻璃窗的爱,http://hc.yinyuetai.com/uploads/videos/common/735D0141130FBD578A853DD2AD39091C.mp4?sc=d73348128f5236e8&br=780&vid=764270&aid=1027&area=HT&vst=2Y
+陈慧娴 Ⅰ 孤单背影,http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
+陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+陈慧娴-红茶馆,http://vodcdn.video.taobao.com/oss/ali-video/22ecb463b2e44875b1fa78090d0ffd4e/1460015776/video.m3u8.m3u8
+陈慧娴-跳舞街,http://vodcdn.video.taobao.com/oss/ali-video/5e463c16339f3dd6839e6a7d2074915c/video.m3u8
+陈慧娴-逝去的诺言,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/i78cWdjCSglPJHDaedL%40%40ld.m3u8
 裘正海-爱你十分泪七分,http://vodcdn.video.taobao.com/oss/ali-video/6ad63af2dc4b244d0dc773b2004374c3/video.m3u8
+裘正海-爱我的人和我爱的人,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9Nbjzo7cialBKOcZ0fj%40%40hd.m3u8
 周华健-朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
 周华健-风雨无阻,http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
 周慧敏-痴心换情深,http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
+王靖雯-容易受伤的女人(现场版),http://hc.yinyuetai.com/uploads/videos/common/744D013C4956A33A659964DA5A9BEFE8.flv?sc=fea876b5ad609161&br=779&vid=587809&aid=257&area=HT&vst=2Y
+王菲-容易受伤的女人(粤语),http://vodcdn.video.taobao.com/oss/ali-video/ed5aed790e002b229c9a8870e900f985/video.m3u8
 王菲-容易受伤的女人(国语),http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
+王菲-笑忘书,http://vodcdn.video.taobao.com/oss/taobao-ugc/fb7718e75857465eb179e83c8fc45464/1491461356/video.m3u8.m3u8
 王菲-爱与痛的边缘,http://vodcdn.video.taobao.com/oss/ali-video/f5e79c70df75bdccf2714ed788764f58/video.m3u8
 王菲-如风,http://vodcdn.video.taobao.com/oss/ali-video/f176658a3f974aecd5ce3df456092835/video.m3u8
 王菲-执迷不悔,http://vodcdn.video.taobao.com/oss/ali-video/15bf7da88b44048edaabe73d6b17c00b/video.m3u8
 张冬玲-花开的时候你就来看我,http://hc.yinyuetai.com/uploads/videos/common/2B2F0150D0B20B8B6CAA935AB7992968.flv?sc=78d4ce17d79bbf84&br=781&vid=2410716&aid=9336&area=ML&vst=2Y
 大壮-我们不一样,http://vodcdn.video.taobao.com/oss/taobao-ugc/9572871aa45747a786679a822d7e2709/1511859261/video.m3u8.m3u8
 杨曼-9999滴眼泪,http://vodcdn.video.taobao.com/oss/ali-video/f6d027835c0e8f72d3c74379b86fb696/video.m3u8
-王心凌-我会好好的,http://vodcdn.video.taobao.com/oss/ali-video/8f327fd6bce61d0cf4159601a64b395b/video.m3u8,http://hc.yinyuetai.com/uploads/videos/common/8153012D1E870D4F4CAB88333BD9FE16.flv
 张学友-一颗不变心,http://vodcdn.video.taobao.com/oss/ali-video/1dcf180669ab98697e49c4c9b5f76cd7/video.m3u8
+张学友-只愿一生爱一人,http://vodcdn.video.taobao.com/oss/ali-video/ea4c5cc5613797ac8c44027adb1a029e/video.m3u8
+张学友-只想一生跟你走,http://vodcdn.video.taobao.com/oss/ali-video/7f567e1159256a099f3de8f1fdda2db0/video.m3u8
 王杰-王杰谁明浪子心,http://hc.yinyuetai.com/uploads/videos/common/26D4013866916BCB4A8F7207809DD419.flv?sc=4e1d3c11564efdc3&br=746&vid=456539&aid=2697&area=HT&vst=2Y
 张雨生-大海,http://hc.yinyuetai.com/uploads/videos/common/51A101449A344269C175455030FD4AAF.flv?sc=6a7dfe229a18d1f2&br=777&vid=159548&aid=1337&area=HT&vst=0Y
 辛晓琪-领悟,http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
 辛晓琪-俩俩相忘,http://vodcdn.video.taobao.com/oss/ali-video/6b406c70e3007a5c66a2085c39b13d80/video.m3u8
+辛晓琪-味道,http://vodcdn.video.taobao.com/oss/ali-video/ce005204d02a88cfac474f1583f08add/video.m3u8
+辛晓琪-仿佛是昨天,http://vodcdn.video.taobao.com/oss/ali-video/dbaf6d1d5a0ec2d93a668796e46e4f05/video.m3u8
 李翊君-诺言,http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
 李翊君-多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
 任齐贤-心太软,http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
-张学友-只愿一生爱一人,http://vodcdn.video.taobao.com/oss/ali-video/ea4c5cc5613797ac8c44027adb1a029e/video.m3u8
 酒梦,http://jsmov2.a.yximgs.com:80/upic/2019/12/23/07/BMjAxOTEyMjMwNzMzMTFfMTU0MDc1NjUwOF8yMDgyNDEyMTE5OF8yXzM=_b_Bb163055b62a2ec722054c3a849be8194.mp4
 一起走天涯,http://he.yinyuetai.com/uploads/videos/common/79B50158BEF8F91CF9558C09CFF045C4.mp4?sc=2685be0f7ed3f575&br=3128&vid=2741276&aid=22217&area=ML&vst=0
 孟庭苇-冬季到台北来看雨,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
@@ -979,13 +994,14 @@ CIBN动作影院,http://v.iam7.cn/iptv/cibn.php?code=ShengHuo
 孟庭苇-不下雨就出太阳吧,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
 吕方-朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
 陈明真-百万个吻,http://vodcdn.video.taobao.com/oss/ali-video/0c66aff1e198e944fb0460172d33d780/video.m3u8
-裘正海-爱我的人和我爱的人,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9Nbjzo7cialBKOcZ0fj%40%40hd.m3u8
 刘小慧-初恋情人,http://vodcdn.video.taobao.com/oss/ali-video/fce8631e2287d0c7ac98595060ab6e4c/video.m3u8
 黎瑞恩-为情为爱,http://vodcdn.video.taobao.com/oss/ali-video/73348f95d4cee3fcc96a63c30deed357/video.m3u8
 叶倩文-潇洒走一回,http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
 叶倩文-伤逝,http://vodcdn.video.taobao.com/oss/ali-video/9f6ad7cd057bc2cf21d1c5a6cc57eed7/video.m3u8
 叶倩文-曾经心痛,http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
 叶倩文-我的爱对你说,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
+叶倩文-选择,http://hc.yinyuetai.com/uploads/videos/common/701D012F46AB82FC2E6367008E570F12.flv?sc=de82a354a6780a2e&br=747&vid=159545&aid=1371&area=HT&vst=0Y
+叶倩文-情人知己,http://hc.yinyuetai.com/uploads/videos/common/99530140108EB10372A4873F55A761F7.flv?sc=1d49c74c48622b98&br=778&vid=720387&aid=1371&area=HT&vst=3Y
 张智霖-片片枫叶情,http://vodcdn.video.taobao.com/oss/ali-video/1d02cf8794a542c930fbf210c0a4e3e7/video.m3u8
 张智霖-现代爱情故事,http://vodcdn.video.taobao.com/oss/ali-video/864b1ca28cb8b566e2989775ae737de7/video.m3u8
 毛宁-晚秋,http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
@@ -995,9 +1011,11 @@ CIBN动作影院,http://v.iam7.cn/iptv/cibn.php?code=ShengHuo
 杨钰莹-我不想说,http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
 杨钰莹-等你一万年,http://vodcdn.video.taobao.com/oss/ali-video/e1e0b88e5c6d40d7176f353d41aac985/video.m3u8
 杨钰莹-红彤彤的春天,http://vodcdn.video.taobao.com/oss/ali-video/31fcc5242ffc9a00a5a62d89b21c0bea/video.m3u8
+杨钰莹-茶山情歌FHD,http://sh.yinyuetai.com/uploads/videos/common/3A5601582937C22BA600EA3DEF98628D.mp4
+杨钰莹-我在春天天等你HD,http://he.yinyuetai.com/uploads/videos/common/A6B60152EC59B3D0BA0969F1101A894A.flv
 吕方-多爱你一天,http://vodcdn.video.taobao.com/oss/ali-video/dcd97358c3e72377932aa883727320f9/video.m3u8
 吕方-爱一回伤一回,http://hc.yinyuetai.com/uploads/videos/common/4C65013D7763298CC909E7AD2B83A3A7.flv
-想起韩雪,http://cntv.hls.cdn.myqcloud.com/asp/hls/2000/0303000a/3/default/c0b3aca2daef4f37ba8b0391b44ba58d/2000.m3u8
+吕方-朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
 郭静 韦安-风景旧曾谙,http://he.yinyuetai.com/uploads/videos/common/72080159003C3B3A51E3E9370A68A260.mp4
 OYT女团-祈祷,http://he.yinyuetai.com/uploads/videos/common/15F4016AE8E7471D4C4135C0B91B0A36.mp4
 云朵-我在晚霞弹起琵琶,http://he.yinyuetai.com/uploads/videos/common/E23A01660053FDAB79310B770374B95C.mp4
@@ -1007,20 +1025,6 @@ snh48-那年夏天的梦,http://he.yinyuetai.com/uploads/videos/common/CAA4016AE
 萌萌哒天团-萌萌哒HD,http://he.yinyuetai.com/uploads/videos/common/A5D3014BD8B041773392904607E12749.flv
 萌萌哒天团-轮回HD,http://he.yinyuetai.com/uploads/videos/common/B5720157AE6A67E678785D202E6A7560.flv
 风小筝-桃花雪,http://he.yinyuetai.com/uploads/videos/common/FCC6016632768FD4FFF341CE1877EEA4.mp4
-韩国女团MV1,http://k.syasn.com/f/f211?k1=149.28.90.29&k2=csf2avzddt&k3=776f7222df19a60930dd1d9bb280961d&k4=557bb5614e7e0c065b34b52763f9715e&k5=f211&k6=f8df7f783c1150428867b35a6b9543e6_458b7f60b7435b614d1ac6719b24714c&k7=123&g=0
-韩国女团MV2,http://k.syasn.com/k/k737?k1=149.28.90.29&k2=csf2avzddt&k3=45dfcc6086a3076f4a3dda5edf82f7b4&k4=5ec33e0cfaf870c55d550521231f8beb&k5=k737&k6=1f52376f76e66ce2e6ed02efc82edb56_241be3a249ab4142ddd22db6fac3baeb&k7=123&g=0
-韩国女团MV3,http://k.syasn.com/k/k723?k1=149.28.90.29&k2=csf2avzddt&k3=66f0ff28a0a33c31600fc5408c764c63&k4=569ea222f112dd1d7f78e4903950763e&k5=k723&k6=b16f26b2e248885605c97484c3c90505_2fa7c172b8467d6cb7fa1adba9ae819a&k7=123&g=0
-韩国女团MV4,http://k.syasn.com/k/k718?k1=149.28.90.29&k2=csf2avzddt&k3=cab0021d030bab4f797654d2cb56e68b&k4=9a37ea68f909d893d77a21352f1e0506&k5=k718&k6=4356cf3584fa6d60961f560b92807680_43dcce20a11ec419c1ff7676bbccde34&k7=123&g=0
-韩国女团MV5,http://k.syasn.com/k/k717?k1=149.28.90.29&k2=csf2avzddt&k3=7e5a84b77fafd75f843616dca3d1ce0a&k4=6118c9970fcf4c71d8c974011c1da346&k5=k717&k6=d98de1382c740e6561943d4a5feb1cd9_aaaddb7f6b4c45eb05042439585b83d6&k7=123&g=0
-韩国女团MV6,http://k.syasn.com/k/k705?k1=149.28.90.29&k2=csf2avzddt&k3=5f2fadcd391ca00c038f2595e53ef4f3&k4=a38a390e31e043c994fe29a68177d083&k5=k705&k6=67d308ca49108ad69a09b71dcef9b687_e06e64cdf763060730b65c9074579b41&k7=123&g=0
-韩国女团MV7,http://k.syasn.com/k/k677?k1=149.28.90.29&k2=csf2avzddt&k3=881ac880594c78789f2b9463a3904cd2&k4=c83a9029f0b0609e767a1547ef208d4d&k5=k677&k6=bcbad0e9a9b284029a4fd3b32ee09555_2f991768682ea7ebbbdbb57c1e02f9dd&k7=123&g=0
-韩国女团MV8,http://k.syasn.com/k/k111?k1=149.28.90.29&k2=csf2avzddt&k3=c5d919cfec957a74f897eb4b0574c3e6&k4=528c93821b1590fc4de3217c2c77caa7&k5=k111&k6=77f5f2316e02d8cb97a93167eb553f0a_d9a5d2bc960440633a66942cfc4581bb&k7=123&g=0
-韩国女团MV9,http://k.syasn.com/k/k638?k1=149.28.90.29&k2=csf2avzddt&k3=48f64f589033a65b8d5b118aca4d4931&k4=bf989a1adf79c2b69e03da7977fbc520&k5=k638&k6=d3b3901db4ca7339e9380f38fe47934a_b1dd00c106af89917fc47a7e12279b0c&k7=123&g=0
-韩国女团MV10,http://k.syasn.com/k/k472?k1=149.28.90.29&k2=csf2avzddt&k3=af78a6a3ce52685c45730a9a0a0f3f76&k4=464aedf8bdfc612726367631ab65c8f7&k5=k472&k6=b704f7bd5d1147b80eb2357dda69683a_d168d02af929ee2eeea002952267ef73&k7=123&g=0
-韩国女团MV11,http://k.syasn.com/k/k34?k1=149.28.90.29&k2=csf2avzddt&k3=21a4a9dee79afefa05f9bf7573374a8e&k4=0f53b18ed80cf9997aed08f8f3f3f47c&k5=k34&k6=12f8fa1bfab5b5142398832bdbb1aa2a_0725451d5ee0d2238840d10c000edd13&k7=123&g=0
-韩国女团MV12,http://k.syasn.com/k/k51?k1=149.28.90.29&k2=csf2avzddt&k3=a557c5d0d44af3a92975a855681df90e&k4=a41c3edb27bfebc7c81a14ff6a31ba84&k5=k51&k6=0fff898e5d2782e071ecfe45c941f258_a70eaad553b9b32f878c195c6295146d&k7=123&g=0
-韩国女团MV13,http://k.syasn.com/k/k63?k1=149.28.90.29&k2=csf2avzddt&k3=c202c54f332adcb8c9927a96b832bd8d&k4=8456b83dbd822fab6cf99bdc15300886&k5=k63&k6=8e61c5fbf36d8324ed989131a8919ff4_fe347f82556012084d87ad3aac460650&k7=123&g=0
-韩国女团MV14,http://k.syasn.com/k/k79?k1=149.28.90.29&k2=csf2avzddt&k3=7c335067da4565ab53151bfb7235182f&k4=f2320831c274e32733e06f22c834e43d&k5=k79&k6=2836aea356186a4288fb5d043467ab9b_371747a8025945d9164b717a217fd90e&k7=123&g=0
 爱爱爱,http://he.yinyuetai.com/uploads/videos/common/D414016B0CBAEC0E8DA447840AD664CF.mp4
 MM-mm,http://he.yinyuetai.com/uploads/videos/common/D28E016AE8ADB9A4921F6871078EDCA2.mp4
 NC-A,http://he.yinyuetai.com/uploads/videos/common/448F016B0CBBDF4D7D6015BA9B03EB90.mp4
@@ -1039,6 +1043,8 @@ ai粉见面会,http://he.yinyuetai.com/uploads/videos/common/6C3A016AFE28F93308C
 陈佳-又见炊烟HD,http://he.yinyuetai.com/uploads/videos/common/A4CD0157B794E0FCB65D0E95CDFD625F.flv
 陈佳-伊人何处HD,http://hd.yinyuetai.com/uploads/videos/common/EB690154F5E683B3AAE6BB3D540CA9B3.flv
 陈佳-在水一方HD,http://he.yinyuetai.com/uploads/videos/common/7A220154CCDF67270EE2DB883387D2A2.flv
+陈佳 Ⅰ 伊人何处,http://hd.yinyuetai.com/uploads/videos/common/EB690154F5E683B3AAE6BB3D540CA9B3.mp4
+陈佳现场三首,http://he.yinyuetai.com/uploads/videos/common/425801618382DE8A9981CFB1F659BC8D.mp4
 高安-相爱的歌,http://he.yinyuetai.com/uploads/videos/common/51150166E3975B2C4385BD52F59E988D.mp4
 高安-相爱的歌DJ,http://hc.yinyuetai.com/uploads/videos/common/066B0166E706475031DB31430E88C1BF.mp4
 门丽-亲爱的你在那里DJ,http://he.yinyuetai.com/uploads/videos/common/C64C0166D8BDCA0E8E586CC7DFE17A34.mp4
@@ -1049,80 +1055,16 @@ ai粉见面会,http://he.yinyuetai.com/uploads/videos/common/6C3A016AFE28F93308C
 杨梓-狠心丢下我,http://hc.yinyuetai.com/uploads/videos/common/A28E0146945E83829BF0E6724CCEF9B3.flv
 陶玉玉-你会爱我到什么时候,http://he.yinyuetai.com/uploads/videos/common/A8B90153A78C7FE96DAB74A4CB61318F.flv
 魏新雨-一定要爱你,http://he.yinyuetai.com/uploads/videos/common/F5F401518CE39FD1E8B90258686056AA.flv
-杨钰莹-茶山情歌FHD,http://sh.yinyuetai.com/uploads/videos/common/3A5601582937C22BA600EA3DEF98628D.mp4
-杨钰莹-我在春天天等你HD,http://he.yinyuetai.com/uploads/videos/common/A6B60152EC59B3D0BA0969F1101A894A.flv
 卓依婷-潇洒走一回,http://he.yinyuetai.com/uploads/videos/common/A4C501479088781CE0D6893FD4A09705.flv
 卓依婷-小城故事,http://he.yinyuetai.com/uploads/videos/common/A92E014776F111406D673AD8D4D1FC29.flv
 卓依婷-999朵玫瑰,http://he.yinyuetai.com/uploads/videos/common/1813471_he_E98F0145C1580A1CD35FE0CA3D66F49B.flv
+卓依婷-明天会更好,http://hc.yinyuetai.com/uploads/videos/common/D0BD014AD748CDA43AA188AE945433BD.flv?sc=0653649a82225d8e&br=779&vid=2217625&aid=3207&area=HT&vst=0Y
+卓依婷-来生缘,http://hc.yinyuetai.com/uploads/videos/common/C778013C8014A81E83F675408607B5FB.flv?sc=d4f3a129f894ce12&br=775&vid=596225&aid=3207&area=HT&vst=0Y
 黄龄-钗头凤,http://he.yinyuetai.com/uploads/videos/common/B1DF0166BDFB0E79EC98A05C3170BA35.mp4
-毛不易 Ⅰ 像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
-毛不易 Ⅰ 不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
-毛不易 Ⅰ 消愁,https://vd3.bdstatic.com/mda-ifkj2zwdscwthsfj/logo/hd/mda-ifkj2zwdscwthsfj.mp4?pd=20
-毛不易 Ⅰ 如果有一天我变的很有钱,https://vd3.bdstatic.com/mda-jjmfvpaqh1z11ibc/hd/mda-jjmfvpaqh1z11ibc.mp4?pd=19&vt=1
-毛不易 Ⅰ 借,https://vd3.bdstatic.com/mda-ii2njckdbkmmcp81/hd/mda-ii2njckdbkmmcp81.mp4?pd=20
-毛不易 Ⅰ 牧马城市,https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A40Z%2F-1%2Fhost%2F4739737cd8b21cbdb307a5d008abe88a61afce23616c55f2a8fae768fc2b6764
-毛不易 Ⅰ 给你给我,https://vdse.bdstatic.com//4d056936c317b35f886ced83147ad7e8.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A42%3A28Z%2F-1%2Fhost%2F13c0f2dda852b6fdbcd7422de8ac3a48437304b4c38728deeedb6558c47a9eb9
-林啟得 Ⅰ 大田后生仔,https://vdse.bdstatic.com/1f5b8de1e52e8ebe8d5493d29bf29981.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F40284dba7f6298e947920fa281898998a95118f96c5b0689661ad64dc9bfbf06
-王七七 Ⅰ 我愿意平凡的陪在你身旁,https://vdse.bdstatic.com/570e05ef514db00b14c9c10d1aef7f1f.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd5332371b8e0882511e0b75041fcd24f0899fa4237f56edacb89b6734f95ca97
-萨顶顶 Ⅰ 左手指月,https://vdse.bdstatic.com//b35227847ccb42d48ea6414d47087ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A26%3A59Z%2F-1%2Fhost%2F9ce646d3e871069b3f23e45fc92e318ac9f5b3983d1ed3d996cc228026cba11e
-萨顶顶 Ⅰ 天地无霜,https://vdse.bdstatic.com//bd1f7fcb1263b608c60793c5c7094ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A25%3A13Z%2F-1%2Fhost%2F23ba28074d215adf2c6d0fb5cf09092bab7d4515197cbe40e43c536aa8ea3171
-于文文 Ⅰ 体面,https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost%2F1a9107b1210343ed30aa27779a042aab3d016777226b471ee5f38c8fc1e23cf1
-赵方婧 Ⅰ 芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
-张艺兴 Ⅰ sheep,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F1d12ad4ec35446ed93981927577c34a900dd755d2da3a1a0fd41c06ab23f4863
-刘珂矣 Ⅰ 芙蓉雨,https://vdse.bdstatic.com//85593e1127a1389dc49e9b0491814df2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A58%3A05Z%2F-1%2Fhost%2Fff58fddc077c03b3076760fe6728156bf526b7060c8e061d817388b869ac2320
-刘珂矣 Ⅰ 半壶纱,https://vd3.bdstatic.com/mda-kag404z097ciayha/hd/mda-kag404z097ciayha.mp4?pd=19&vt=1
-刘珂矣 Ⅰ 风筝误,https://vdse.bdstatic.com/c331feb0b4730b05d03793ffc024e62a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F41d81188bd164f23d0ae35e5a721b43c799caa783fde1de169616ab76271e197
-杨小壮 Ⅰ 孤芳自赏,https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A59Z%2F-1%2Fhost%2F861309b4a756c61dd0bad3718d9b8a27123c24838b9b4c8ec82bda2d04869c69
-阿悠悠 Ⅰ 你若三冬,https://vdse.bdstatic.com/865b4e81a729189fcafe910104151a75.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F572e0736b87ee3444ff2b54eb4ae655228dd4a84d9c6f7c6c588feb0ddbe1269
-陈雪凝 Ⅰ 绿色,https://vd3.bdstatic.com/mda-jm07uzeu8ssth6c7/hd/mda-jm07uzeu8ssth6c7.mp4?pd=19&vt=1
-陈雪凝 Ⅰ 你的酒馆对我打了烊,https://vd3.bdstatic.com/mda-ka59e4w0qxxsxnt0/hd/mda-ka59e4w0qxxsxnt0.mp4?pd=19&vt=1
-郁可唯 Ⅰ 思慕,https://vdse.bdstatic.com/5ec8d619d2ecb4ff832cfa252a967bb8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F8286183946f68461b8a723c098b274f2fcf856faf7f1f1c6bc9e5159dca71291
-李袁杰 Ⅰ 醉千年,http://vd3.bdstatic.com/mda-ihai9qt3yny3sx53/hd/mda-ihai9qt3yny3sx53.mp4?pd=19&vt=1
-魏新雨 Ⅰ 恋人心,https://vdse.bdstatic.com//e179fea2ba171a7268188a055702229d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A18%3A42Z%2F-1%2Fhost%2F84badc350a20f1dfe035e91408acfe7e4b1e69fe262f4faaa5ca3af837e1592b
-马健涛 Ⅰ 杀阡陌,https://vdse.bdstatic.com/17014878933308f5eb81b2a9d98783d8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd93a993d573ee3bcc23a02ca043066cf5106c87ccfff05e150791a903b70eb6b
-许艺娜 Ⅰ 如梦令,https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F105e954b546582862111230676e2cdc84b0144bf00447793daa377381b7ddb0f
-岑宁儿 Ⅰ 追光者,https://vd3.bdstatic.com/mda-jm9pesj1uis5fssj/hd/mda-jm9pesj1uis5fssj.mp4?pd=20&vt=1
-鹿晗 Ⅰ 让我留在你身边,https://vd3.bdstatic.com/mda-ka937fuwjq5nc1hd/hd/mda-ka937fuwjq5nc1hd.mp4?pd=19&vt=1
-阿冗 Ⅰ 你的答案,https://vdse.bdstatic.com/363480020aaa13240bbe51121d3e2a65.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F092913f5016d684c2e159452cc811ca27c7e7b8d9172bcd8211c87b7cae449bd
-海伦 Ⅰ 桥边姑娘,https://vdse.bdstatic.com/8ae4235344c61f9c05ccf3716c84e823.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fcce92f8d8c53b543a981ee2a1a20ab1b07c6da20e01f4f5aaf9d82e5be5e6587
-黑龙 Ⅰ 38度6,https://vd3.bdstatic.com/mda-jmeeqqmp5fc82mts/hd/mda-jmeeqqmp5fc82mts.mp4?pd=19&vt=1
-曾惜 Ⅰ 讲真的,https://vdse.bdstatic.com//9145a29aecbbf594c5b21ab1e6b14d20.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A46%3A15Z%2F-1%2Fhost%2Febfb2a020e4c84f1059f10839d2bda8f3e42dc62cd90d916b65f3ed55594d0aa
-柏松 Ⅰ 世界美好与你环环相扣,https://vdse.bdstatic.com//90f59f9978da89c2f5f8dec807a238b6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A25%3A00Z%2F-1%2Fhost%2Fdceb89b6b26de04c015a3fec7d0ef013f60090d7117e95a2df3657b2d2698d0f
-花粥 Ⅰ 纸短情长,https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost%2F591e9e423bf5d139c7eac161a481a18a0ccd851124162fcb1cc55e9b2aea36c6
-半阳 Ⅰ 一曲相思,https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A00%3A56Z%2F-1%2Fhost%2Fc4e678fdb911f8524405fcf1563002f4f9c892a22e3f2033b917a39f2d01ea20
-大壮 Ⅰ 我们不一样,https://vd3.bdstatic.com/mda-kaiskhuinjf4a8m4/hd/mda-kaiskhuinjf4a8m4.mp4?pd=20&vt=1
-肖战 Ⅰ 余年,https://vdse.bdstatic.com/660c78b56b33dca31497de9c6921c5a6.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fb2cec293153ef7795846f08b08f8ae00825357cd0ce4d2c2977afeb31bb70540
-宋茜 Ⅰ 屋顶着火,https://vd3.bdstatic.com/mda-ife08h4xpq85sg65/logo/hd/mda-ife08h4xpq85sg65.mp4?pd=19&vt=1
-李建 Ⅰ 一念一年,https://vdse.bdstatic.com/ea4ad861c3816ba29b415da2494706a1.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fe5580be73eed99ae2d6da05453b3d79cdba5a663c049f6367ae6ae4bc4fbb1e6
-张杰 Ⅰ 浮诛,https://vdse.bdstatic.com/1c2dc5580507bc1b0ef507c63b3fc461.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F592cfc9d5b5bc41242144504ccf1f9f9df9d15b863f6f33c610e552faf629cd9
-张杰 Ⅰ 就算没有如果,https://vdse.bdstatic.com//b362a1c2ecbc60b18d3dc06cdc97f142.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A58%3A51Z%2F-1%2Fhost%2Ff5f960beaff319951e978ff3850b31434a5d64f13c03c9724e988c251426270d
-胡夏 Ⅰ 只问你肯不肯,https://vdse.bdstatic.com/d4463cd83c0c47fba7ce65c71ad94bbb.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F09b9a33c3ded7584f68a3b875a10ba6a021d74f32e4144c2c0327f05c57abfdc
-王琪 Ⅰ 站着等你三千年,https://vdse.bdstatic.com//967f216dea39a6f3ccb44884a219f8ff.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A33Z%2F-1%2Fhost%2F35aa2c099605e74a562ca0358f457186636ef317d486aa3ed6f60fc45c2c6c9a
-隔壁老樊 Ⅰ 我曾,https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
-Ice Paper Ⅰ 心如止水,https://vd3.bdstatic.com/mda-jmqy5wv8ffvj2z5j/hd/mda-jmqy5wv8ffvj2z5j.mp4?pd=19&vt=1
-要不要买菜 Ⅰ 下山,https://vdse.bdstatic.com/e2d35750d461a6d524080c7a3c4cb7a4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F4fbaf22be415d855635ea3633a0f2fa9460bfb7cb3a13f2295a12b85245e0598
-马良/孙茜茹 Ⅰ 往后余生,https://vd3.bdstatic.com/mda-jatub6sb1pzwxfnb/hd/mda-jatub6sb1pzwxfnb.mp4?pd=19&vt=1
-花粥/马雨阳 Ⅰ 盗将行,https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost%2F79c755e10a28040d25c417fac00f7f489b53a6d21959e047363889876ded1bce
-萧全/孙语赛 Ⅰ 不仅仅是喜欢,https://vd3.bdstatic.com/mda-jhjswzf4u7tsujf1/hd/mda-jhjswzf4u7tsujf1.mp4?pd=19&vt=1
-张碧晨/杨宗纬 Ⅰ 凉凉,https://vdse.bdstatic.com//56bc61cb4f9d080708a7e74647a1c2b2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A48%3A39Z%2F-1%2Fhost%2F48ecdbdd75091e496f4412f52dce3ee2999cd6b370518825555d86e248da64cd
-张碧晨/赵丽颖 Ⅰ 望,https://vdse.bdstatic.com/25f5ae931f851bf09c48abaebe5d6f8d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fbeb15438a125af0e53bc38c98b3f304da2e2c0f1f61103ce81a9df486dc138a3
-冯绍峰/赵丽颖 Ⅰ 知否知否,http://vd3.bdstatic.com/mda-imnj0y8p1qrw232x/hd/mda-imnj0y8p1qrw232x.mp4?pd=19&vt=1
-SING女团 Ⅰ 千盏,http://220.194.238.108/13/d/q/a/o/dqaooyvczcidgxmvzcyazoizlitant/hd.yinyuetai.com/0C9C016C4D7471A80AA0EAF17F39E4DF.mp4?sc=31ee8cfcd276fd58
-1931女团 Ⅰ 加糖情歌,http://he.yinyuetai.com/uploads/videos/common/40BB0151B9193D2174639C70164398C4.mp4
-IZONE女团 Ⅰ LaVieenRose,http://220.194.238.104/14/d/q/l/j/dqljhajwvvnenqkzlgatbhyruaxzck/hd.yinyuetai.com/7AF50166BF214456F5111394A1CD06D8.mp4?sc=574eedc71f78baf5
-阿妮桑 Ⅰ 定格幸福,http://he.yinyuetai.com/uploads/videos/common/77D801660A17C4FF01F0117FA4129097.mp4
-阿妮桑 Ⅰ 情愿孤独终老,http://he.yinyuetai.com/uploads/videos/common/770501660A2E4F89402BC5E56C73F226.mp4
-阿妮桑 Ⅰ 伤的都是有情人,http://he.yinyuetai.com/uploads/videos/common/5F2E01660A27B8BEAA57CDA3E088D41A.mp4
-疯格 Ⅰ 爱越深情越浓,http://220.194.238.108/13/u/v/r/o/uvroeqqmxbcdcbrbnqoeqsnrhvbwvb/hc.yinyuetai.com/33CB016AC417E827BBA01218644667D9.mp4
-草蜢 Ⅰ 半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
+草蜢 Ⅰ 半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8
 草蜢 Ⅰ 失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
 草蜢 Ⅰ 忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
-陈慧娴 Ⅰ 玻璃窗的爱,http://hc.yinyuetai.com/uploads/videos/common/735D0141130FBD578A853DD2AD39091C.mp4?sc=d73348128f5236e8&br=780&vid=764270&aid=1027&area=HT&vst=2Y
-陈慧娴 Ⅰ 孤单背影,http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
-陈慧娴 Ⅰ 人生何处不相逢,http://vodcdn.video.taobao.com/oss/ali-video/e45ed62546d055938577994f0c16d2e0/video.m3u8
-陈佳 Ⅰ 伊人何处,http://hd.yinyuetai.com/uploads/videos/common/EB690154F5E683B3AAE6BB3D540CA9B3.mp4
-陈佳 Ⅰ 又见炊烟,http://he.yinyuetai.com/uploads/videos/common/A4CD0157B794E0FCB65D0E95CDFD625F.mp4
-陈佳 Ⅰ 在水一方,http://he.yinyuetai.com/uploads/videos/common/7A220154CCDF67270EE2DB883387D2A2.mp4
+草蜢-宝贝对不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
 陈倩倩 Ⅰ 陈倩倩,http://vodcdn.video.taobao.com/oss/ali-video/4fc8d043456c092c392483bd293d0ee3/video.m3u8
 信 Ⅰ 痴痴的等,http://220.194.238.108/13/e/h/c/q/ehcqynayfxyirmpxffnafnxjitjyal/hc.yinyuetai.com/C528016C17053EFB7D83DEC38D605EF4.mp4
 曾沛慈 Ⅰ 大风吹,http://hc.yinyuetai.com/uploads/videos/common/4086016D37EF920FB4DD565A05863393.mp4
@@ -1135,94 +1077,6 @@ Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D50166
 金莎 Ⅰ 他不爱我,http://he.yinyuetai.com/uploads/videos/common/DD4B01404D970F1819C94E57E97BFA8C.mp4
 金莎 Ⅰ 星月神话,http://hd.yinyuetai.com/uploads/videos/common/688C014E18AEED9D3972B06A25D70855.mp4
 李玉刚 Ⅰ 梦回诛仙,http://220.194.238.104/13/y/c/k/c/yckcjlqfbusmaeslsffhfvajlmxoqt/hd.yinyuetai.com/21D6016E026639F9174363E4B2EB78AC.mp4?sc=7c7e0152a3a80191
-乔玲二 Ⅰ 你走进了我的心房,http://220.194.238.108/13/t/k/c/c/tkccjkpcpjtpdkcqvwbfznzhrtezsa/hc.yinyuetai.com/1E57016ABB574354709C08D37DD47091.mp4
-菲儿 Ⅰ 嗒嘀嗒DJ,https://www.zuori.cc/index/downloads?d=43165&v=l4TsnKYB
-花姐 Ⅰ 夜之光DJ,https://www.zuori.cc/index/downloads?d=43165&v=zAO6qvCG
-菲儿 Ⅰ 自由飞翔DJ,https://www.zuori.cc/index/downloads?d=43165&v=L6ICJOfi
-花姐 Ⅰ 狂浪DJ一版,https://www.zuori.cc/index/downloads?d=43165&v=6zdYTEO6
-花姐 Ⅰ 狂浪DJ二版,https://www.zuori.cc/index/downloads?d=43165&v=vb1AB35h
-李晓杰 Ⅰ 把酒倒满DJ,https://www.zuori.cc/index/downloads?d=43165&v=WlIiBC5q
-王玉萌 Ⅰ 浪子回头DJ,https://www.zuori.cc/index/downloads?d=43165&v=174v7gDA
-程响 Ⅰ 新娘不是我DJ,https://www.zuori.cc/index/downloads?d=43165&v=TSHdk9Pq
-马博 Ⅰ 菊花爆满山DJ,https://www.zuori.cc/index/downloads?d=43165&v=VAUFRLxO
-杨小曼 Ⅰ 他弟弟打的洞DJ,https://www.zuori.cc/index/downloads?d=43165&v=fjYsH4dF
-小娟 Ⅰ 爱的路上千**DJ,https://www.zuori.cc/index/downloads?d=43165&v=8TwvlrJD
-徐倩 Ⅰ 今夜我一个人醉DJ,https://www.zuori.cc/index/downloads?d=43165&v=XFNFfJOj
-陈瑞 Ⅰ 念旧的人最容易掉眼泪DJ,https://www.zuori.cc/index/downloads?d=43165&v=9C73nVez
-王奕心 Ⅰ 我的唇吻不到我爱的人DJ,https://mrw.so/4YfW3b?dsjtv.com/wq/20200205.mp4
-李文静 Ⅰ 别说你已不在乎DJ,https://www.zuori.cc/index/downloads?d=43165&v=Y66OTjqm
-郭玲 Ⅰ 痴情的只有我一个DJ,https://www.zuori.cc/index/downloads?d=43165&v=mcj2eVwX
-郑茜匀 Ⅰ 爱一回伤一回DJ,https://www.zuori.cc/index/downloads?d=43165&v=0tAqty5t
-曹锦 Ⅰ 坦荡DJ,https://www.zuori.cc/index/downloads?d=43165&v=lOqFYRIM
-暴林 Ⅰ 殇雪DJ,https://mrw.so/4YfVOF?dsjtv.com/wq/20200205.mp4
-郭玲 Ⅰ 踢了他DJ,https://www.zuori.cc/index/downloads?d=43165&v=LiaGLVLJ
-于文文 Ⅰ 体面DJ,https://mrw.so/4BHIUc?dsjtv.com/wq/20200205.mp4
-孙艺琪 Ⅰ 情火DJ,https://mrw.so/4YfW8l?dsjtv.com/wq/20200205.mp4
-东方晴儿 Ⅰ 格局DJ,https://www.zuori.cc/index/downloads?d=43165&v=enlA8zRk
-寂悸 Ⅰ 潮湿的心DJ,https://mrw.so/4ubvQ9?dsjtv.com/wq/20200205.mp4
-艾萨 Ⅰ 不再犯错DJ,https://www.zuori.cc/index/downloads?d=43165&v=BOYEf9rJ
-安琪 Ⅰ 曾经被爱DJ,https://mrw.so/55HUem?dsjtv.com/wq/20200205.mp4
-粤语 Ⅰ 因为爱你DJ,https://mrw.so/5de7hV?dsjtv.com/wq/20200205.mp4
-郑伊涵 Ⅰ 公虾米DJ,https://mrw.so/4ubvRL?dsjtv.com/wq/20200205.mp4
-龚玥菲 Ⅰ 夜上海DJ,https://mrw.so/5de7j3?dsjtv.com/wq/20200205.mp4
-王思佳 Ⅰ 哦哦哦DJ,https://mrw.so/4JdW2r?dsjtv.com/wq/20200205.mp4
-杭娇 Ⅰ 忘了我的爱DJ,https://mrw.so/5de7kF?dsjtv.com/wq/20200205.mp4
-郭玲 Ⅰ 拥抱你离去DJ,https://mrw.so/4nlgiM?dsjtv.com/wq/20200205.mp4
-倪尔萍 Ⅰ 多年以后DJ,https://www.zuori.cc/index/downloads?d=43165&v=1wGNUgNV
-魏新雨 Ⅰ 为你祈祷DJ,https://mrw.so/4YfVXH?dsjtv.com/wq/20200205.mp4
-杨妹儿 Ⅰ 孤单为伴DJ,https://mrw.so/4BHIN6?dsjtv.com/wq/20200205.mp4
-大壮 Ⅰ 我们不一样DJ,https://www.zuori.cc/index/downloads?d=43165&v=7UwWDUgV
-唐古 Ⅰ 我又想你了DJ,https://www.zuori.cc/index/downloads?d=43165&v=s52XtKNE
-唐古 Ⅰ 突然好想念DJ,https://mrw.so/4BHINA?dsjtv.com/wq/20200205.mp4
-张欣 Ⅰ 最爱的那个人DJ,https://www.zuori.cc/index/downloads?d=43165&v=llE1Om64
-胡北清 Ⅰ 受伤的刺猬DJ,https://www.zuori.cc/index/downloads?d=43165&v=7iMdOWMi
-孙艺琪 Ⅰ 酒醉的蝴蝶DJ,https://www.zuori.cc/index/downloads?d=43165&v=kTQzY2sx
-张旭男 Ⅰ 爱如蝴蝶飞DJ,https://www.zuori.cc/index/downloads?d=43165&v=1bXGeiPA
-卓舒晨 Ⅰ 一首小情歌DJ,https://www.zuori.cc/index/downloads?d=43165&v=r1dEKoYD
-蓝琪儿 Ⅰ 不浪漫的罪DJ,https://www.zuori.cc/index/downloads?d=43165&v=Etl7dO5l
-张文绮 Ⅰ 三分钟热度DJ,https://mrw.so/4QK8VQ?dsjtv.com/wq/20200205.mp4
-孙耀威 Ⅰ 爱的故事上集DJ,https://mrw.so/4JdVRD?dsjtv.com/wq/20200205.mp4
-越南语 Ⅰ 失恋阵线联盟DJ,https://mrw.so/55HUmq?dsjtv.com/wq/20200205.mp4
-彭丽嘉 Ⅰ 爱着你宠着你DJ,https://mrw.so/5sgxzd?dsjtv.com/wq/20200205.mp4
-晓晓 Ⅰ 一路风雨一路你DJ,https://www.zuori.cc/index/downloads?d=43165&v=9502FbIS
-崔伟立 Ⅰ 你是我永远的痛DJ,https://www.zuori.cc/index/downloads?d=43165&v=FuVRCRqv
-孙艺琪 Ⅰ 苍天不负有情人DJ,https://mrw.so/5kKkvu?dsjtv.com/wq/20200205.mp4
-浪哥 Ⅰ 下辈子也要找到你DJ,https://mrw.so/4QK8YU?dsjtv.com/wq/20200205.mp4
-蓝琪儿 Ⅰ 寂寞爱上了眼泪DJ,https://www.zuori.cc/index/downloads?d=43165&v=Aflk4KCU
-天蠍丹 Ⅰ 你的世界到底有了谁DJ,https://www.zuori.cc/index/downloads?d=43165&v=06n9MBjO
-东方晴儿 Ⅰ 再见吧我最爱的你DJ,https://www.zuori.cc/index/downloads?d=43165&v=aDWwtm0M
-混音 Ⅰ 美丽的人说,http://www.zuori.cc/index/downloads?d=43165&v=6lD80AFR
-泰国 Ⅰ 黑色比基尼,http://www.zuori.cc/index/downloads?d=43165&v=Vv5vUlsM
-夜店 Ⅰ 调情俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=acPB0w06
-夜店 Ⅰ 比基尼派对,http://www.zuori.cc/index/downloads?d=43165&v=OvuRosJO
-夜店 Ⅰ 尬舞俱乐部,http://www.zuori.cc/index/downloads?d=43165&v=6coAxHVF
-夜店 Ⅰ 慕尼黑聚会,http://www.zuori.cc/index/downloads?d=43165&v=54M0khyO
-夜店 Ⅰ 两姐妹领舞,http://www.zuori.cc/index/downloads?d=43165&v=4xHguSxl
-混音 Ⅰ 迪斯科舞曲,http://www.zuori.cc/index/downloads?d=43165&v=sVUrPAkF
-电音 Ⅰ 做我的爱人,http://www.zuori.cc/index/downloads?d=43165&v=RaQAd2ef
-电音 Ⅰ 最好的一面,http://www.zuori.cc/index/downloads?d=43165&v=kJOLL7qs
-派对 Ⅰ 麦王滑板车,http://www.zuori.cc/index/downloads?d=43165&v=f4Mf7Sou
-舞曲 Ⅰ 大家都跳舞,http://www.zuori.cc/index/downloads?d=43165&v=VdI9HOwH
-舞曲 Ⅰ 极速鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=VSUEF0Sq
-舞曲 Ⅰ 再一次鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=R4SIsRRH
-混音 Ⅰ 温柔的抚摸我,http://www.zuori.cc/index/downloads?d=43165&v=nO3nU3vC
-夜店 Ⅰ 俱乐部的一天,http://www.zuori.cc/index/downloads?d=43165&v=v2cu36ks
-派对 Ⅰ 我们如何聚会,http://www.zuori.cc/index/downloads?d=43165&v=GphYWFNW
-派对 Ⅰ 我们如何聚会,http://www.zuori.cc/index/downloads?d=43165&v=GphYWFNW
-电音 Ⅰ 永远在你身边,http://www.zuori.cc/index/downloads?d=43165&v=DqPafWf2
-电音 Ⅰ 美女沙滩大海,http://www.zuori.cc/index/downloads?d=43165&v=h8SKIzR4
-电音 Ⅰ 活在黑夜里,http://www.zuori.cc/index/downloads?d=43165&v=LNnplfDT
-车展 Ⅰ 泰国迷你直通车,http://www.zuori.cc/index/downloads?d=43165&v=lpWRRLUD
-车展 Ⅰ 泰国比基尼舞蹈,http://www.zuori.cc/index/downloads?d=43165&v=U9kkGlvv
-派对 Ⅰ 泰国跳舞家族聚会,http://www.zuori.cc/index/downloads?d=43165&v=HXPFyvSW
-嗨曲 Ⅰ 黎明前的泰国美眉,http://www.zuori.cc/index/downloads?d=43165&v=vJeUyqpy
-舞曲 Ⅰ 风靡一时的鬼步舞,http://www.zuori.cc/index/downloads?d=43165&v=BnnJWufX
-车展 Ⅰ 泰国三美女比基尼,http://www.zuori.cc/index/downloads?d=43165&v=kt81QJUJ
-车展 Ⅰ 泰国超甜美丽模特,http://www.zuori.cc/index/downloads?d=43165&v=njEPbOh5
-派对 Ⅰ 迈阿密音乐节克鲁斯,http://www.zuori.cc/index/downloads?d=43165&v=XEX5F0J1
-走秀 Ⅰ 祝贺男人比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=fe0MmmdY
-车展 Ⅰ 泰国波动比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=8ojPWmEM
-车展 Ⅰ 泰国郊郎蓝色比基尼美女,http://www.zuori.cc/index/downloads?d=43165&v=yq8JSUqD
 王琪|万爱千恩,http://em.21dtv.com/songs/60171731.mkv
 王琪|站着等你三千年,http://em.21dtv.com/songs/60170285.mkv
 崔伟立|酒醉的蝴蝶,http://em.21dtv.com/songs/60178952.mkv
@@ -1245,6 +1099,151 @@ Light Ⅰ 火箭少女101,http://he.yinyuetai.com/uploads/videos/common/B9D50166
 站着等你三千年,http://cdn12.mudu.tv/uploads/106151/640_480/9f30b41065d660242797a95abaf5bff7.m3u8
 为情所伤,http://myun-hw-s3.myun.tv/melj80jz/5vjjkgj1/l7x6zgr5/5zaemom0_1566657042208354137_480p.m3u8
 张燕-亲爱的人,http://he.yinyuetai.com/uploads/videos/common/102001430ACB6CA8342539EEA3BC52A2.flv
+一起加油,http://47.94.192.143:81/a.aac
+张碧晨-凉凉,http://vodcdn.video.taobao.com/oss/taobao-ugc/81a4db5f7bb14f2e8260445fedc805c0/1484029283/video.m3u8
+陈倩倩-婴儿,http://vodcdn.video.taobao.com/oss/ali-video/4fc8d043456c092c392483bd293d0ee3/video.m3u8
+黄凯芹-伤感的恋人,http://vodcdn.video.taobao.com/oss/ali-video/71b50ed488178715c6144a55b11e8d03/video.m3u8
+黄凯芹-雨中的恋人们,http://vodcdn.video.taobao.com/oss/ali-video/75a2bc3f02719748be65b567afb8e0de/video.m3u8
+黄凯芹-相爱很难,http://vodcdn.video.taobao.com/oss/ali-video/11b6273898b6a1b1da34e646264cd036/video.m3u8
+梁朝伟-一天一天爱恋,http://vodcdn.video.taobao.com/oss/ali-video/d8c74bd184d05f8cf1cbd4bbd7307f79/video.m3u8
+梁朝伟-你是如此难以忘记,http://hc.yinyuetai.com/uploads/videos/common/0C7C0145748675101D16C4C5610CC44B.flv?sc=07275b09dd69ad65&br=774&vid=2034743&aid=2349&area=HT&vst=0Y
+巫启贤-只因你伤心,http://vodcdn.video.taobao.com/oss/ali-video/c28acbe36530da595b04161855bba004/video.m3u8
+巫启贤-太傻,http://vodcdn.video.taobao.com/oss/ali-video/e6f2953419f904065dc2ce38efc85515/video.m3u8
+彭佳慧-无法割舍,http://vodcdn.video.taobao.com/oss/ali-video/8be8f7d28d4f2c7ce759d431f0d3181b/video.m3u8
+彭佳慧-回味,http://vodcdn.video.taobao.com/oss/ali-video/6801f707771eacdb5264f8bb20e4d599/video.m3u8
+范玮琪-到不了,http://vodcdn.video.taobao.com/oss/taobao-ugc/fa0717711bea440094da793d11790f26/1492758270/video.m3u8.m3u8
+范玮琪-可不可以不勇敢,http://vodcdn.video.taobao.com/oss/taobao-ugc/281fad47bf534456b587495a8edf0d7a/1530774215/video.m3u8.m3u8
+范玮琪-我们的纪念日,http://vodcdn.video.taobao.com/oss/taobao-ugc/d38a89c6b5ab41b4ab80423741fbe8d6/1466066405/video.m3u8.m3u8
+张国亮-你的承诺,http://hc.yinyuetai.com/uploads/videos/common/1BA2013729E9F1B38137AA060ACDF68E.flv?sc=a4abbe01f27d34da&br=716&vid=410382&aid=8860&area=ML&vst=0Y
+大壮-我们不一样,http://vodcdn.video.taobao.com/oss/taobao-ugc/9572871aa45747a786679a822d7e2709/1511859261/video.m3u8.m3u8
+杨曼-9999滴眼泪,http://vodcdn.video.taobao.com/oss/ali-video/f6d027835c0e8f72d3c74379b86fb696/video.m3u8
+王心凌-第一次爱的人,http://vodcdn.video.taobao.com/oss/ali-video/ca36ac1783434eb19f59aadd056b05e1/1457686780/video.m3u8.m3u8
+王心凌-我会好好的,http://vodcdn.video.taobao.com/oss/ali-video/8f327fd6bce61d0cf4159601a64b395b/video.m3u8
+誓言-求佛,http://vodcdn.video.taobao.com/oss/ali-video/f4f761d970399f186ce1f9ac6d009721/video.m3u8
+许茹芸-独角戏,http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
+许茹芸-如果云知道,http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
+许茹芸-泪海,http://vodcdn.video.taobao.com/oss/ali-video/76fe6eb28aee716783f2a47ba8a15e5a/video.m3u8
+许茹芸-不爱我放了我,http://vodcdn.video.taobao.com/oss/ali-video/b0f458650135c68f1b88ea7667eec629/video.m3u8
+许茹芸-我依然爱你,http://vodcdn.video.taobao.com/oss/ali-video/4c4ec12e6efa0d76e5a269ac05ea394e/video.m3u8
+陈明真-变心的翅膀,http://vodcdn.video.taobao.com/oss/ali-video/e18dd3abfada11fb6faf26a521084343/video.m3u8
+陈明真-百万个吻,http://vodcdn.video.taobao.com/oss/ali-video/0c66aff1e198e944fb0460172d33d780/video.m3u8
+陈明真-念念不忘的情人,http://vodcdn.video.taobao.com/oss/ali-video/a4e5b03f0ce8a9b20cea95e6ff3ce25a/video.m3u8
+陈明真-为爱笑着流泪,http://vodcdn.video.taobao.com/oss/ali-video/4f31a4692aae0974dbc82a95d23339f4/video.m3u8
+陈明真-情债,http://vodcdn.video.taobao.com/oss/ali-video/99c8f1df6d5686d99e4adc1e6caed7b7/video.m3u8
+任齐贤-心太软,http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
+胡杨林-香水有毒,http://vodcdn.video.taobao.com/oss/ali-video/180f9fcdb9e2b24d3b13a526fb90003e/video.m3u8
+艾歌-一生中最爱的人,http://vodcdn.video.taobao.com/oss/ali-video/7506ddfc8f692a7cda1b2ef73531f78b/video.m3u8
+梁静茹-勇气,http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
+光良-童话,http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
+光良-第一次,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
+王杰-说谎的爱人,http://vodcdn.video.taobao.com/oss/ali-video/c018ec304eb6566b56d7f0b85c77b473/video.m3u8
+薛凯琪-男孩像你,http://hc.yinyuetai.com/uploads/videos/common/6133013A87D083BBC7E2F95AEED1007A.flv?sc=a6f6f22cbb466a64&br=779&vid=534932&aid=246&area=HT&vst=2Y
+张韶涵-隐形的翅膀,http://hc.yinyuetai.com/uploads/videos/common/455E01477E887FC3AE6A4A6D24E8ACA3.flv?sc=60058e2beafb8871&br=779&vid=2103391&aid=168&area=HT&vst=2Y
+瞿颖-加速度,http://hc.yinyuetai.com/uploads/videos/common/5FE4013341BA2B2F163DA3BCF2A5F0AB.flv?sc=45fb2122fdde8ef6&br=715&vid=289574&aid=12645&area=ML&vst=0Y
+周传雄-黄昏,http://hc.yinyuetai.com/uploads/videos/common/62BF012CD3BD538CDF884505277BB594.flv?sc=8c2be38882be1810&br=749&vid=47159&aid=238&area=HT&vst=0Y
+小虎队-青苹果乐园,http://hc.yinyuetai.com/uploads/videos/common/5366_xiaohudui_qingpingguoleyuan.flv?sc=d80c6cdacd66fe45&br=619&vid=5779&aid=1487&area=HT&vst=0Y
+广州女神亮声Open专辑-第二季,http://hc.yinyuetai.com/uploads/videos/common/B2D70163028B0897509B884F1663EE39.mp4?sc=1aaa11ffb9f80559&br=732&vid=3201507&aid=104&area=HT&vst=3Y
+李翊君-诺言,http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
+李翊君-多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
+许佳慧-预谋,http://hc.yinyuetai.com/uploads/videos/common/E9C80142C0ED347A6460A5E6C04DBD03.flv?sc=5017a070bd7fc303&br=780&vid=824517&aid=29075&area=ML&vst=0Y
+潘美辰-我想有个家,http://hc.yinyuetai.com/uploads/videos/common/65F12DFEEC9365050E3FFD906F4500FD.flv?sc=593068cc0901c90e&br=584&vid=21184&aid=3707&area=HT&vst=2Y
+潘美辰-我曾用心爱着你,http://hc.yinyuetai.com/uploads/videos/common/394A0163A9B12A96F8EC5F8AF8B3E758.mp4?sc=d436ea2b20d8b717&br=779&vid=3220870&aid=3707&area=HT&vst=0Y
+程响-新娘不是我,http://hc.yinyuetai.com/uploads/videos/common/630501517CEE3846808F6B53BDA7AF4F.flv?sc=2f3a56b621fc75c3&br=782&vid=2443364&aid=11949&area=ML&vst=0Y
+艾歌-双人床,http://hc.yinyuetai.com/uploads/videos/common/2E9201377B364F3AABBE941CABF42BD5.flv?sc=6b154c7155b67dec&br=714&vid=422230&aid=15769&area=ML&vst=0Y
+艾歌-对她好一些,http://hc.yinyuetai.com/uploads/videos/common/91B101303CDA5591500A1A3F51C5C220.flv?sc=fe2692acd6e8638d&br=753&vid=183535&aid=15769&area=ML&vst=0Y
+王麟-臭男人,http://hc.yinyuetai.com/uploads/videos/common/5E7A013E7EBF8599BD785987BB62029E.flv?sc=cde3e3c6a22988eb&br=776&vid=657002&aid=17490&area=ML&vst=0Y
+王麟-伤不起,http://vodcdn.video.taobao.com/oss/ali-video/1e3633ff1c3a525e148968b45c18f780/video.m3u8
+龙梅子-泪满天,http://vodcdn.video.taobao.com/oss/ali-video/2ea2890443421f58665a7fdf0a297265/video.m3u8
+4 In Love-一千零一个愿望,http://hc.yinyuetai.com/uploads/videos/common/44FEE1FE497228DB43FD834ABEE4E76F.flv?sc=b210487e1dfb8068&br=758&vid=11065&aid=2311&area=HT&vst=0&cid=299Y
+李圣杰-痴心绝对,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
+陈慧琳-对不起不是你,http://hc.yinyuetai.com/uploads/videos/common/2530014C3A25D599B7FF769021D2D808.flv?sc=bd08c7208cc54597&br=775&vid=2259464&aid=110&area=HT&vst=3Y
+谭咏麟/关淑怡-明天你是否依然爱我,http://vodcdn.video.taobao.com/oss/ali-video/0b56ad556e887a9be35d496d318a7565/video.m3u8
+容祖儿/李克勤-相爱很难,http://vodcdn.video.taobao.com/oss/taobao-ugc/292bedca9ff44570924d111d4e3cab09/1520612407/video.m3u8.m3u8
+谢霆锋-谢谢你的爱,http://hc.yinyuetai.com/uploads/videos/common/71C0013C0311706C484689F075B658A1.flv?sc=a10ff1790c29846c&br=779&vid=577451&aid=491&area=HT&vst=2Y
+梁静茹-问,http://vodcdn.video.taobao.com/oss/ali-video/b2a2adf565e97d00d1bd6d62145184d1/video.m3u8
+胡杨林-香水有毒,http://vodcdn.video.taobao.com/oss/ali-video/180f9fcdb9e2b24d3b13a526fb90003e/video.m3u8
+韩晶-不要用我的爱来伤害我,http://hc.yinyuetai.com/uploads/videos/common/5047012B59669A52F2E9A0D31999B5AF.flv?sc=685bc209baac9591&br=763&vid=81701&aid=3016&area=ML&vst=0Y
+蜜雪-独立,http://vodcdn.video.taobao.com/oss/taobao-ugc/05c427c97a0c4e8e853dd0b85e6beb39/1519722334/video.m3u8.m3u8
+刘小慧-初恋情人,http://vodcdn.video.taobao.com/oss/ali-video/fce8631e2287d0c7ac98595060ab6e4c/video.m3u8
+黎瑞恩-为情为爱,http://vodcdn.video.taobao.com/oss/ali-video/73348f95d4cee3fcc96a63c30deed357/video.m3u8
+Twins-下一站天后,http://hc.yinyuetai.com/uploads/videos/common/AA33013A9A9C873DE4332F791DE6EA82.flv?sc=145cf0760372ebc0&br=779&vid=537186&aid=303&area=HT&vst=2Y
+筷子兄弟-小苹果,http://hc.yinyuetai.com/uploads/videos/common/1858236_hc_E4110146A89E3923EC6EF500B4E95A37.flv?sc=14b5c2b75c7b4f42&br=743&vid=2075271&aid=11962&area=ML&vst=0Y
+张津涤-如果不爱我,http://hc.yinyuetai.com/uploads/videos/common/1307014B53E65C6A9AD3590D3A502AE6.flv?sc=fb38023d20b4b173&br=779&vid=2233840&aid=16017&area=ML&vst=0Y
+李慧珍-爱死了昨天,http://hc.yinyuetai.com/uploads/videos/common/5A650140F08EB96176A44E14106AE9A0.flv?sc=cc2dcb6a2dfc25ee&br=778&vid=758094&aid=2373&area=ML&vst=2Y
+王冰洋-飞舞,http://hc.yinyuetai.com/uploads/videos/common/D6E7012FD34A6F44EAEBE35754A003F2.flv?sc=bbded3cce5fe83e3&br=730&vid=3492&aid=1150&area=ML&vst=0Y
+广东雨神-广东爱情故事,http://hc.yinyuetai.com/uploads/videos/common/9DC90163296835476E6CDFCEEBDBE867.mp4?sc=753f4bb729c581a8&br=783&vid=3206166&aid=35724&area=ML&vst=3Y
+陈慧琳-记事本,http://hc.yinyuetai.com/uploads/videos/common/0D3D01488F00B30C5CED284F00BB55FA.flv?sc=52e0502f655b9fb3&br=778&vid=2138090&aid=110&area=HT&vst=0Y
+张宇-一个人的天荒地老,http://hc.yinyuetai.com/uploads/videos/common/0B2C014472E787F05F5CE507922C4BBC.flv?sc=9b95c0d4e77b0a2b&br=778&vid=86017&aid=201&area=HT&vst=0Y
+张宇-月亮惹的祸,http://hc.yinyuetai.com/uploads/videos/common/4666013257E94D7103F289957B6ECDD9.flv?sc=53b8d56f76736d71&br=928&vid=263739&aid=201&area=HT&vst=0Y
+彭羚-我有我天地,http://hc.yinyuetai.com/uploads/videos/common/E6FE0136B7498438CE77BB0FE2C2CC63.flv?sc=45f29ecc7d624c71&br=658&vid=395573&aid=7452&area=HT&vst=0Y
+张冬玲-花开的时候你就来看我,http://hc.yinyuetai.com/uploads/videos/common/2B2F0150D0B20B8B6CAA935AB7992968.flv?sc=78d4ce17d79bbf84&br=781&vid=2410716&aid=9336&area=ML&vst=2Y
+崔子格-老婆最大,http://hc.yinyuetai.com/uploads/videos/common/855201511A89C546FEEE06E4948D7498.flv?sc=a3ef0179cd5381c8&br=724&vid=309283&aid=22016&area=ML&vst=0Y
+孙子涵-向全世界宣布我爱你,http://hc.yinyuetai.com/uploads/videos/common/37AF013ED3852B8DFEFF3529B90E557B.flv?sc=e533ce274d04149f&br=776&vid=670166&aid=20368&area=ML&vst=3Y
+那英-放爱一条生路,http://hc.yinyuetai.com/uploads/videos/common/A7370151530EC65A168A6E2C52CF0CF7.flv?sc=282260c545e0dc45&br=779&vid=2435304&aid=1570&area=ML&vst=3Y
+T-ara-Day By Day,http://hc.yinyuetai.com/uploads/videos/common/E20B01431F3E67950340E95D8E6292CA.flv?sc=2e9d89dada7450a5&br=778&vid=839769&aid=1559&area=KR&vst=2Y
+T-ara-Davichi,http://hc.yinyuetai.com/uploads/videos/common/9C9901404415972278E9786C5AB66EE0.flv?sc=04500c8819582d41&br=777&vid=333644&aid=1559&area=KR&vst=2Y
+AOA-AOA,http://hc.yinyuetai.com/uploads/videos/common/31C40151A07E2FAEEF3F2E15A69DF5CC.flv?sc=45a2411f062387c5&br=785&vid=2449227&aid=25339&area=KR&vst=2Y
+少女时代-Baby Steps,http://hc.yinyuetai.com/uploads/videos/common/0694013BD30F6AAC6357E15CBFF55798.flv?sc=ea93f6832dd7e78c&br=744&vid=572619&aid=79&area=KR&vst=2Y
+Nine Muses-Glue,http://hc.yinyuetai.com/uploads/videos/common/B0DC0142E156ACE75C76FE5E13E9FD1C.flv?sc=7e973b100d083931&br=779&vid=831617&aid=7690&area=KR&vst=2Y
+Nine Muses-News,http://hc.yinyuetai.com/uploads/videos/common/6EDD014EE2F7B2009C4AB868B3F51F8D.flv?sc=d216d4cb28870ce2&br=779&vid=335332&aid=7690&area=KR&vst=0Y
+阿妮桑-伤的都是有情人,http://he.yinyuetai.com/uploads/videos/common/5F2E01660A27B8BEAA57CDA3E088D41A.mp4
+阿妮桑-情愿孤独终老,http://he.yinyuetai.com/uploads/videos/common/770501660A2E4F89402BC5E56C73F226.mp4
+阿妮桑-定格幸福,http://he.yinyuetai.com/uploads/videos/common/77D801660A17C4FF01F0117FA4129097.mp4
+张燕-亲爱的人,http://he.yinyuetai.com/uploads/videos/common/102001430ACB6CA8342539EEA3BC52A2.flv
+任妙音-爱的期限720P,http://he.yinyuetai.com/uploads/videos/common/3EDB016208843CBFFF349606CC4C5507.mp4
+任妙音-天在下雨我在等你HD,http://he.yinyuetai.com/uploads/videos/common/1697016183BBE07FA2979898BA7C7606.mp4
+任妙音-今生遇见你HD,http://he.yinyuetai.com/uploads/videos/common/7E5501562B8E7768CDA77BFA86C93B9F.flv
+任妙音-想把你挽留HD,http://he.yinyuetai.com/uploads/videos/common/3E520154F180C71A40F3F85C2791AE08.flv
+任妙音-又在梦里见到你,http://he.yinyuetai.com/uploads/videos/common/8ABE016236CEA6598DDEC1158E02C803.mp4
+任妙音-谢谢最亲爱的你,http://he.yinyuetai.com/uploads/videos/common/8D7901623162B1F85627274D537B003A.mp4
+任妙音-简简单单的小幸福,http://he.yinyuetai.com/uploads/videos/common/6AC0016264731C2E38800F8965E9B234.mp4
+任妙音-白蝴蝶,http://he.yinyuetai.com/uploads/videos/common/3A9401668CA6FD93848BE653E90839D3.mp4
+任妙音-今生不想失去你,http://he.yinyuetai.com/uploads/videos/common/628D01638137355F24965CFAAD22D889.mp4
+任妙音-长相伴,http://he.yinyuetai.com/uploads/videos/common/72520165FE1EF4D275B99CBF4553AE03.mp4
+谢容儿-王子来了,http://he.yinyuetai.com/uploads/videos/common/CE6F0151E6735AC048C4C3C9AF379CEF.flv
+龙梅子-今生有你,http://he.yinyuetai.com/uploads/videos/common/4A46014149169AA34B7BBA9ABC0D5499.flv
+龙梅子-一段情歌一段伤,http://he.yinyuetai.com/uploads/videos/common/40B101414924563C08D6615317532CDA.flv
+龙梅子-情歌继续唱,http://he.yinyuetai.com/uploads/videos/common/959301414932FC2DEA97A4BC6D40B003.flv
+龙梅子-海鸥飞,http://he.yinyuetai.com/uploads/videos/common/386501621C5E81652B3C59C41CCFE2B2.mp4
+龙梅子冷漠-谁都不要说分手,http://he.yinyuetai.com/uploads/videos/common/35CA013BB17F3F92D9EC93C92B387D80.flv
+龙梅子-我的爱人不要走,http://he.yinyuetai.com/uploads/videos/common/59070141492197026D642D17588E6DBE.flv
+龙梅子-心要痛到什么时候,http://he.yinyuetai.com/uploads/videos/common/63AA014149271759B249E16A59BD7DED.flv
+龙梅子-我说亲爱的,http://he.yinyuetai.com/uploads/videos/common/F61901414935BB5687B277D67214379F.flv
+崔子格-小美人HD,http://he.yinyuetai.com/uploads/videos/common/420C0143417BAA37BB89813CFDBE7EA0.flv
+蜜雪薇琪-爱斯基摩,http://hc.yinyuetai.com/uploads/videos/common/161C012F962CA9AE2FC65BA9F9C1209F.flv
+杨蓉-臣妾做不到,http://he.yinyuetai.com/uploads/videos/common/11C3014A60DD73B137CCBFAA3C69C278.flv
+七月七日晴-许慧欣,http://he.yinyuetai.com/uploads/videos/common/E9AC014E598795B163255CD9A0024B63.flv
+门丽-亲爱的你在那里DJ,http://he.yinyuetai.com/uploads/videos/common/C64C0166D8BDCA0E8E586CC7DFE17A34.mp4
+薛凯琪-好好听,http://he.yinyuetai.com/uploads/videos/common/BAE30161D73F4E9B92FE0E689547EC92.mp4
+张柏芝-星语心愿,http://he.yinyuetai.com/uploads/videos/common/86CB01619E967878C9A6173A2FA3D709.mp4
+谢安琪-喜贴街,http://he.yinyuetai.com/uploads/videos/common/B274013AF77EA54253D5E6C5A107EB17.flv
+谢安琪-两忘烟水里,http://he.yinyuetai.com/uploads/videos/common/2150014E676D702A37BF5FD3E36DE3DD.flv
+梁静茹-可惜不是你HD现场,http://he.yinyuetai.com/uploads/videos/common/6EA50139859C5C8D28EFCBE781C8783F.flv
+宅舞-不要啊,http://he.yinyuetai.com/uploads/videos/common/55110161F0873D478F03B018ED60B9A2.mp4
+杨梓-被情上过的女人,http://he.yinyuetai.com/uploads/videos/common/CF6D014352A0B435343624FCE913555B.flv
+杨梓-亲爱的你听见了吗,http://he.yinyuetai.com/uploads/videos/common/A205014AE0A9D68DCBE60B180D52A02F.flv
+杨梓-梦蝶,http://hc.yinyuetai.com/uploads/videos/common/494201420D55411DB1EFE9135C95D326.flv
+王语心-梦中小屋HD,http://he.yinyuetai.com/uploads/videos/common/2AE5014D88A8AD9B72E512F39E9E7121.flv
+王语心-宝贝我爱你HD,http://he.yinyuetai.com/uploads/videos/common/152C01504BAF3C5A876FF2E7DCC7E1C3.flv
+王语心-让我一生爱着你HD,http://he.yinyuetai.com/uploads/videos/common/D731014D707AE5F0DE60D08689EC31C6.flv
+A-Lin-别在伤口撒盐,http://hc.yinyuetai.com/uploads/videos/common/9BA7013A26DABBBAB0885550C18198AC.flv
+林慧萍-情难枕,http://he.yinyuetai.com/uploads/videos/common/ACD5014908FD8D8F4368967BEBD13BF3.flv
+黄韵玲-有一点动心,http://he.yinyuetai.com/uploads/videos/common/BC160141EF56B8CB2DF8B72B582F0868.flv
+孟庭苇-谁的眼泪在飞,http://hd.yinyuetai.com/uploads/videos/common/FDFB016349B8B7189C2E62522E9FF270.mp4
+孟庭苇-冬季到台北来看雨,http://hd.yinyuetai.com/uploads/videos/common/3ACE01429D122064CBF7960DD02F004F.flv
+刘若英-当爱在靠近,http://hd.yinyuetai.com/uploads/videos/common/BCF10146FB8CB5FBE4FC740A8AEAA7C9.flv
+金海心-我要找到你,http://hd.yinyuetai.com/uploads/videos/common/C41E01597298F578F045C1A958FC003F.mp4
+林志炫-单身情歌,http://hd.yinyuetai.com/uploads/videos/common/615A014DBE45A31C76D9E3ADA1CD73E2.flv
+刘德华-一起走过的日子,http://hc.yinyuetai.com/uploads/videos/common/57E501397F03351989F1BFE7F2D6FBB1.flv
+王杰-爱的太多,http://hd.yinyuetai.com/uploads/videos/common/A3290162063AB08D8554F1CB56396BFA.mp4
+欢子-再见再也不见,http://hd.yinyuetai.com/uploads/videos/common/8B42016164848702FD4A9A1A494DDD49.mp4
+欢子-心痛2009,http://hd.yinyuetai.com/uploads/videos/common/991401448BA61010E000BDDCD27316D6.flv
+六哲-错错错,http://hd.yinyuetai.com/uploads/videos/common/DFBC014F4E807E21B7836E5BDC525A84.flv
+郑源-爱情码头,http://hd.yinyuetai.com/uploads/videos/common/DCB8014D2D1E2123095CB6A9D07487C8.flv
+郑源-曾经爱过你,http://hc.yinyuetai.com/uploads/videos/common/24380139DB52CC4E77081AC2BCC9DE71.flv
+郑源-难道爱一个人有错吗,http://hc.yinyuetai.com/uploads/videos/common/F433012C34DA9703B38B4CC864616930.flv
+姜玉阳-刻骨的温柔,http://cloud.video.taobao.com/play/u/1748679248/p/2/e/3/t/1/15883785.m3u8
+王心凌-我会好好的,http://hc.yinyuetai.com/uploads/videos/common/8153012D1E870D4F4CAB88333BD9FE16.flv
 VIP直播_12303,#genre#
 HAPPY 高清,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 惊艳台 高清,mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
