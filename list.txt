@@ -130,33 +130,28 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 深圳气象,rtsp://183.59.156.50/PLTV/88888895/224/3221227359/10000100000000060000000003547162_0.smil?icpid=88888888
 茶频道HD,rtsp://183.59.156.50/PLTV/88888895/224/3221228357/10000100000000060000000007978301_0.smil?icpid=88888888
 港澳頻道,#genre#
-翡翠臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=6qxSYHSIptzinr0AhIDiB%3DCuhJTgW2Vjg4TMVqh%3DD7fUW9jDWuEJk5GCCByyr#mitv://198.255.74.57:12496/5e824a61000b1bd20126945cadf515b6.ts#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-無綫新聞臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=QafK%3D%3D0q0h8MoOpTsTrOySFinUYJ9P8Ts%3DUPlXJNVNMavjOXlVYm6RYmqRcqH#mitv://198.255.74.57:12496/5e824a61000bf66d012694947449b779.ts
-有線新聞台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=WVNOsiBQ5aJrtYdgbSgTAUwLvXwYtSJTsUayomersV8mwoOsxVko-QteqZeU4#mitv://198.255.74.57:12496/5e824a64000913da01269f8f0cfb08e8.ts
-無綫財經,mitv://198.255.74.57:12496/5e824a6500064cb50126a2c1096f2901.ts
-明珠臺,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=04tmIDHaPkYLN%3D8kg9r4Ryc6auOzKivsc09vNkd0NEr9MHt7856yghLLO2pcd#mitv://198.255.74.57:12496/5e824a650009ac420126a39ea06b0d53.ts
-TVB J2,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=xxrAHsGu3zo7ZgGG3zYrYsp-0x4LVs2xI94ndfmNDxIHKwpO30rEYcJO30orW#mitv://198.255.74.57:12496/5e824a61000cccce012694cb7d6bead0.ts#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-有线電影臺,http://hzyhjg.cc/cs/gat/yxdy.php#mitv://198.255.74.57:12496/5e824a6400083d1f01269f589a255b86.ts
-有線娛樂台,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=XiPZ2msw8Jw8-baJxamnskgRrQ%3DlAWvl2ccY6IAE9ldNipWztbgZ-BvyrYPYE
-RHK32,mitv://198.255.74.57:12496/5e824a650008d8be0126a3684f6cc5ab.ts
-ViuTV,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=LKDGVMBCoICBS5jYlPHERUW9kNBh0TVBSGDBSPXMSJT1Wd0moKFZk2WlSQXbu#mitv://198.255.74.57:12496/5e824a650007fd410126a3308ffa2b71.ts
-ViuTV_6,mitv://198.255.74.57:12496/5e824a6500072c610126a2fa84878712.ts
-香港开电视,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=KXQv84%3DwjJiaRPxIdLwci9WMg5SB0KynkKBHtLw4nDf7laFiTSBZfIjkh-WH7#mitv://198.255.74.57:12496/5e824a61000ac9df0126944712da46b6.ts
-TVB星河,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=HIVAhJNAfFSVhIgCzHuKcHvKjRcATICUhKNHx5yNiIAalYBieKSKzCPgRJS%3Dy#mitv://198.255.74.57:12496/5e824a680008f0e00126af26f068c0fb.ts#p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
-RTHK31,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=J7g-NO9Cy9wRiaguu7D1jPQDbIwNcNw6tHACPO9LeIQNReAPe-DKfKgPe-A1b#p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
+J2,P2p://198.255.74.57:12496/5e8379b2000e2cb305c7698d775cfc0d
+无线新闻台,P2p://198.255.74.57:12496/5e8379b2000d516105c76955a78d8321
+翡翠台,P2p://198.255.74.57:12496/5e8379b2000c60dd05c76917ad2eb82a
+香港开电视,P2p://198.255.74.57:12496/5e8379b2000c1cbf05c7690637820cd0
+明珠台,P2p://198.255.74.57:12496/5e8379bc000463d505c78e1cc00ce9de
+RHK32,P2p://198.255.74.57:12496/5e8379bc00038e1505c78de54e2610c6
+ViuTV,P2p://198.255.74.57:12496/5e8379bc00029ffe05c78da87652c352
+ViuTV six,P2p://198.255.74.57:12496/5e8379bc0001c78905c78d71b147776d
+无线财经资讯台,P2p://198.255.74.57:12496/5e8379bc0000ea7f05c78d38c88c2286
+星空卫视,P2p://198.255.74.57:12496/5e8379bc00000d6105c78cff70d1b066
+澳门莲花,P2p://198.255.74.57:12496/5e8379bb000e70af05c78cc6025c550d
+凤凰中文,P2p://198.255.74.57:12496/5e8379bb000d960605c78c8e010e2918
+凤凰资讯,P2p://198.255.74.57:12496/5e8379bb000cbad905c78c56b30aaf46
+凤凰香港,P2p://198.255.74.57:12496/5e8379bb000be0a405c78c1efe568ad4
+有线新闻台,P2p://198.255.74.57:12496/5e8379bb000b049c05c78be6e1f2fee5
+有线电影台,P2p://198.255.74.57:12496/5e8379bb000a06e705c78ba51cd38ec1
+TVB星河,P2p://198.255.74.57:12496/5e824a680008f0e00126af26f068c0fb
+TVB经典,P2p://198.255.74.57:12496/5e824a6800081d8c0126aef0d0839a0b
+TVB娱乐,P2p://198.255.74.57:12496/5e824a68000744f40126aeb8b44ffe12
 鳳凰中文臺,http://liveali.ifeng.com/live/FHZW.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 鳳凰資訊臺,http://liveali.ifeng.com/live/FHZX.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 鳳凰香港臺,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
-TVB经典,mitv://198.255.74.57:12496/5e824a6800081d8c0126aef0d0839a0b.ts
-TVB娱乐mitv://198.255.74.57:12496/5e824a68000744f40126aeb8b44ffe12.ts
-天映经典,p3p://190.2.146.92:18912/5b3c4f9b00031383627eef60721e1738.ts#p3p://51.79.41.138:18912/5b3c4f9b00031383627eef60721e1738.ts
-國家地理 HD,mitv://198.255.74.57:12496/5e824a87000eb12c012729b72710452a.ts
-國家地理People HD,mitv://198.255.74.57:12496/5e824a87000dd2b40127297e56e0608.ts
-國家地理野生頻道 HD,mitv://198.255.74.57:12496/5e824a87000cff370127294848a5d45c.ts
-華麗臺,mitv://198.255.74.57:12496/5e502088000cfd053d331d2f14f4f794.ts
-小太陽,mitv://198.255.74.57:12496/5e502088000b4dac3d331cc1b3720b92.ts
-全佳,mitv://198.255.74.57:12496/5e502088000a71553d331c886218242c.ts
-双星,mitv://198.255.74.57:12496/5e5020880009a19e3d331c53cb182bc5.ts
 臺灣頻道,#genre#
 中视经典,mitv://198.255.74.57:12496/5e824a68000664450126ae7f923e0c9c
 中视,mitv://198.255.74.57:12496/5e824a6800058ebd0126ae485da17316
