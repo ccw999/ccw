@@ -1354,6 +1354,10 @@ K频道 高清,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 十三本道,p9p://192.95.32.107:9906/59222cfc000d44ad4e04e95e6dad6550&link=
 十四本道,p9p://192.95.32.107:9906/59222d1f00026ac94e056f4f15752758&link=
 十五本道,p9p://192.95.32.107:9906/59222d0e0007d49c4e052e4a57ce514b&link=
+Pandola 1HD,p2p://51.79.41.140:18912/5c18f905000c08fbc07444661e2e685e.ts
+Pandola HD,p2p://51.79.41.140:18912/5c18f9100006a3e2c0746e0708a009f7.ts
+奧視香蕉,p2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts
+奧視驚豔,p2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts
 Jasmin TV,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 RedTraffic Big Ass,http://live.redtraffic.xyz/bigass.m3u8
 Super One HD,http://188.35.9.5:10007/stolen/246r/parasite.install
