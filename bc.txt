@@ -684,6 +684,20 @@ DUBAL SPORTS 1,p2p://51.79.41.138:18912/5ce013dd000de8cf1470f7f476f375b9.ts
 美国纽约时代广场,http://mobilelive-play.ysp.cctv.cn/2003203701.m3u8
 四川熊猫基地 ,https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com/gc/xiongmao25_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8?contentid=2820180516001&AUTH=EWbqPX5amMUxL2KapN4PojjCv6Y3kLImyv4JB9phjgIhwCszcDyLyNooS5TQjhxk9JhHTXU+qF3B2DqF9U/PJA==
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+国家游泳中心（水立方）,https://gctxyc.liveplay.myqcloud.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
+深圳世界之窗,https://gctxyc.liveplay.myqcloud.com/gc/sjzc01_1/index.m3u8?contentid=2820180516001
+神农架金丝猴,https://gccncc.v.wscdns.com/gc/jshhd01_1/index.m3u8?contentid=2820180516001
+江西龙虎山中间水泡,https://gcbsc.v.live.baishancdnx.cn/gc/lhszjsp_1/index.m3u8?contentid=2820180516001
+郑东新区千玺广场,https://gccncc.v.wscdns.com/gc/zdxq01_1/index.m3u8?contentid=2820180516001
+浙江舟山东极岛,https://gctxyc.liveplay.myqcloud.com/gc/djd01_1/index.m3u8?contentid=2820180516001
+江苏南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8?contentid=2820180516001
+重庆李子坝轻轨站,https://gcksc.v.kcdnvip.com/gc/gccntv240-lzb01_1/index.m3u8?contentid=2820180516001
+云栖小镇,https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8?contentid=2820180516001
+世外梨园景区,https://gctxyc.liveplay.myqcloud.com/gc/hnttlhzjd_1/index.m3u8?contentid=2820180516001
+北京五洲植物乐园,https://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+鼋头渚赏樱阁,https://gcksc.v.kcdnvip.com/gc/pshdxg01_1/index.m3u8?contentid=2820180516001
+信阳市油菜花田,https://gccncc.v.wscdns.com/gc/nywbwg01_1/index.m3u8?contentid=2820180516001
+湖北荆门樱花部落,https://gcalic.v.myalicdn.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
 银链坠潭,http://gccncc.v.wscdns.com/gc/hgsylztpb_1.flv
 黄果树六角亭,http://gccncc.v.wscdns.com/gc/hgsspzxdpb_1.flv
 上海这一刻：魔都眼,http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
