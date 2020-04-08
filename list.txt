@@ -430,6 +430,11 @@ astro SUPERSPORT2,tvbus://3P2onoxjfKwDrR8WH5khwz3Qkfkuc1p8Asg2VbjQwxdJqJYpSg
 astro SUPERSPORT3,tvbus://3uiHrD9AZf9Jb7zLzMoRb26cRsKEULknVTMTPPG5kDsiymgYcf
 astro SUPERSPORT4,tvbus://2yVrNz6Q6TfYPvyp7LC2epL9z4ivFwK7oCHYNSjLUTjTDPmYiy
 天眼频道,#genre#
+Trevi Fountain - Rome 现场视讯,https://hddn01.skylinewebcams.com/live.m3u8?a=v6j5aisqhf1tu2peuijgpvrcl3
+Trevi Fountain - Rome,https://hddn01.skylinewebcams.com/live.m3u8?a=v6j5aisqhf1tu2peuijgpvrcl3
+Puerto de la Cruz - Lago Martiánez ,https://hddn01.skylinewebcams.com/live.m3u8?a=v6j5aisqhf1tu2peuijgpvrcl3
+Las Vegas,https://hddn01.skylinewebcams.com/live.m3u8?a=v6j5aisqhf1tu2peuijgpvrcl3
+China - Hong Kong,https://hddn01.skylinewebcams.com/live.m3u8?a=v6j5aisqhf1tu2peuijgpvrcl3
 美国纽约时代广场,http://mobilelive-play.ysp.cctv.cn/2003203701.m3u8
 四川熊猫基地 ,https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com/gc/xiongmao25_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8?contentid=2820180516001&AUTH=EWbqPX5amMUxL2KapN4PojjCv6Y3kLImyv4JB9phjgIhwCszcDyLyNooS5TQjhxk9JhHTXU+qF3B2DqF9U/PJA==
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
