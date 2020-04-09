@@ -374,7 +374,6 @@ Eleven_Sport1,tvbus://4TizJNEWymEBKVE9c9xfZrCmz5iFyvNtDFza3woFeEEtYmo2ww
 Eleven_Sport2,tvbus://2ya32EtoX5shs7wC1eMwxMQuoNZqAQYtY1boFdM2jf3Kn772vT
 DUBAL SPORTS 1,P2p://51.79.41.138:18912/5ce013dd000de8cf1470f7f476f375b9.ts
 天眼频道,#genre#
-美国纽约时代广场,http://mobilelive-play.ysp.cctv.cn/2003203701.m3u8
 四川熊猫基地 ,https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com/gc/xiongmao25_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8?contentid=2820180516001&AUTH=EWbqPX5amMUxL2KapN4PojjCv6Y3kLImyv4JB9phjgIhwCszcDyLyNooS5TQjhxk9JhHTXU+qF3B2DqF9U/PJA==
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 国家游泳中心（水立方）,https://gctxyc.liveplay.myqcloud.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
