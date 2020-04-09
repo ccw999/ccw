@@ -56,6 +56,8 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 环球奇观,rtsp://183.59.156.50/PLTV/88888905/224/3221228330/10000100000000060000000007935404_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPwvCbyaGWZr9ZAbNwhNxMlg==:20200129225117,02040597503,10.171.93.178,20200129225117,02000006000000052017041099000016,7A47986FEA5275D617B07C7E2BF791D4
 番禺,http://live.pybtv.cn/channel1/sd/live.m3u8
 蛇口综合,http://218.17.99.211:82/hls/d4encs75.m3u8
+开平综合,http://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1434.m3u8
+开平生活,http://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1435.m3u8
 佛山综合频道,http://dslive.grtn.cn/fszh/sd/live.m3u8
 佛山公共频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
 佛山南海频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
