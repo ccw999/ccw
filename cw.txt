@@ -1,4 +1,14 @@
 备用,#genre#
+无线新闻,http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=9
+有线新闻台,http://prdsecurelive.ainemo.com/live/2020sanwu.flv
+TVB翡翠台,http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=1
+有线电影台,http://prdsecurelive.ainemo.com/live/yx09hitv.flv
+TVB财经台,http://prdsecurelive.ainemo.com/live/225cjcj.flv
+有线娱乐台,http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=34
+中视,http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=73
+年代新闻,http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=52
+民视新闻台,http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=50
+粤语影片,https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/614163/live_342827840_74242052.m3u8
 凤凰中文,http://liveali.ifeng.com/live/FHZW.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 凤凰香港,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
