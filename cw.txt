@@ -1,4 +1,4 @@
-备用,#genre#
+港澳备用,#genre#
 无线新闻,http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=9
 有线新闻台,http://prdsecurelive.ainemo.com/live/2020sanwu.flv
 TVB翡翠台,http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=1
