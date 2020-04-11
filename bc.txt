@@ -12,8 +12,7 @@ TVB J2,tvbus://3c1tFvPHXU177VNXDhV5xWzUkWNiowuUWVfyaEeq2u6n5xW5v2
 TVB星河,tvbus://2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
 TVB功夫台,tvbus://3UDxSDBsNf7wbYsxBLm5SuD3ZRXLavzGGRseREr62WmGuxBPUr
 ViuTV,tvbus://3NQgHKwgbbKdJ4LhEnt2KuvtxU7zbshzQL3UrV2k3oz5XYNVyS
-ViuTV six,tvbus://43y8XXc21Mhm3yjZohexBhHDVFS5Dmajx9USwZeqXa7mjP8mwj
-港台电视32,tvbus://43wXhhuE5hgyY7kDfELWCFNPt7V4oYe2nYiRPP45N9BaHPS6rZ
+港台电视31,tvbus://43wXhhuE5hgyY7kDfELWCFNPt7V4oYe2nYiRPP45N9BaHPS6rZ
 香港开电视,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
 有线电影台,tvbus://4f5jNLdAYjb6hn5rU9HCA8atb5cJwx9PK41ZDunEG66ymTVyXE
 有线新闻台,tvbus://3TscRdHGd9YFnxvtjDMi7gES2K4oCqakdtZL1mG2B8DX8sVpVd
@@ -21,9 +20,7 @@ ViuTV six,tvbus://43y8XXc21Mhm3yjZohexBhHDVFS5Dmajx9USwZeqXa7mjP8mwj
 综合娱乐台,tvbus://3CrMPFZqaFxTGeDtQX2E5gkF6ZdVKk2bj72ff3RTSwJdYWwhg6
 有线18台,tvbus://4JxHjvQYy8ejrj2dJYMurugKF1VV418b4k5yrSB2C4JNdVVMv1
 有线603,tvbus://4btkDZcgaahdbU7k4SHHEYzFQywTSZAozMX1ECZXcM4gfy7SV8
-有线球彩台,tvbus://3VjLoj1xZvw4X9p7n4n1q9D3JvaLoHTPPE4QR3tiKMnfz4vNw8
 有线体育台,tvbus://3QPFMD6DTQdSLgv1mXByvhMEUReyE6tutHFrRCJoWYnucJ4RAL
-有线体育2台,tvbus://3VVyGVyQB7hhcuRxWDKb7nxgCqJcBSkZCd9qBnWGp3k5hH74uf
 有线剧集台,tvbus://3Rbj86H1Lktcv6Hg1etW9KgsC5hwb4142EQu8qznRXqwK72sET
 now直播台,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
 now新闻台,tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
