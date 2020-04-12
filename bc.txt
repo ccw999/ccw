@@ -1428,6 +1428,8 @@ Pandola 1HD,p2p://51.79.41.140:18912/5c18f905000c08fbc07444661e2e685e.ts
 Pandola HD,p2p://51.79.41.140:18912/5c18f9100006a3e2c0746e0708a009f7.ts
 奧視香蕉,p2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts
 奧視驚豔,p2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts
+Asian,tvbus://49v5cV2oc3uKRx3SzMFBZGhwyQzGDi6dsy91QEaBf8m6rfpGLb
+Latina,tvbus://3P6BjUDrqyspT8T7MFGnjczPbj5uvk1ogbbSarbqmTacZchGFG
 Jasmin TV,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 RedTraffic Big Ass,http://live.redtraffic.xyz/bigass.m3u8
 Super One HD,http://188.35.9.5:10007/stolen/246r/parasite.install
