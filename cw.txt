@@ -426,6 +426,27 @@ GOLF,mitv://198.255.74.57:11396/5e44318000092d630e9564f5e60f1d74
 Eleven_Sport1,tvbus://4TizJNEWymEBKVE9c9xfZrCmz5iFyvNtDFza3woFeEEtYmo2ww
 Eleven_Sport2,tvbus://2ya32EtoX5shs7wC1eMwxMQuoNZqAQYtY1boFdM2jf3Kn772vT
 DUBAL SPORTS 1,P2p://51.79.41.138:18912/5ce013dd000de8cf1470f7f476f375b9.ts
+SuperSport,http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
+SUPER SPORT 2,http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
+SuperSport 3,http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
+SuperSport 4,http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
+Super Sport 5,http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
+Super sport 6,http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
+SUPER SPORT 7 ,http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
+RTSH Sport,http://79.106.48.2/live/rtsh_sport_mob_p2/playlist.m3u8
+FIGHT BOX,http://84.22.33.210/FIGHTBOX/tracks-v1a1/mono.m3u8
+FAST AND FUNBOX,http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
+Tring体育新闻,http://ott.artmott.com/TringSportNews/tracks-v1a1/mono.m3u8
+Art Sport 1,http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
+Art Sport 2,http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
+Art Sport 3,http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
+Arena Sport 1,http://ott.artmott.com:90/ArenaSport1MW/tracks-v1a1/mono.m3u8
+Arena Sport 2,http://84.22.33.218/ArenaSport2OTT/tracks-v1a1/mono.m3u8
+Arena Sport 3,http://84.22.33.218/ArenaSport3OTT/tracks-v1a1/mono.m3u8
+Arena Sport 4,http://84.22.33.218/ArenaSport4OTT/tracks-v1a1/mono.m3u8
+Arena Sport 5,http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+NBA电视,http://84.22.33.210/nbatv/tracks-v1a1/mono.m3u8
+时代电视,http://ott.artmott.com/EraTV/tracks-v1a1/mono.m3u8
 天眼频道,#genre#
 四川熊猫基地 ,https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com/gc/xiongmao25_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8?contentid=2820180516001&AUTH=EWbqPX5amMUxL2KapN4PojjCv6Y3kLImyv4JB9phjgIhwCszcDyLyNooS5TQjhxk9JhHTXU+qF3B2DqF9U/PJA==
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
