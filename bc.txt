@@ -1,7 +1,7 @@
 港澳备用,#genre#
 TVB翡翠台,http://epaygps.aote.xyz/dl/hk.php?id=1&xl=2#http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=1
 无线新闻,http://epaygps.aote.xyz/dl/hk.php?id=9&xl=2#http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=9#http://s5117133.m.awhost.cn/dl/wxtv.php?id=inews?is_hd#http://xh287.52yi.vip/TVB.php?id=3#https://ootori.xyz/tv/tvb.php?id=inews#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
-有线新闻,https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8#http://epaygps.aote.xyz/dl/hk.php?id=31&xl=2#http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=31
+有线新闻,http://epaygps.aote.xyz/dl/hk.php?id=31&xl=2#https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8#http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=31
 凤凰资讯台,http://epaygps.aote.xyz/dl/hk.php?id=3&xl=1#http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=3
 凤凰中文台,http://epaygps.aote.xyz/dl/hk.php?id=2&xl=1#http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=2
 星空衛視,http://epaygps.aote.xyz/dl/hk.php?id=18&xl=1
