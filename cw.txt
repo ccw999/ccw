@@ -430,6 +430,7 @@ Arena Sport 5,http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 NBA电视,http://84.22.33.210/nbatv/tracks-v1a1/mono.m3u8
 时代电视,http://ott.artmott.com/EraTV/tracks-v1a1/mono.m3u8
 天眼频道,#genre#
+国际空间站,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_290515513_3522421.m3u8
 四川熊猫基地 ,https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com/gc/xiongmao25_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8?contentid=2820180516001&AUTH=EWbqPX5amMUxL2KapN4PojjCv6Y3kLImyv4JB9phjgIhwCszcDyLyNooS5TQjhxk9JhHTXU+qF3B2DqF9U/PJA==
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 国家游泳中心（水立方）,https://gctxyc.liveplay.myqcloud.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
