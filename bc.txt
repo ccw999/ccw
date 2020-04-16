@@ -623,8 +623,8 @@ BEIN_SPORT10,tvbus://4ai7HihdoTMZ1Vyprfk3ePYQugQ3d6aQff3axyk57f2pNYg49z
 BEIN_SPORT11,tvbus://4oGU3APwUghJ7JkdYP5MqegUBNy4Sa9cs6VMTPeihRYmQS2iRL
 BEIN_SPORT12,tvbus://4MqBfewDm9TxYy8nCMVYC4MhKdgCsV9PTG5KrYZXzfF4TDhgZq
 天眼频道,#genre#
-国际空间站,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_290515513_3522421.m3u8
-四川熊猫基地 ,https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com/gc/xiongmao25_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8?contentid=2820180516001&AUTH=EWbqPX5amMUxL2KapN4PojjCv6Y3kLImyv4JB9phjgIhwCszcDyLyNooS5TQjhxk9JhHTXU+qF3B2DqF9U/PJA==
+国际空间站,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_290515513_3522421.m3u8##https://d1--cn-gotcha04.bilivideo.com/live-bvc/900612/live_19193_2186291.flv?cdn=cn-gotcha04&expires=1587025417&len=0&oi=1902365028&pt=web&qn=10000&trid=4eb7c98e0dde4215916804c7fb12c544&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=a6128224c09369b7b660e59bf84a88e4&ptype=0&platform=web&pSession=tfrjwjR0-YzhZ-4wiZ-EebN-S3pGmGE2yTT2
+ 四川熊猫基地 ,https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com/gc/xiongmao25_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8?contentid=2820180516001&AUTH=EWbqPX5amMUxL2KapN4PojjCv6Y3kLImyv4JB9phjgIhwCszcDyLyNooS5TQjhxk9JhHTXU+qF3B2DqF9U/PJA==
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 国家游泳中心（水立方）,https://gctxyc.liveplay.myqcloud.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
 深圳世界之窗,https://gctxyc.liveplay.myqcloud.com/gc/sjzc01_1/index.m3u8?contentid=2820180516001
