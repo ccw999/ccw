@@ -139,6 +139,10 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 深圳DV,rtsp://183.59.156.50/PLTV/88888895/224/3221226774/00000100000000060000000000338632_0.smil?icpid=88888888
 深圳气象,rtsp://183.59.156.50/PLTV/88888895/224/3221227359/10000100000000060000000003547162_0.smil?icpid=88888888
 茶频道HD,rtsp://183.59.156.50/PLTV/88888895/224/3221228357/10000100000000060000000007978301_0.smil?icpid=88888888
+厦门一套,http://112.50.243.8/PLTV/88888888/224/3221226814/3.m3u8
+厦门二套,http://112.50.243.8/PLTV/88888888/224/3221226777/3.m3u8
+厦门三套,http://112.50.243.8/PLTV/88888888/224/3221226760/3.m3u8
+厦门四套,http://112.50.243.8/PLTV/88888888/224/3221226764/3.m3u8
 港澳頻道,#genre#
 J2,P2p://47.115.141.24:39956/5e960718000f1fa34e3fc03b35cf5d43
 无线新闻台,P2p://47.115.141.24:39956/5e960718000e40994e3fc002d5098d20
@@ -619,6 +623,7 @@ BEIN_SPORT10,tvbus://4ai7HihdoTMZ1Vyprfk3ePYQugQ3d6aQff3axyk57f2pNYg49z
 BEIN_SPORT11,tvbus://4oGU3APwUghJ7JkdYP5MqegUBNy4Sa9cs6VMTPeihRYmQS2iRL
 BEIN_SPORT12,tvbus://4MqBfewDm9TxYy8nCMVYC4MhKdgCsV9PTG5KrYZXzfF4TDhgZq
 天眼频道,#genre#
+国际空间站,https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_290515513_3522421.m3u8
 四川熊猫基地 ,https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com/gc/xiongmao25_1/index.m3u8?contentid=2820180516001#https://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8?contentid=2820180516001&AUTH=EWbqPX5amMUxL2KapN4PojjCv6Y3kLImyv4JB9phjgIhwCszcDyLyNooS5TQjhxk9JhHTXU+qF3B2DqF9U/PJA==
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 国家游泳中心（水立方）,https://gctxyc.liveplay.myqcloud.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
