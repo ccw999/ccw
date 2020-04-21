@@ -148,98 +148,6 @@ FOX_SPORTS_3,tvbus://3h9WDkiGgWhPQECA8QZyqRT2xUtGv6uHd2LRav4Ss18NFcw7QD
 緯來精采臺,tvbus://4Kz3anJYc5QAu3T34Ay3joFKkZ1PnaKAnVpErybbH7tBtMXGfR
 國家地理高畫質野生頻道,tvbus://36Fg7bSpGV24d6cDRfvu8fybf8SVFZCSya3ikQ8SnCvc2qxpBK
 國家地理高畫質悠人頻道,tvbus://4akBFefbKyf45ELCVGn61ycqZw8Q9noYBGQqsQNCCuw1gaiJVu
-娜迦港台,#genre#
-翡翠臺,vjms://58.215.133.154:8500:3502/live/cid=362
-HBO台湾,vjms://58.215.133.189:8500:3502/live/cid=261#vjms://58.215.133.147:8500:3502/live/cid=261
-HBO原创,vjms://58.215.133.147:8500:3502/live/cid=436
-HBO强档,vjms://58.215.133.147:8500:3502/live/cid=238
-HBO温馨,vjms://58.215.133.147:8500:3502/live/cid=181
-国家地理,vjms://58.215.133.189:8500:3502/live/cid=115#vjms://58.215.133.147:8500:3502/live/cid=115
-国家地理野生,vjms://58.215.133.189:8500:3502/live/cid=263#vjms://58.215.133.147:8500:3502/live/cid=263
-探索科学,vjms://58.215.133.189:8500:3502/live/cid=457#vjms://58.215.133.147:8500:3502/live/cid=457
-探索亚洲,vjms://58.215.133.189:8500:3502/live/cid=440#vjms://58.215.133.147:8500:3502/live/cid=440
-纬来体育,vjms://58.215.133.189:8500:3502/live/cid=202#vjms://58.215.133.147:8500:3502/live/cid=202
-爱尔达体育,vjms://58.215.133.189:8500:3502/live/cid=266#vjms://58.215.133.147:8500:3502/live/cid=266
-FOX体育2台,vjms://58.215.133.189:8500:3502/live/cid=444#vjms://58.215.133.147:8500:3502/live/cid=444
-FOX体育3台,vjms://58.215.133.189:8500:3502/live/cid=95#vjms://58.215.133.147:8500:3502/live/cid=95
-民视,vjms://58.215.133.147:8500:3502/live/cid=450
-公视,vjms://58.215.133.147:8500:3502/live/cid=236
-三立都会,vjms://58.215.133.147:8500:3502/live/cid=226#vjms://122.155.180.8:8500:3502/live/cid=226
-三立新闻,vjms://58.215.133.147:8500:3502/live/cid=352
-年代新闻,vjms://58.215.133.147:8500:3502/live/cid=455
-东森新闻,vjms://58.215.133.147:8500:3502/live/cid=340#vjms://122.155.180.8:8500:3502/live/cid=340
-东森財經,vjms://58.215.133.147:8500:3502/live/cid=456
-TVBS新闻,vjms://58.215.133.147:8500:3502/live/cid=348#vjms://122.155.180.8:8500:3502/live/cid=348
-TVBS,vjms://58.215.133.147:8500:3502/live/cid=349
-壹新闻,vjms://122.155.180.8:8500:3502/live/cid=445
-中天新闻,vjms://58.215.133.147:8500:3502/live/cid=407
-年代MUCH,vjms://58.215.133.147:8500:3502/live/cid=439
-非凡新聞,vjms://58.215.133.147:8500:3502/live/cid=443
-八大第一,vjms://58.215.133.147:8500:3502/live/cid=441
-纬来戏剧,vjms://58.215.133.147:8500:3502/live/cid=137
-FOX电影,vjms://58.215.133.147:8500:3502/live/cid=94
-动物星球,vjms://58.215.133.189:8500:3502/live/cid=3#vjms://58.215.133.147:8500:3502/live/cid=3#vjms://58.215.133.189:8500:3502/live/cid=3
-TLC旅游生活,vjms://58.215.133.189:8500:3502/live/cid=103#vjms://58.215.133.147:8500:3502/live/cid=103
-迪士尼,vjms://58.215.133.189:8500:3502/live/cid=361#vjms://58.215.133.147:8500:3502/live/cid=361
-博斯高球,vjms://58.215.133.147:8500:3502/live/cid=265#vjms://58.215.133.189:8500:3502/live/cid=265
-AXN,vjms://58.215.133.189:8500:3502/live/cid=2#vjms://58.215.133.147:8500:3502/live/cid=2#vjms://23.237.115.1:8500:3502/live/cid=3622
-法國國際五台,vjms://58.215.133.147:8500:3502/live/cid=396
-法国时尚,vjms://58.215.133.147:8500:3502/live/cid=399#vjms://58.215.133.189:8500:3502/live/cid=399
-MTV,vjms://58.215.133.147:8500:3502/live/cid=52
-CNN(EN),vjms://58.215.133.147:8500:3502/live/cid=428
-CNBC,vjms://58.215.133.147:8500:3502/live/cid=98
-BBC,vjms://58.215.133.147:8500:3502/live/cid=418#vjms://58.215.133.189:8500:3502/live/cid=418
-日本洋片,vjms://58.215.133.161:8500:3502/live/cid=209#vjms://58.215.133.147:8500:3502/live/cid=209
-日本映画,vjms://58.215.133.147:8500:3502/live/cid=213
-KBS world,vjms://58.215.133.147:8500:3502/live/cid=216
-TBS news bird,vjms://58.215.133.147:8500:3502/live/cid=220
-NHK教育,vjms://58.215.133.161:8500:3502/live/cid=318#vjms://58.215.133.147:8500:3502/live/cid=310
-读卖新闻,vjms://58.215.133.161:8500:3502/live/cid=324#vjms://58.215.133.147:8500:3502/live/cid=324
-日本大阪,vjms://58.215.133.161:8500:3502/live/cid=322#vjms://58.215.133.147:8500:3502/live/cid=322
-NHK,vjms://58.215.133.147:8500:3502/live/cid=53
-日本super hits,vjms://58.215.133.147:8500:3502/live/cid=54
-日本钓鱼,vjms://58.215.133.147:8500:3502/live/cid=55
-日本FOX体育,vjms://58.215.133.147:8500:3502/live/cid=57
-日本BS,vjms://58.215.133.147:8500:3502/live/cid=58
-日本STAR2,vjms://58.215.133.147:8500:3502/live/cid=191
-日本STAR3,vjms://58.215.133.147:8500:3502/live/cid=193
-WOWOWライブ,vjms://58.215.133.147:8500:3502/live/cid=205
-日本棒球,vjms://58.215.133.147:8500:3502/live/cid=207
-history channel,vjms://58.215.133.147:8500:3502/live/cid=219
-NHK广岛放送,vjms://58.215.133.147:8500:3502/live/cid=301
-QVC,vjms://58.215.133.147:8500:3502/live/cid=302
-日野生,vjms://58.215.133.147:8500:3502/live/cid=303
-BS日本电视,vjms://58.215.133.147:8500:3502/live/cid=304
-BS-i,vjms://58.215.133.147:8500:3502/live/cid=305
-BS-Japan,vjms://58.215.133.147:8500:3502/live/cid=306
-BS-Fuji,vjms://58.215.133.147:8500:3502/live/cid=307
-BS朝日,vjms://58.215.133.147:8500:3502/live/cid=308
-NHK综合,vjms://58.215.133.147:8500:3502/live/cid=309
-东京MX,vjms://58.215.133.147:8500:3502/live/cid=311
-日本电视台,vjms://58.215.133.147:8500:3502/live/cid=312
-朝日电视台,vjms://58.215.133.147:8500:3502/live/cid=313
-东京电视台,vjms://58.215.133.147:8500:3502/live/cid=315
-富士电视台,vjms://58.215.133.147:8500:3502/live/cid=316
-每日放送,vjms://58.215.133.147:8500:3502/live/cid=319
-SAN电视台,vjms://58.215.133.147:8500:3502/live/cid=320
-ABC地面波,vjms://58.215.133.147:8500:3502/live/cid=321
-地面波,vjms://58.215.133.147:8500:3502/live/cid=323
-WOWOW电影,vjms://58.215.133.147:8500:3502/live/cid=325
-STAR CHANNEL(BS),vjms://58.215.133.147:8500:3502/live/cid=326
-GAORA,vjms://58.215.133.147:8500:3502/live/cid=413
-Green,vjms://58.215.133.147:8500:3502/live/cid=412
-GOLF NTWORK,vjms://58.215.133.147:8500:3502/live/cid=409
-Sports,vjms://58.215.133.147:8500:3502/live/cid=414
-sports1,vjms://58.215.133.147:8500:3502/live/cid=415
-Sports 2,vjms://58.215.133.147:8500:3502/live/cid=416
-Sports ESPN,vjms://58.215.133.147:8500:3502/live/cid=410
-FIGHTING TV,vjms://58.215.133.147:8500:3502/live/cid=408
-Sports Plus,vjms://58.215.133.147:8500:3502/live/cid=411
-Star channel,vjms://58.215.133.147:8500:3502/live/cid=494
-kids,vjms://58.215.133.147:8500:3502/live/cid=494
-Movie Plus,vjms://58.215.133.147:8500:3502/live/cid=497
-Family theather,vjms://58.215.133.147:8500:3502/live/cid=493
-Music Japan,vjms://58.215.133.147:8500:3502/live/cid=495
 央视地方,#genre#
 CCTV-1高清,rtsp://183.59.156.50/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPM6mos1IHjv1t7+cAii2qgw==:20200129225117,02040597503,10.171.93.178,20200129225117,02000000000000050000000000000152,7A47986FEA5275D617B07C7E2BF791D4
 CCTV-2高清测试,rtsp://183.59.156.50/PLTV/88888905/224/3221227634/10000100000000060000000004662503_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPcC0draa33m1PxBXOOpfMUQ==:20200129225117,02040597503,10.171.93.178,20200129225117,02000004000000052015041300000001,7A47986FEA5275D617B07C7E2BF791D4
@@ -1492,19 +1400,20 @@ A-Lin-别在伤口撒盐,http://hc.yinyuetai.com/uploads/videos/common/9BA7013A2
 姜玉阳-刻骨的温柔,http://cloud.video.taobao.com/play/u/1748679248/p/2/e/3/t/1/15883785.m3u8
 王心凌-我会好好的,http://hc.yinyuetai.com/uploads/videos/common/8153012D1E870D4F4CAB88333BD9FE16.flv
 VIP直播_12303,#genre#
-HAPPY 高清,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
-惊艳台 高清,mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
-彩虹电影 高清,mitv://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
-彩虹e台 高清,mitv://51.79.41.138:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
-彩虹k台 高清,mitv://51.79.41.138:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
-HOT星颜 高清,mitv://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
-松视1台 高清,mitv://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts#P2p://147.135.39.171:9906/5d62c8dc000a95e6bec2ed2671c30c59.ts 
-松视2台 高清,mitv://51.79.41.138:18912/5c18f8f7000d865dc0740e1426765941.ts.ts#P2p://147.135.39.171:9906/5d62c8dc000761bdbec2ec5b23fc6993.ts 
-松视3台 高清,mitv://51.79.41.138:18912/5c18f9020004cea3c07436da29307240.ts.ts#P2p://147.135.39.171:9906/5d62c8dc0005c991bec2ebed17f13bc8.ts 
-松視4臺,p4p://192.99.237.146:2000/5a85b246033eee091118f3a73f524e83.ts
-香蕉台 高清,mitv://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
-潘多拉粉红 高清,mitv://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
-潘多拉完美 高清,mitv://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
+潘朵拉粉红,tvbus://3Xzv7zESXKfyEXF5iRUf2RxmDdfX7L8CDq7mH5ZHjhForuMgzU#P2p://147.135.39.171:9906/5d62c8db000e6a46bec2ea382d07181c.ts
+潘朵拉玩美,tvbus://2xfUPprxyRbCVR9qxLJKxxwQxwK2dQwrv4YjYDDAqyBSER71hH#P2p://147.135.39.171:9906/5d62c8dc000429c3bec2eb801b3b6690.ts
+惊艳电影台,tvbus://3GYpc9npbBBeNCcdTEgh3rERKzoPAKajbXADb6ytaCStakHWf2#P2p://147.135.39.171:9906/5d62c8dc0002a0dabec2eb22406c4595.ts
+彩虹电影台,tvbus://3eHAagwkoYSW2TN8kmqAF8RTgKG9PKMkWeshKBMXTC4Swj4P8F#P2p://147.135.39.171:9906/5d62c8dc000df7d6bec2ee106b970539.ts
+彩虹e台,tvbus://3PxS6UCWkHgc13qEeP72gWJa9YJaMPtAsPVHpsR9dPQ8945s5R#P2p://147.135.39.171:9906/5d62c8de00004dc2bec2f2561bbf6705.ts
+彩虹K頻道,tvbus://45RuULzxf9PWt8YvJosWsvmpF2izUgBSLeFyQ588xZ4dvhSf4H#P2p://147.135.39.171:9906/5d62c8dc000c3d54bec2ed934ec424e9.ts
+香蕉台,tvbus://3vUe6MmwPF7hBU9Fg35Jgy5WpyeZLU9qu5QHPjYHmqxX6SH9iq#P2p://147.135.39.171:9906/5d62c8dc0001141fbec2eab562ef2540.ts
+松视1台,tvbus://4QjgGobbJMquDPuJXg3QZ98t5wun5yFQHH1fcAQN39Y451up2a#P2p://147.135.39.171:9906/5d62c8dc000a95e6bec2ed2671c30c59.ts
+松视2台,tvbus://3Fzm3Ya34TqqqbKrPYV7fVaxRnf2nBgUhqmqVJ4dUi5WDSxcEG#P2p://147.135.39.171:9906/5d62c8dc000761bdbec2ec5b23fc6993.ts
+松视3台,tvbus://4jtGC2sp8J5x7ZkBojM1pCd8EJ5GFW6WJsi9Q4ZrJu1PB6B6bp#P2p://147.135.39.171:9906/5d62c8dc0005c991bec2ebed17f13bc8.ts
+HOT,tvbus://4g9Vn3wdvRm26Hrw6d964aHhQXYNHHmhEAa7wTN9JeeU87SteQP2p://147.135.39.171:9906/5d62c8e400006876bec309d60e55105e.ts
+HAPPY,tvbus://3nxfaXNWhBgexhKPro8jkDQXNjdXcNY1xQ4iZoyQtjPo5rVGqX#P2p://147.135.39.171:9906/5d62c8dc0008e306bec2ecb910cd0c7b.ts
+Asian,tvbus://49v5cV2oc3uKRx3SzMFBZGhwyQzGDi6dsy91QEaBf8m6rfpGLb
+Latina,tvbus://3P6BjUDrqyspT8T7MFGnjczPbj5uvk1ogbbSarbqmTacZchGFG
 拉风台(高清),p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
 K频道 高清,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 红粉台 高清,p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
@@ -1527,12 +1436,6 @@ K频道 高清,p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 十三本道,p9p://192.95.32.107:9906/59222cfc000d44ad4e04e95e6dad6550&link=
 十四本道,p9p://192.95.32.107:9906/59222d1f00026ac94e056f4f15752758&link=
 十五本道,p9p://192.95.32.107:9906/59222d0e0007d49c4e052e4a57ce514b&link=
-Pandola 1HD,p2p://51.79.41.140:18912/5c18f905000c08fbc07444661e2e685e.ts
-Pandola HD,p2p://51.79.41.140:18912/5c18f9100006a3e2c0746e0708a009f7.ts
-奧視香蕉,p2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts
-奧視驚豔,p2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts
-Asian,tvbus://49v5cV2oc3uKRx3SzMFBZGhwyQzGDi6dsy91QEaBf8m6rfpGLb
-Latina,tvbus://3P6BjUDrqyspT8T7MFGnjczPbj5uvk1ogbbSarbqmTacZchGFG
 Jasmin TV,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8#http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8#http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 RedTraffic Big Ass,http://live.redtraffic.xyz/bigass.m3u8
 Super One HD,http://188.35.9.5:10007/stolen/246r/parasite.install
