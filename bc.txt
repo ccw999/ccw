@@ -152,8 +152,8 @@ CBN幸福剧场,rtsp://183.59.156.50/PLTV/88888905/224/3221229919/10000100000000
 河源综合【高清】,rtsp://183.58.12.204/PLTV/88888905/224/3221229944/10000100000000060000000010728104_0.smil?icpid=88888888
 河源公共【高清】,rtsp://183.58.12.204/PLTV/88888905/224/3221229906/10000100000000060000000010728105_0.smil?icpid=88888888
 海丰综合,https://www.wxhftv.com/hls/test.m3u8
-潮南1台,http://zjrtv.vip/live/?tv=gd&id=2444
-普宁台,http://106.13.68.56/dft/gdcd.php?id=gdjypn1
+潮南1台,http://zjrtv.vip/live/?tv=gd&id=2444#http://106.13.68.56/dlcs/dft.php?c=itouchtv&id=gdstcn1 
+普宁台,http://106.13.68.56/dlcs/dft.php?c=itouchtv&id=gdjypn1 
 揭阳公共,rtsp://183.59.156.50/PLTV/88888905/224/3221227753/10000100000000060000000004941374_0.smil?icpid=88888888
 揭阳综合,rtsp://183.59.156.50/PLTV/88888905/224/3221227797/10000100000000060000000004941375_0.smil?icpid=88888888
 汕头1新闻综合,rtsp://183.59.156.50/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
@@ -948,7 +948,7 @@ BEIN_SPORT12,tvbus://4MqBfewDm9TxYy8nCMVYC4MhKdgCsV9PTG5KrYZXzfF4TDhgZq
 雪乡梦幻家园,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
 嘉峪关长城,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
 轮播节目,#genre#
-儿歌大全,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_ergedaquan_1080p_t10/c15_lb_ergedaquan_1080p_t10.m3u8#
+经典港片,https://aldirect.rtmp.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.m3u8
 粤语专场,http://aldirect.rtmp.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
 周星驰电影,http://aldirect.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 藍光影視1臺,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
