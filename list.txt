@@ -11,8 +11,8 @@ RTHK32,tvbus://3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
 功夫台,tvbus://3UDxSDBsNf7wbYsxBLm5SuD3ZRXLavzGGRseREr62WmGuxBPUr
 now直播,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
 now新闻,tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
+新动力600news,tvbus://4ABsMPbeko2q2Tjk7rkTcPCN3iacBCL6sTh7tRPPn8zWqTu5V3
 香港開電視,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
-now sport prime,tvbus://3uEWvczEzfF8ZRzBh1YYaP76zdHhqw6ZMWqkBJCSedb4oXFt2S
 有線體育,tvbus://4i5jLEWEzxnQbezFuJRwgJTuVnRnAniDYC7WxeJLdskPhCTYvE
 有線18臺,tvbus://4JxHjvQYy8ejrj2dJYMurugKF1VV418b4k5yrSB2C4JNdVVMv1
 有線財經,tvbus://3WLtb7Fwsr5CRigDf6uK3mX83q3QXFXh6pBXum8Ebq58u1327W
