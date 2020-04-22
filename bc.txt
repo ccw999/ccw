@@ -1438,6 +1438,7 @@ A-Lin-别在伤口撒盐,http://hc.yinyuetai.com/uploads/videos/common/9BA7013A2
 VIP直播_12303,#genre#
 香蕉台,p2p://51.79.41.139:18912/5c18f9090004f8a058092fb69f8b260d.ts
 惊艳台,p2p://51.79.41.139:18912/5c18f9100006a3e216c73f0df5e8c139.ts
+极限电影台,tvbus://4YLeJUQrUNZmxGFLXCUwfyCG76knBfnkGPAz4SVy9kAEjdZsK3
 潘朵拉粉红,tvbus://3Xzv7zESXKfyEXF5iRUf2RxmDdfX7L8CDq7mH5ZHjhForuMgzU#P2p://147.135.39.171:9906/5d62c8db000e6a46bec2ea382d07181c.ts
 潘朵拉玩美,tvbus://2xfUPprxyRbCVR9qxLJKxxwQxwK2dQwrv4YjYDDAqyBSER71hH#P2p://147.135.39.171:9906/5d62c8dc000429c3bec2eb801b3b6690.ts
 惊艳电影台,tvbus://3GYpc9npbBBeNCcdTEgh3rERKzoPAKajbXADb6ytaCStakHWf2#P2p://147.135.39.171:9906/5d62c8dc0002a0dabec2eb22406c4595.ts
