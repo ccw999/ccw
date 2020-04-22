@@ -51,6 +51,7 @@ RTHK32,tvbus://3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
 J2,tvbus://3c1tFvPHXU177VNXDhV5xWzUkWNiowuUWVfyaEeq2u6n5xW5v2
 TVB星河,tvbus://2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
 香港開電視,tvbus://4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
+新动力600news,tvbus://4ABsMPbeko2q2Tjk7rkTcPCN3iacBCL6sTh7tRPPn8zWqTu5V3
 新时代1,tvbus://3cLTqDAbeYRqD4dPR4MGfTRcJCs7QK45GLgSwxTadmUuCJDW4D
 新时代2,tvbus://4Q236aRRFkHXbqgf7CewpzzT6Cq8BfjQWbPH4rnqWd1RTf7Mzq
 壹電視新聞臺,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw
