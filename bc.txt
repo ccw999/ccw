@@ -89,6 +89,9 @@ CCTV高尔夫网球,rtsp://183.59.156.50/PLTV/88888905/224/3221228351/1000010000
 佛山影视频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 佛山高明频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.m3u8
 佛山三水频道,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
+佛冈,http://zjrtv.vip/live/?tv=gd&id=2460
+阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
+阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
 广州综合,http://aplay.gztv.com/sec/zhonghe.m3u8
 广州新闻,http://aplay.gztv.com/sec/xinwen.m3u8
 广州影视,http://aplay.gztv.com/sec/yingshi.m3u8
@@ -110,7 +113,7 @@ CCTV高尔夫网球,rtsp://183.59.156.50/PLTV/88888905/224/3221228351/1000010000
 江门综合,rtsp://183.59.156.50/PLTV/88888905/224/3221228190/10000100000000060000000007511873_0.smil?icpid=88888888
 江门公共,rtsp://183.59.156.50/PLTV/88888905/224/3221228162/10000100000000060000000007511874_0.smil?icpid=88888888
 江门教育,rtsp://183.59.156.50/PLTV/88888905/224/3221228083/10000100000000060000000007511872_0.smil?icpid=88888888
-普宁台,http://106.13.68.56/dlcs/dft.php?c=itouchtv&id=gdjypn1 #rtmp://rtmp2.danghongyun.com:1935/live/2ybartbd_87587630e8904f55a1340789928bb7f8
+普宁台,http://zjrtv.vip/live/?tv=gd&id=2450 #rtmp://rtmp2.danghongyun.com:1935/live/2ybartbd_87587630e8904f55a1340789928bb7f8
 揭阳综合,rtsp://183.59.156.50//PLTV/88888905/224/3221227797/10000100000000060000000004941375_0.smil?icpid=88888888#http://livejieyang.chinamcache.com/live/zb01.m3u8#tvbus://7C8wtEjEFjRB1oEwuQmBcMuDqsUKwCkAgBAQfSETUascaiG1A9
 揭阳公共,rtsp://183.59.156.50//PLTV/88888905/224/3221227753/10000100000000060000000004941374_0.smil?icpid=88888888#http://livejieyang.chinamcache.com/live/zb02.flv#tvbus://7BMPCgL7CjYp6cMb9emrky5howTuJEq3k2BYe9EYhjivujKSv7
 汕头1新闻综合,rtsp://183.59.156.50/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=88888888
