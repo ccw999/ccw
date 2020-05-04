@@ -1,3 +1,7 @@
+import os
+import random
+
+def user_agent():
 USER_AGENTS = [
 "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrowser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
 "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)",
@@ -23,3 +27,8 @@ USER_AGENTS = [
 "Mozilla/5.0 (compatible; Yahoo! Slurp China; http://misc.yahoo.com.cn/help.html) ",
 "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp) ",
 ]
+total = len(user_agents)
+    which = random.randint(0, total - 1)
+    return user_agents[which]
+
+os.system("/usr/bin/chrome --user-agent='" + str(user_agent()) + "'")
