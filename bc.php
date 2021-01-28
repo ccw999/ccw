@@ -1,12 +1,4 @@
 中视,p5p://user3.shusongw.mobi:16871/5f3656bb000a656c3cbbfa6d262e3d24
-台视,p5p://user3.shusongw.mobi:16871/5f2e53b0000e6e031d70187e387dbafc
-台视,p5p://livefccs.looktvb.com:16888/5f3fb71e000ddc330a8e9e7fc4bee70f
-民视,p5p://user3.shusongw.mobi:16871/5d8f08b60007eeea22db58419a492c10
-民视,p5p://livefccs.looktvb.com:16888/5f3fb74c000f17db0a8f527f01927af8
-民视新闻,p5p://user3.shusongw.mobi:16871/5d1a69c50008f95211be20f5ac2747e5
-大爱,p5p://user3.shusongw.mobi:16871/5f375afe00016d0940b49dd9f3de224c
-大爱2,p5p://user3.shusongw.mobi:16871/5d1a69b8000386b311bdecc8d9c8c96a
-壹综合,p5p://user3.shusongw.mobi:16871/5d1a69b70007631411bde9dd9eaae997
 壹新闻,p5p://user3.shusongw.mobi:16871/5d1a69b6000b8d0a11bde706a99c146a
 TVBS HD,p5p://user3.shusongw.mobi:16871/5f2f921c0007177d224bec7d6634f95e
 TVBS新闻台,p5p://user3.shusongw.mobi:16871/5db05ca40003699da50b30c835589bf5
